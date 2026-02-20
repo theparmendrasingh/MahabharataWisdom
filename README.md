@@ -590,7 +590,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 <div align="center">
 
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/mahabharata-wisdom&type=Date)](https://star-history.com/#yourusername/mahabharata-wisdom&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=theparmendrasingh/MahabharataWisdom&type=Date)](https://star-history.com/#theparmendrasingh/MahabharataWisdom&Date)
 
 **If you find this project useful, please consider giving it a ⭐!**
 
