@@ -512,7 +512,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
 - [ ] AR character visualizations
 - [ ] Community features
 
-[📝 View Full Roadmap](https://github.com/yourusername/mahabharata-wisdom/projects/1)
+[📝 View Full Roadmap](https://github.com/theparmendrasingh/MahabharataWisdom/projects/1)
 
 ---
 
@@ -571,15 +571,15 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ### Join Our Community!
 
-[![GitHub Issues](https://img.shields.io/github/issues/yourusername/mahabharata-wisdom?style=for-the-badge)](https://github.com/yourusername/mahabharata-wisdom/issues)
-[![GitHub Stars](https://img.shields.io/github/stars/yourusername/mahabharata-wisdom?style=for-the-badge)](https://github.com/yourusername/mahabharata-wisdom/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/yourusername/mahabharata-wisdom?style=for-the-badge)](https://github.com/yourusername/mahabharata-wisdom/network)
+[![GitHub Issues](https://img.shields.io/github/issues/theparmendrasingh/MahabharataWisdom?style=for-the-badge)](https://github.com/theparmendrasingh/MahabharataWisdom/issues)
+[![GitHub Stars](https://img.shields.io/github/stars/theparmendrasingh/MahabharataWisdom?style=for-the-badge)](https://github.com/theparmendrasingh/MahabharataWisdom/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/theparmendrasingh/MahabharataWisdom?style=for-the-badge)](https://github.com/theparmendrasingh/MahabharataWisdom/network)
 
 ### Get Help
 
-- 🐛 [Report a Bug](https://github.com/yourusername/mahabharata-wisdom/issues/new?template=bug_report.md)
-- 💡 [Request a Feature](https://github.com/yourusername/mahabharata-wisdom/issues/new?template=feature_request.md)
-- 💬 [Start a Discussion](https://github.com/yourusername/mahabharata-wisdom/discussions)
+- 🐛 [Report a Bug](https://github.com/theparmendrasingh/MahabharataWisdom/issues/new?template=bug_report.md)
+- 💡 [Request a Feature](https://github.com/theparmendrasingh/MahabharataWisdom/issues/new?template=feature_request.md)
+- 💬 [Start a Discussion](https://github.com/theparmendrasingh/MahabharataWisdom/discussions)
 - 📧 [Email Support](mailto:support@mahabharatawisdom.app)
 
 </div>
