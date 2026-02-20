@@ -1,0 +1,3955 @@
+{
+  "characters": [
+    {
+      "id": 1,
+      "name": {
+        "en": "Krishna",
+        "hi": "कृष्ण"
+      },
+      "key_traits": {
+        "en": "Divine wisdom, Strategic mind, Compassion",
+        "hi": "दिव्य ज्ञान, रणनीतिक मन, करुणा"
+      },
+      "life_lesson": {
+        "en": "Strategy & Calm Mind - Face challenges with wisdom and composure",
+        "hi": "रणनीति और शांत मन - ज्ञान और संयम के साथ चुनौतियों का सामना करें"
+      },
+      "story": {
+        "en": "Lord Krishna, the eighth avatar of Vishnu, is the embodiment of divine wisdom and strategic brilliance. Throughout the Mahabharata, he serves as Arjuna's charioteer and guide, particularly during the pivotal Battle of Kurukshetra.\n\nWhen Arjuna faced a moral crisis on the battlefield, refusing to fight his own relatives, Krishna didn't force him or judge him. Instead, he calmly shared the teachings of the Bhagavad Gita, explaining dharma (duty), karma (action), and the eternal nature of the soul. His words transformed Arjuna's despair into clarity and determination.\n\nKrishna's strategy was never about brute force but about understanding the bigger picture. He knew when to act, when to wait, and when to speak. During the war, his tactical advice helped the Pandavas overcome seemingly impossible odds. Yet, he never fought himself, showing that true leadership is about empowering others.\n\nHis life teaches us that wisdom isn't about having all the answers immediately, but about maintaining calm in chaos, thinking strategically, and acting with compassion. Whether in personal relationships, professional challenges, or moral dilemmas, Krishna's approach reminds us to step back, observe, and respond with both heart and mind.",
+        "hi": "भगवान कृष्ण, विष्णु के आठवें अवतार, दिव्य ज्ञान और रणनीतिक प्रतिभा के अवतार हैं। महाभारत में, वे अर्जुन के सारथी और मार्गदर्शक के रूप में कार्य करते हैं, विशेष रूप से कुरुक्षेत्र के निर्णायक युद्ध के दौरान।\n\nजब अर्जुन युद्धभूमि पर नैतिक संकट का सामना कर रहे थे, अपने ही रिश्तेदारों से लड़ने से इनकार कर रहे थे, तब कृष्ण ने उन्हें मजबूर नहीं किया या उनका न्याय नहीं किया। इसके बजाय, उन्होंने शांति से भगवद गीता की शिक्षाओं को साझा किया, धर्म (कर्तव्य), कर्म (कार्य), और आत्मा की शाश्वत प्रकृति को समझाया। उनके शब्दों ने अर्जुन की निराशा को स्पष्टता और दृढ़ संकल्प में बदल दिया।\n\nकृष्ण की रणनीति कभी भी बल के बारे में नहीं थी बल्कि बड़ी तस्वीर को समझने के बारे में थी। वे जानते थे कि कब कार्य करना है, कब प्रतीक्षा करनी है, और कब बोलना है। युद्ध के दौरान, उनकी रणनीतिक सलाह ने पांडवों को असंभव बाधाओं को पार करने में मदद की। फिर भी, उन्होंने स्वयं कभी नहीं लड़ा, यह दिखाते हुए कि सच्चा नेतृत्व दूसरों को सशक्त बनाने के बारे में है।\n\nउनका जीवन हमें सिखाता है कि ज्ञान तुरंत सभी उत्तर रखने के बारे में नहीं है, बल्कि अराजकता में शांत रहने, रणनीतिक रूप से सोचने और करुणा के साथ कार्य करने के बारे में है। व्यक्तिगत संबंधों, पेशेवर चुनौतियों, या नैतिक दुविधाओं में, कृष्ण का दृष्टिकोण हमें याद दिलाता है कि पीछे हटें, निरीक्षण करें, और दिल और दिमाग दोनों के साथ प्रतिक्रिया दें।"
+      },
+      "shloka": {
+        "sanskrit": "योगस्थः कुरु कर्माणि सङ्गं त्यक्त्वा धनञ्जय। सिद्ध्यसिद्ध्योः समो भूत्वा समत्वं योग उच्यते॥",
+        "transliteration": "yogasthaḥ kuru karmāṇi saṅgaṁ tyaktvā dhanañjaya | siddhy-asiddhyoḥ samo bhūtvā samatvaṁ yoga ucyate ||",
+        "meaning": {
+          "en": "Perform your duty equipoised, O Arjuna, abandoning all attachment to success or failure. Such equanimity is called yoga.",
+          "hi": "हे अर्जुन, सफलता या असफलता की सभी आसक्ति को त्यागकर, समभाव में स्थित होकर अपने कर्तव्य का पालन करो। ऐसी समता को योग कहा जाता है।"
+        },
+        "reference": "Bhagavad Gita 2.48"
+      }
+    },
+    {
+      "id": 2,
+      "name": {
+        "en": "Arjuna",
+        "hi": "अर्जुन"
+      },
+      "key_traits": {
+        "en": "Skilled warrior, Humble learner, Dutiful",
+        "hi": "कुशल योद्धा, विनम्र शिक्षार्थी, कर्तव्यनिष्ठ"
+      },
+      "life_lesson": {
+        "en": "Doubt Before Growth - Questions lead to clarity and wisdom",
+        "hi": "विकास से पहले संदेह - प्रश्न स्पष्टता और ज्ञान की ओर ले जाते हैं"
+      },
+      "story": {
+        "en": "Arjuna, the greatest archer of his time and the third Pandava brother, represents the journey from confusion to clarity. Known for his dedication and skill, Arjuna's most profound moment came not in victory, but in doubt.\n\nOn the battlefield of Kurukshetra, surrounded by his family on both sides, Arjuna's bow slipped from his hands. The mighty warrior who had never hesitated before was paralyzed by a moral crisis. Should he fight his own cousins, teachers, and relatives for a kingdom? Was victory worth the price of his loved ones' blood?\n\nThis moment of doubt was not weakness—it was the beginning of wisdom. Arjuna asked questions, admitted his confusion, and sought guidance from Krishna. His willingness to acknowledge uncertainty led to the teachings of the Bhagavad Gita, one of humanity's greatest philosophical texts.\n\nThroughout his life, Arjuna showed that being a learner is more important than pretending to know everything. He asked questions during his training with Dronacharya, sought advice from Krishna, and remained humble despite his extraordinary abilities.\n\nArjuna's story teaches us that doubt is not the enemy of faith or action—it's the pathway to deeper understanding. The courage to question, to admit confusion, and to seek wisdom is what transforms us from merely skilled individuals into truly wise ones. Growth begins when we're brave enough to say, 'I don't know, help me understand.'",
+        "hi": "अर्जुन, अपने समय के महानतम धनुर्धर और तीसरे पांडव भाई, भ्रम से स्पष्टता की यात्रा का प्रतिनिधित्व करते हैं। अपनी समर्पण और कौशल के लिए जाने जाते हैं, अर्जुन का सबसे गहरा क्षण जीत में नहीं, बल्कि संदेह में आया।\n\nकुरुक्षेत्र के युद्धभूमि पर, दोनों तरफ अपने परिवार से घिरे हुए, अर्जुन का धनुष उनके हाथों से फिसल गया। वह शक्तिशाली योद्धा जिसने पहले कभी संकोच नहीं किया था, एक नैतिक संकट से पंगु हो गया। क्या उसे एक राज्य के लिए अपने चचेरे भाइयों, शिक्षकों और रिश्तेदारों से लड़ना चाहिए? क्या जीत अपने प्रियजनों के खून की कीमत के लायक थी?\n\nसंदेह का यह क्षण कमजोरी नहीं था - यह ज्ञान की शुरुआत थी। अर्जुन ने प्रश्न पूछे, अपनी भ्रम को स्वीकार किया, और कृष्ण से मार्गदर्शन मांगा। अनिश्चितता को स्वीकार करने की उनकी इच्छा ने भगवद गीता की शिक्षाओं को जन्म दिया, मानवता के सबसे महान दार्शनिक ग्रंथों में से एक।\n\nअपने पूरे जीवन में, अर्जुन ने दिखाया कि एक सीखने वाला होना सब कुछ जानने का दिखावा करने से अधिक महत्वपूर्ण है। उन्होंने द्रोणाचार्य के साथ अपने प्रशिक्षण के दौरान प्रश्न पूछे, कृष्ण से सलाह मांगी, और अपनी असाधारण क्षमताओं के बावजूद विनम्र रहे।\n\nअर्जुन की कहानी हमें सिखाती है कि संदेह विश्वास या कार्य का दुश्मन नहीं है - यह गहरी समझ का मार्ग है। प्रश्न करने, भ्रम स्वीकार करने, और ज्ञान खोजने का साहस ही हमें केवल कुशल व्यक्तियों से वास्तव में बुद्धिमान बनाता है। विकास तब शुरू होता है जब हम कहने के लिए पर्याप्त बहादुर होते हैं, 'मुझे नहीं पता, मुझे समझने में मदद करो।'"
+      },
+      "shloka": {
+        "sanskrit": "कार्पण्यदोषोपहतस्वभावः पृच्छामि त्वां धर्मसम्मूढचेताः। यच्छ्रेयः स्यान्निश्चितं ब्रूहि तन्मे शिष्यस्तेऽहं शाधि मां त्वां प्रपन्नम्॥",
+        "transliteration": "kārpaṇya-doṣopahata-svabhāvaḥ pṛcchāmi tvāṁ dharma-sammūḍha-cetāḥ | yac chreyaḥ syān niścitaṁ brūhi tan me śiṣyas te 'haṁ śādhi māṁ tvāṁ prapannam ||",
+        "meaning": {
+          "en": "My nature is overwhelmed by weakness and pity. My mind is confused about dharma. I ask you, tell me decisively what is best. I am your disciple; please instruct me who has taken shelter in you.",
+          "hi": "मेरा स्वभाव कमजोरी और दया से अभिभूत है। मेरा मन धर्म के बारे में भ्रमित है। मैं आपसे पूछता हूं, मुझे निश्चित रूप से बताएं कि क्या सबसे अच्छा है। मैं आपका शिष्य हूं; कृपया मुझे निर्देश दें जो आपकी शरण में आया है।"
+        },
+        "reference": "Bhagavad Gita 2.7"
+      }
+    },
+    {
+      "id": 3,
+      "name": {
+        "en": "Karna",
+        "hi": "कर्ण"
+      },
+      "key_traits": {
+        "en": "Loyal, Generous, Rejected by society",
+        "hi": "वफादार, उदार, समाज द्वारा अस्वीकृत"
+      },
+      "life_lesson": {
+        "en": "Loyalty vs Self-Worth - Stand by your values, but know your worth",
+        "hi": "वफादारी बनाम आत्म-सम्मान - अपने मूल्यों के साथ खड़े रहें, लेकिन अपनी कीमत जानें"
+      },
+      "story": {
+        "en": "Karna's life is a tragedy of loyalty, rejection, and unfulfilled potential. Born to Kunti before her marriage and abandoned in a river, he was raised by a charioteer couple. Despite being as skilled as Arjuna, Karna faced constant rejection because of his perceived low birth.\n\nWhen Dronacharya refused to teach him advanced archery, Karna learned from Parashurama by hiding his true identity. When he was cursed for this deception, he accepted it without bitterness. When the world mocked him, only Duryodhana offered him friendship and a kingdom—Anga.\n\nKarna's loyalty to Duryodhana became both his greatest strength and his fatal weakness. Even when Krishna revealed that he was Kunti's firstborn and the rightful eldest Pandava, even when his mother begged him to switch sides, Karna refused. 'Duryodhana gave me respect when the world gave me nothing,' he said.\n\nBut this loyalty came at a terrible cost. Karna fought for a cause he knew was unjust. He stood by a friend whose actions were wrong. His generosity was legendary—he would give anything to anyone who asked—but he couldn't give himself the gift of choosing the right path.\n\nKarna's story teaches us a nuanced lesson: loyalty is noble, but not when it requires us to betray our own conscience. True self-worth comes from within, not from the validation of others. Sometimes, the most loyal thing we can do is to be true to our values, even if it means walking away from those who gave us acceptance.",
+        "hi": "कर्ण का जीवन वफादारी, अस्वीकृति और अधूरी क्षमता की एक त्रासदी है। अपने विवाह से पहले कुंती से जन्मे और नदी में त्याग दिए गए, उन्हें एक सारथी जोड़े द्वारा पाला गया। अर्जुन जितना ही कुशल होने के बावजूद, कर्ण को अपने कथित निम्न जन्म के कारण निरंतर अस्वीकृति का सामना करना पड़ा।\n\nजब द्रोणाचार्य ने उन्हें उन्नत धनुर्विद्या सिखाने से इनकार कर दिया, तो कर्ण ने अपनी वास्तविक पहचान छिपाकर परशुराम से सीखा। जब उन्हें इस छल के लिए शाप मिला, तो उन्होंने इसे बिना कड़वाहट के स्वीकार किया। जब दुनिया ने उनका मजाक उड़ाया, केवल दुर्योधन ने उन्हें मित्रता और एक राज्य—अंग की पेशकश की।\n\nदुर्योधन के प्रति कर्ण की वफादारी उनकी सबसे बड़ी ताकत और उनकी घातक कमजोरी दोनों बन गई। जब कृष्ण ने खुलासा किया कि वह कुंती का पहला बेटा और सही मायने में सबसे बड़ा पांडव था, जब उनकी मां ने उन्हें पक्ष बदलने के लिए विनती की, तब भी कर्ण ने इनकार कर दिया। 'दुर्योधन ने मुझे सम्मान दिया जब दुनिया ने मुझे कुछ नहीं दिया,' उन्होंने कहा।\n\nलेकिन यह वफादारी एक भयानक कीमत पर आई। कर्ण ने एक ऐसे कारण के लिए लड़ाई लड़ी जिसे वह जानता था कि गलत था। वह एक ऐसे दोस्त के साथ खड़े रहे जिसके कार्य गलत थे। उनकी उदारता प्रसिद्ध थी - वह किसी को भी कुछ भी देते थे जो मांगता था - लेकिन वह खुद को सही रास्ता चुनने का उपहार नहीं दे सके।\n\nकर्ण की कहानी हमें एक सूक्ष्म सबक सिखाती है: वफादारी महान है, लेकिन तब नहीं जब यह हमें अपने विवेक को धोखा देने की मांग करती है। सच्चा आत्म-सम्मान भीतर से आता है, दूसरों की मान्यता से नहीं। कभी-कभी, हम जो सबसे वफादार चीज कर सकते हैं वह है अपने मूल्यों के प्रति सच्चे रहना, भले ही इसका मतलब उन लोगों से दूर जाना हो जिन्होंने हमें स्वीकृति दी।"
+      },
+      "shloka": {
+        "sanskrit": "दानेन तुल्यो न हि कर्णः कश्चित्",
+        "transliteration": "dānena tulyo na hi karṇaḥ kaścit",
+        "meaning": {
+          "en": "In generosity, none can be compared to Karna.",
+          "hi": "उदारता में, कोई भी कर्ण की तुलना नहीं कर सकता।"
+        },
+        "reference": "Mahabharata"
+      }
+    },
+    {
+      "id": 4,
+      "name": {
+        "en": "Bhishma",
+        "hi": "भीष्म"
+      },
+      "key_traits": {
+        "en": "Vow-keeper, Duty-bound, Sacrifice",
+        "hi": "प्रतिज्ञापालक, कर्तव्यनिष्ठ, त्याग"
+      },
+      "life_lesson": {
+        "en": "Duty & Sacrifice - Honor commitments, but question blind obedience",
+        "hi": "कर्तव्य और त्याग - प्रतिबद्धताओं का सम्मान करें, लेकिन अंध आज्ञाकारिता पर सवाल उठाएं"
+      },
+      "story": {
+        "en": "Bhishma, born as Devavrata, took the most terrible vow in history for his father's happiness. When King Shantanu fell in love with Satyavati, her father demanded that her children must inherit the throne. To ensure his father's marriage, Devavrata took two vows: he would never claim the throne, and he would remain celibate for life, ensuring no descendants. This extraordinary sacrifice earned him the name Bhishma—'one who takes a terrible vow.'\n\nBhishma's adherence to duty was absolute. He served the throne of Hastinapura through four generations, training both Kauravas and Pandavas. He was known as the most righteous man of his time, someone who never broke his word.\n\nYet this same righteousness became his greatest moral failure. When Draupadi was humiliated in the royal court, Bhishma sat silent, bound by his vow to serve the throne. When he knew Duryodhana was wrong, he still fought for him in the war because of his oath of loyalty to Hastinapura.\n\nLying on his bed of arrows, waiting for an auspicious time to die, Bhishma reflected on his life. He realized that his commitment to duty had sometimes blinded him to dharma—the higher moral law. Following rules is important, but not when those rules perpetuate injustice.\n\nBhishma's legacy teaches us that sacrifice and duty are noble, but wisdom lies in knowing when to question the very structures we've pledged to uphold. True righteousness sometimes requires us to break our own rules for a higher moral purpose.",
+        "hi": "भीष्म, देववृत के रूप में जन्मे, ने अपने पिता की खुशी के लिए इतिहास में सबसे भयानक प्रतिज्ञा ली। जब राजा शांतनु सत्यवती से प्यार में पड़ गए, तो उसके पिता ने मांग की कि उसके बच्चे सिंहासन के वारिस होंगे। अपने पिता के विवाह को सुनिश्चित करने के लिए, देववृत ने दो प्रतिज्ञाएं लीं: वह कभी सिंहासन का दावा नहीं करेंगे, और वह जीवन भर ब्रह्मचारी रहेंगे, कोई वंशज नहीं सुनिश्चित करते हुए। इस असाधारण बलिदान ने उन्हें भीष्म नाम दिया - 'जो एक भयानक प्रतिज्ञा लेता है।'\n\nभीष्म का कर्तव्य के प्रति पालन पूर्ण था। उन्होंने चार पीढ़ियों के माध्यम से हस्तिनापुर के सिंहासन की सेवा की, कौरवों और पांडवों दोनों को प्रशिक्षित किया। वे अपने समय के सबसे धर्मी व्यक्ति के रूप में जाने जाते थे, कोई ऐसा जो कभी अपने वचन को नहीं तोड़ता।\n\nफिर भी यही धार्मिकता उनकी सबसे बड़ी नैतिक विफलता बन गई। जब द्रौपदी का राजदरबार में अपमान किया गया, तो भीष्म चुप बैठे रहे, सिंहासन की सेवा करने की अपनी प्रतिज्ञा से बंधे हुए। जब वे जानते थे कि दुर्योधन गलत था, फिर भी उन्होंने हस्तिनापुर के प्रति अपनी वफादारी की शपथ के कारण युद्ध में उसके लिए लड़ाई लड़ी।\n\nअपने बाणों की शैया पर लेटे हुए, मरने के लिए एक शुभ समय का इंतजार करते हुए, भीष्म ने अपने जीवन पर विचार किया। उन्होंने महसूस किया कि कर्तव्य के प्रति उनकी प्रतिबद्धता ने कभी-कभी उन्हें धर्म - उच्चतर नैतिक कानून के प्रति अंधा कर दिया था। नियमों का पालन करना महत्वपूर्ण है, लेकिन तब नहीं जब वे नियम अन्याय को बढ़ावा देते हैं।\n\nभीष्म की विरासत हमें सिखाती है कि बलिदान और कर्तव्य महान हैं, लेकिन ज्ञान यह जानने में निहित है कि उन संरचनाओं पर कब सवाल उठाना है जिन्हें हमने बनाए रखने का वचन दिया है। सच्ची धार्मिकता कभी-कभी हमें एक उच्चतर नैतिक उद्देश्य के लिए अपने स्वयं के नियमों को तोड़ने की आवश्यकता होती है।"
+      },
+      "shloka": {
+        "sanskrit": "धर्मे च अर्थे च कामे च मोक्षे च भरतर्षभ। यदिहास्ति तदन्यत्र यन्नेहास्ति न तत्क्वचित्॥",
+        "transliteration": "dharme ca arthe ca kāme ca mokṣe ca bharatarṣabha | yad ihāsti tad anyatra yan nehāsti na tat kvacit ||",
+        "meaning": {
+          "en": "O best of the Bharatas! Whatever relates to dharma, artha, kama, and moksha is found here. What is not here is found nowhere.",
+          "hi": "हे भरत श्रेष्ठ! धर्म, अर्थ, काम और मोक्ष से संबंधित जो कुछ भी है वह यहां पाया जाता है। जो यहां नहीं है वह कहीं नहीं पाया जाता।"
+        },
+        "reference": "Mahabharata, Adi Parva"
+      }
+    },
+    {
+      "id": 5,
+      "name": {
+        "en": "Draupadi",
+        "hi": "द्रौपदी"
+      },
+      "key_traits": {
+        "en": "Fierce, Resilient, Uncompromising",
+        "hi": "उग्र, लचीला, समझौता न करने वाली"
+      },
+      "life_lesson": {
+        "en": "Dignity & Justice - Stand up for yourself; never accept humiliation",
+        "hi": "गरिमा और न्याय - अपने लिए खड़े हों; कभी अपमान स्वीकार न करें"
+      },
+      "story": {
+        "en": "Draupadi, born from fire, was unlike any woman of her era. Married to all five Pandava brothers through unusual circumstances, she navigated a complex life with grace and strength. But her defining moment came during the darkest hour of her life.\n\nIn the royal court of Hastinapura, Draupadi was dragged by her hair by Dushasana on Duryodhana's orders after Yudhishthira lost her in a game of dice. As the Kauravas attempted to disrobe her publicly, the entire court—including the venerable Bhishma and Drona—sat in silence. Not a single man rose to defend her honor.\n\nBut Draupadi did not remain silent. Even in her darkest moment, she questioned them all. 'How can elders who claim to uphold dharma sit quietly while a woman is humiliated?' she demanded. Her questions exposed the moral bankruptcy of those who chose protocol over justice.\n\nKrishna saved her dignity by providing an endless stream of cloth, but Draupadi never forgot the humiliation. She vowed not to tie her hair until it was washed with Dushasana's blood—a vow that ultimately led to the Kurukshetra war.\n\nDraupadi's story teaches us that silence in the face of injustice is complicity. She shows us that demanding respect is not arrogance—it's self-worth. Her refusal to forgive or forget wasn't about vengeance; it was about ensuring that such injustice would never happen again. Sometimes, the most powerful thing we can do is refuse to accept humiliation and demand the justice we deserve.",
+        "hi": "द्रौपदी, अग्नि से जन्मी, अपने युग की किसी भी महिला से अलग थीं। असामान्य परिस्थितियों में सभी पांच पांडव भाइयों से विवाहित, उन्होंने अनुग्रह और शक्ति के साथ एक जटिल जीवन को नेविगेट किया। लेकिन उनका निर्णायक क्षण उनके जीवन के सबसे अंधेरे घंटे के दौरान आया।\n\nहस्तिनापुर के राजदरबार में, द्रौपदी को दुर्योधन के आदेश पर दुःशासन द्वारा उनके बालों से घसीटा गया जब युधिष्ठिर ने उन्हें पासे के खेल में हार गया। जैसे ही कौरवों ने उन्हें सार्वजनिक रूप से नग्न करने का प्रयास किया, पूरी अदालत - भीष्म और द्रोण सहित - मौन में बैठी रही। एक भी आदमी उनकी इज्जत बचाने के लिए नहीं उठा।\n\nलेकिन द्रौपदी चुप नहीं रहीं। अपने सबसे अंधेरे क्षण में भी, उन्होंने उन सभी से सवाल किया। 'धर्म को बनाए रखने का दावा करने वाले बड़े चुपचाप कैसे बैठ सकते हैं जब एक महिला का अपमान किया जा रहा है?' उन्होंने मांग की। उनके सवालों ने उन लोगों की नैतिक दिवालियापन को उजागर किया जिन्होंने न्याय पर प्रोटोकॉल को चुना।\n\nकृष्ण ने कपड़े की अंतहीन धारा प्रदान करके उनकी गरिमा बचाई, लेकिन द्रौपदी ने कभी अपमान नहीं भुलाया। उन्होंने अपने बालों को तब तक नहीं बांधने की प्रतिज्ञा ली जब तक कि इसे दुःशासन के खून से धोया न जाए - एक प्रतिज्ञा जो अंततः कुरुक्षेत्र युद्ध का कारण बनी।\n\nद्रौपदी की कहानी हमें सिखाती है कि अन्याय के सामने मौन साझीदारी है। वह हमें दिखाती है कि सम्मान की मांग करना अभिमान नहीं है - यह आत्म-सम्मान है। उनका क्षमा करने या भूलने से इनकार प्रतिशोध के बारे में नहीं था; यह सुनिश्चित करने के बारे में था कि ऐसा अन्याय फिर कभी नहीं होगा। कभी-कभी, हम जो सबसे शक्तिशाली काम कर सकते हैं वह है अपमान को स्वीकार करने से इनकार करना और हमें जो न्याय मिलना चाहिए उसकी मांग करना।"
+      },
+      "shloka": {
+        "sanskrit": "न जातु कामान्न भयान्न लोभाद् धर्मं त्यजेयं प्राणैरपि",
+        "transliteration": "na jātu kāmān na bhayān na lobhād dharmaṁ tyajeyaṁ prāṇair api",
+        "meaning": {
+          "en": "Never shall I forsake dharma, neither for desire, nor for fear, nor for greed—not even for life itself.",
+          "hi": "मैं कभी धर्म को नहीं छोड़ूंगी, न इच्छा के लिए, न भय के लिए, न लालच के लिए - यहां तक कि जीवन के लिए भी नहीं।"
+        },
+        "reference": "Mahabharata"
+      }
+    },
+    {
+      "id": 6,
+      "name": {
+        "en": "Yudhishthira",
+        "hi": "युधिष्ठिर"
+      },
+      "key_traits": {
+        "en": "Truthful, Righteous, Indecisive",
+        "hi": "सत्यवादी, धार्मिक, अनिर्णायक"
+      },
+      "life_lesson": {
+        "en": "Truth & Consequences - Honesty is vital, but wisdom guides when to speak",
+        "hi": "सत्य और परिणाम - ईमानदारी महत्वपूर्ण है, लेकिन ज्ञान मार्गदर्शन करता है कि कब बोलना है"
+      },
+      "story": {
+        "en": "Yudhishthira, the eldest Pandava, was known as Dharmaraja—the king of righteousness. He never spoke a lie, followed every rule, and embodied the ideal of moral living. Yet this same unwavering adherence to truth led to some of his greatest failures.\n\nWhen challenged to a game of dice by his cousin Duryodhana, Yudhishthira knew it was a trap. His brothers begged him not to play. But bound by the kshatriya code that a warrior cannot refuse a challenge, he played—and lost everything: his kingdom, his brothers, and even his wife Draupadi, leading to her public humiliation.\n\nDuring the war, when Drona seemed invincible, Krishna devised a strategy. They spread the rumor that Drona's son Ashwatthama had died (it was actually an elephant with the same name). When Drona asked Yudhishthira if this was true, he replied, 'Ashwatthama is dead'—then added in a whisper, 'the elephant.' This half-truth, though necessary to win the war, troubled Yudhishthira for the rest of his life.\n\nAt the gates of heaven, Yudhishthira faced his final test. He could enter heaven immediately, but his dog (actually Dharma in disguise) couldn't come. Yudhishthira refused heaven rather than abandon a faithful companion—showing that true dharma is about compassion, not rigid rules.\n\nYudhishthira's journey teaches us that truth and righteousness are essential, but they must be tempered with wisdom and compassion. Being honest doesn't mean being inflexible. Sometimes, the greater truth lies in understanding context, consequences, and the spirit of dharma rather than its letter.",
+        "hi": "युधिष्ठिर, सबसे बड़े पांडव, धर्मराज के रूप में जाने जाते थे - धार्मिकता के राजा। उन्होंने कभी झूठ नहीं बोला, हर नियम का पालन किया, और नैतिक जीवन के आदर्श का प्रतीक थे। फिर भी सत्य के प्रति यही अटल पालन उनकी कुछ सबसे बड़ी विफलताओं का कारण बना।\n\nजब उनके चचेरे भाई दुर्योधन ने उन्हें पासे के खेल की चुनौती दी, तो युधिष्ठिर जानते थे कि यह एक जाल था। उनके भाइयों ने उन्हें न खेलने के लिए विनती की। लेकिन क्षत्रिय संहिता से बंधे हुए कि एक योद्धा चुनौती से इनकार नहीं कर सकता, उन्होंने खेला - और सब कुछ खो दिया: अपना राज्य, अपने भाइयों, और यहां तक कि अपनी पत्नी द्रौपदी, जिससे उनका सार्वजनिक अपमान हुआ।\n\nयुद्ध के दौरान, जब द्रोण अजेय लग रहे थे, तो कृष्ण ने एक रणनीति तैयार की। उन्होंने अफवाह फैलाई कि द्रोण का बेटा अश्वत्थामा मर गया था (यह वास्तव में एक हाथी था जिसका नाम वही था)। जब द्रोण ने युधिष्ठिर से पूछा कि क्या यह सच है, तो उन्होंने उत्तर दिया, 'अश्वत्थामा मर गया है' - फिर फुसफुसाते हुए जोड़ा, 'हाथी।' यह आधा सत्य, हालांकि युद्ध जीतने के लिए आवश्यक था, युधिष्ठिर को अपने शेष जीवन के लिए परेशान किया।\n\nस्वर्ग के द्वार पर, युधिष्ठिर ने अपनी अंतिम परीक्षा का सामना किया। वे तुरंत स्वर्ग में प्रवेश कर सकते थे, लेकिन उनका कुत्ता (वास्तव में भेष में धर्म) नहीं आ सकता था। युधिष्ठिर ने एक वफादार साथी को छोड़ने के बजाय स्वर्ग को अस्वीकार कर दिया - यह दिखाते हुए कि सच्चा धर्म करुणा के बारे में है, कठोर नियमों के बारे में नहीं।\n\nयुधिष्ठिर की यात्रा हमें सिखाती है कि सत्य और धार्मिकता आवश्यक हैं, लेकिन उन्हें ज्ञान और करुणा के साथ समशीतोष्ण होना चाहिए। ईमानदार होने का मतलब अनम्य होना नहीं है। कभी-कभी, बड़ा सत्य संदर्भ, परिणामों, और धर्म की भावना को समझने में निहित है न कि इसके पत्र में।"
+      },
+      "shloka": {
+        "sanskrit": "सत्यमेव जयते नानृतम्",
+        "transliteration": "satyam eva jayate nānṛtam",
+        "meaning": {
+          "en": "Truth alone triumphs, not falsehood.",
+          "hi": "सत्य ही जीतता है, झूठ नहीं।"
+        },
+        "reference": "Mundaka Upanishad 3.1.6"
+      }
+    },
+    {
+      "id": 7,
+      "name": {
+        "en": "Duryodhana",
+        "hi": "दुर्योधन"
+      },
+      "key_traits": {
+        "en": "Ambitious, Jealous, Prideful",
+        "hi": "महत्वाकांक्षी, ईर्ष्यालु, अभिमानी"
+      },
+      "life_lesson": {
+        "en": "Envy & Pride - Comparison breeds misery; define success on your own terms",
+        "hi": "ईर्ष्या और अभिमान - तुलना दुख पैदा करती है; अपनी शर्तों पर सफलता को परिभाषित करें"
+      },
+      "story": {
+        "en": "Duryodhana was not born evil—he became consumed by envy. As the eldest Kaurava prince, he had everything: a kingdom, wealth, training from the best teachers, and a loving father. Yet he could not enjoy any of it because he was constantly comparing himself to his cousins, the Pandavas.\n\nWhen the Pandavas built Indraprastha into a magnificent kingdom, Duryodhana couldn't bear it. The famous incident of the palace of illusions—where he mistook a glass floor for water and fell into actual water, while Draupadi laughed—humiliated him deeply. This incident, minor in the grand scheme, became the seed of his obsessive hatred.\n\nDuryodhana had genuine qualities. He was an excellent mace fighter, a loyal friend to Karna, and brave in battle. But his inability to find contentment in his own blessings turned these strengths into tools of destruction. His pride wouldn't let him share the kingdom peacefully, even when Krishna offered to mediate.\n\n'I will not give them even as much land as can be covered by the point of a needle,' he declared—a statement that would cost millions of lives in the war.\n\nEven Krishna acknowledged Duryodhana's adherence to his dharma as a warrior. On his deathbed, lying with crushed thighs, Duryodhana had no regrets about his choices, saying, 'I lived as a king, I die as a warrior.'\n\nDuryodhana's tragedy teaches us that success measured by comparison is never satisfying. When we constantly measure ourselves against others, we lose sight of our own worth. True happiness comes from defining success on our own terms, not from beating others or proving ourselves superior.",
+        "hi": "दुर्योधन दुष्ट पैदा नहीं हुआ था - वह ईर्ष्या से भस्म हो गया। सबसे बड़े कौरव राजकुमार के रूप में, उसके पास सब कुछ था: एक राज्य, धन, सर्वश्रेष्ठ शिक्षकों से प्रशिक्षण, और एक प्यार करने वाले पिता। फिर भी वह इसमें से किसी का भी आनंद नहीं ले सकता था क्योंकि वह लगातार अपने चचेरे भाइयों, पांडवों से अपनी तुलना कर रहा था।\n\nजब पांडवों ने इंद्रप्रस्थ को एक शानदार राज्य में बनाया, तो दुर्योधन इसे सहन नहीं कर सका। भ्रम के महल की प्रसिद्ध घटना - जहां उसने कांच के फर्श को पानी समझ लिया और वास्तविक पानी में गिर गया, जबकि द्रौपदी हंस रही थी - ने उसे गहराई से अपमानित किया। यह घटना, भव्य योजना में मामूली, उसकी जुनूनी नफरत का बीज बन गई।\n\nदुर्योधन में वास्तविक गुण थे। वह एक उत्कृष्ट गदा योद्धा था, कर्ण के लिए एक वफादार दोस्त था, और युद्ध में बहादुर था। लेकिन अपने स्वयं के आशीर्वादों में संतुष्टि खोजने में उसकी अक्षमता ने इन शक्तियों को विनाश के उपकरणों में बदल दिया। उसका अभिमान उसे राज्य को शांतिपूर्वक साझा करने नहीं देता, तब भी जब कृष्ण ने मध्यस्थता करने की पेशकश की।\n\n'मैं उन्हें सुई की नोक से ढकी जितनी जमीन भी नहीं दूंगा,' उसने घोषणा की - एक बयान जो युद्ध में लाखों जिंदगियों की कीमत चुकाएगा।\n\nयहां तक कि कृष्ण ने एक योद्धा के रूप में दुर्योधन के अपने धर्म के पालन को स्वीकार किया। अपनी मृत्यु शैया पर, कुचली हुई जांघों के साथ लेटे हुए, दुर्योधन को अपने विकल्पों का कोई पछतावा नहीं था, यह कहते हुए, 'मैं एक राजा के रूप में जीया, मैं एक योद्धा के रूप में मरता हूं।'\n\nदुर्योधन की त्रासदी हमें सिखाती है कि तुलना से मापी गई सफलता कभी संतोषजनक नहीं होती। जब हम लगातार अपने आप को दूसरों के खिलाफ मापते हैं, तो हम अपने स्वयं के मूल्य की दृष्टि खो देते हैं। सच्ची खुशी अपनी शर्तों पर सफलता को परिभाषित करने से आती है, दूसरों को हराने या खुद को श्रेष्ठ साबित करने से नहीं।"
+      },
+      "shloka": {
+        "sanskrit": "सुखं हि दुःखानि च एवमेव ज्ञात्वा समत्वं परमं भजस्व",
+        "transliteration": "sukhaṁ hi duḥkhāni ca evam eva jñātvā samatvaṁ paramaṁ bhajasva",
+        "meaning": {
+          "en": "Knowing that happiness and sorrow are alike, embrace equanimity as the highest virtue.",
+          "hi": "यह जानते हुए कि सुख और दुख समान हैं, समानता को सर्वोच्च गुण के रूप में अपनाएं।"
+        },
+        "reference": "Bhagavad Gita"
+      }
+    },
+    {
+      "id": 8,
+      "name": {
+        "en": "Abhimanyu",
+        "hi": "अभिमन्यु"
+      },
+      "key_traits": {
+        "en": "Brave, Young, Fearless",
+        "hi": "बहादुर, युवा, निर्भीक"
+      },
+      "life_lesson": {
+        "en": "Courage & Preparation - Bravery is admirable, but wisdom prepares for exit strategies",
+        "hi": "साहस और तैयारी - बहादुरी प्रशंसनीय है, लेकिन ज्ञान बाहर निकलने की रणनीतियों के लिए तैयार करता है"
+      },
+      "story": {
+        "en": "Abhimanyu, son of Arjuna and Subhadra, nephew of Krishna, was a young warrior of extraordinary courage. Even before his birth, while in his mother's womb, he learned the secret of entering the Chakravyuha—a complex military formation—by listening to Krishna explain it to Subhadra. But he never learned how to exit, as his mother fell asleep before Krishna could complete the explanation.\n\nDuring the Kurukshetra war, when the Kauravas formed the deadly Chakravyuha, none of the Pandavas except Arjuna knew how to break it, and Arjuna had been lured away. The Pandava army was helpless. That's when young Abhimanyu, barely sixteen, volunteered.\n\n'I know how to enter,' he said, 'but not how to exit.'\n\n'Don't worry,' his uncles assured him, 'we'll follow you in and protect you.'\n\nAbhimanyu entered the Chakravyuha with the fearlessness of youth. But the Kauravas blocked his uncles from following. Alone inside the formation, Abhimanyu fought with incredible valor, holding off multiple maharathis (great warriors) simultaneously. But eventually, surrounded and outnumbered, fighting against warriors who violated the rules of fair combat, the young hero was killed.\n\nHis death was one of the war's greatest tragedies—not just because of the loss of a brilliant young warrior, but because it represents the danger of incomplete preparation. Abhimanyu had courage in abundance, but he lacked the complete knowledge needed for survival.\n\nAbhimanyu's sacrifice teaches us that courage alone isn't enough. Before entering any challenge, we must ensure we know not just how to begin, but how to navigate difficulties and, if necessary, how to exit gracefully. True wisdom lies in preparation, not just in bravery.",
+        "hi": "अभिमन्यु, अर्जुन और सुभद्रा के पुत्र, कृष्ण के भतीजे, असाधारण साहस के एक युवा योद्धा थे। अपने जन्म से पहले भी, जब वह अपनी मां के गर्भ में थे, तो उन्होंने चक्रव्यूह में प्रवेश करने का रहस्य सीखा - एक जटिल सैन्य गठन - कृष्ण को इसे सुभद्रा को समझाते हुए सुनकर। लेकिन उन्होंने कभी बाहर निकलना नहीं सीखा, क्योंकि कृष्ण स्पष्टीकरण पूरा करने से पहले उनकी मां सो गई।\n\nकुरुक्षेत्र युद्ध के दौरान, जब कौरवों ने घातक चक्रव्यूह का गठन किया, तो अर्जुन के अलावा किसी भी पांडव को इसे तोड़ने का तरीका नहीं पता था, और अर्जुन को दूर लुभाया गया था। पांडव सेना असहाय थी। तभी युवा अभिमन्यु, मुश्किल से सोलह साल के, ने स्वयंसेवा की।\n\n'मुझे पता है कि कैसे प्रवेश करना है,' उन्होंने कहा, 'लेकिन कैसे बाहर निकलना है, यह नहीं।'\n\n'चिंता मत करो,' उनके चाचाओं ने उन्हें आश्वासन दिया, 'हम तुम्हारे पीछे आएंगे और तुम्हारी रक्षा करेंगे।'\n\nअभिमन्यु युवाओं की निर्भीकता के साथ चक्रव्यूह में प्रवेश किया। लेकिन कौरवों ने उसके चाचाओं को पीछे आने से रोक दिया। गठन के अंदर अकेले, अभिमन्यु ने अविश्वसनीय वीरता के साथ लड़ाई लड़ी, एक साथ कई महारथियों (महान योद्धाओं) को रोक दिया। लेकिन अंततः, घिरे हुए और संख्या में कम, उन योद्धाओं के खिलाफ लड़ते हुए जिन्होंने निष्पक्ष युद्ध के नियमों का उल्लंघन किया, युवा नायक मारा गया।\n\nउनकी मृत्यु युद्ध की सबसे बड़ी त्रासदियों में से एक थी - न केवल एक शानदार युवा योद्धा के नुकसान के कारण, बल्कि इसलिए कि यह अधूरी तैयारी के खतरे का प्रतिनिधित्व करता है। अभिमन्यु के पास प्रचुर मात्रा में साहस था, लेकिन उनके पास जीवित रहने के लिए आवश्यक पूर्ण ज्ञान की कमी थी।\n\nअभिमन्यु का बलिदान हमें सिखाता है कि अकेले साहस पर्याप्त नहीं है। किसी भी चुनौती में प्रवेश करने से पहले, हमें यह सुनिश्चित करना चाहिए कि हम न केवल शुरू करने के तरीके को जानते हैं, बल्कि कठिनाइयों को कैसे नेविगेट करना है और, यदि आवश्यक हो, तो सुंदर ढंग से बाहर निकलने के तरीके को जानते हैं। सच्चा ज्ञान तैयारी में निहित है, न कि केवल बहादुरी में।"
+      },
+      "shloka": {
+        "sanskrit": "वीराः न विजहति युद्धे",
+        "transliteration": "vīrāḥ na vijahati yuddhe",
+        "meaning": {
+          "en": "The brave never abandon the battlefield.",
+          "hi": "बहादुर कभी युद्धभूमि नहीं छोड़ते।"
+        },
+        "reference": "Mahabharata"
+      }
+    },{
+      "id": 9,
+      "name": { "en": "Bhima", "hi": "भीम" },
+      "key_traits": {
+        "en": "Strength, Fierce loyalty, Emotional intensity",
+        "hi": "बलशाली, प्रबल निष्ठा, भावनात्मक तीव्रता"
+      },
+      "life_lesson": {
+        "en": "Power must be guided by purpose; strength without dharma becomes destruction.",
+        "hi": "शक्ति को उद्देश्य द्वारा निर्देशित होना चाहिए; धर्म के बिना बल विनाश बन जाता है।"
+      },
+      "story": {
+        "en": "Bhima, the second Pandava, was the embodiment of raw strength and unfiltered emotion. Son of Vayu, the wind god, his physical might was unmatched in the epic. From childhood, his strength was both a blessing and a threat — especially to the Kauravas who feared him deeply. Duryodhana even attempted to poison and drown him, but Bhima survived, emerging stronger than before.\n\nUnlike Yudhishthira’s calm wisdom or Arjuna’s disciplined focus, Bhima represented righteous anger. He never forgot injustice. The humiliation of Draupadi burned in his heart like a vow carved in stone. He swore to break Duryodhana’s thigh and drink Dushasana’s blood — promises he fulfilled on the battlefield.\n\nYet Bhima was not merely a warrior of rage. His love for his mother Kunti, loyalty to his brothers, and affection toward his son Ghatotkacha reveal a deeply emotional man. His strength was always in service of family and justice.\n\nBhima teaches that anger, when aligned with dharma, can become a force for justice. But uncontrolled fury can destroy everything. His life is a reminder that strength must serve righteousness, not ego.",
+        "hi": "भीम, दूसरे पांडव, असाधारण बल और तीव्र भावनाओं के प्रतीक थे। वायु देव के पुत्र, उनकी शारीरिक शक्ति अतुलनीय थी। बचपन से ही उनकी शक्ति कौरवों के लिए भय का कारण थी। दुर्योधन ने उन्हें विष देकर मारने का प्रयास किया, परंतु भीम जीवित लौटे और और भी प्रबल बन गए।\n\nभीम ने द्रौपदी के अपमान को कभी नहीं भुलाया। उन्होंने दुर्योधन की जांघ तोड़ने और दुःशासन का रक्त पीने की प्रतिज्ञा की — और उसे पूरा किया।\n\nफिर भी, भीम केवल क्रोध के योद्धा नहीं थे। वे अपनी माता कुंती से अत्यंत प्रेम करते थे और अपने भाइयों के प्रति निष्ठावान थे।\n\nभीम सिखाते हैं कि धर्म से जुड़ा क्रोध न्याय बन सकता है, परंतु अनियंत्रित क्रोध विनाश।"
+      },
+      "shloka": {
+        "sanskrit": "बलवानपि न शोभते धर्मविहीनः",
+        "transliteration": "balavān api na śobhate dharma-vihīnaḥ",
+        "meaning": {
+          "en": "Even the strong do not shine without dharma.",
+          "hi": "धर्म के बिना बलवान भी शोभा नहीं पाता।"
+        },
+        "reference": "Mahabharata"
+      }
+    },
+    {
+      "id": 10,
+      "name": { "en": "Nakula", "hi": "नकुल" },
+      "key_traits": {
+        "en": "Graceful, Skilled swordsman, Humble",
+        "hi": "सौम्य, तलवारबाज़, विनम्र"
+      },
+      "life_lesson": {
+        "en": "Beauty and skill must be grounded in humility.",
+        "hi": "सौंदर्य और कौशल को विनम्रता में जड़ होना चाहिए।"
+      },
+      "story": {
+        "en": "Nakula, son of the Ashwini twins, was known for his unmatched beauty and mastery over swordsmanship and horses. Among the Pandavas, he was the quiet strength — rarely seeking attention, yet deeply dependable.\n\nThough often overshadowed by Bhima and Arjuna, Nakula never allowed comparison to breed insecurity. His humility was his true power. During exile, he served as a horse keeper in King Virata’s court, performing his duties without complaint.\n\nNakula teaches that greatness does not always roar. Sometimes it moves quietly, gracefully, and faithfully.",
+        "hi": "नकुल, अश्विनी कुमारों के पुत्र, सौंदर्य और तलवार विद्या के लिए प्रसिद्ध थे। वे पांडवों में शांत शक्ति थे।\n\nनिर्वासन के दौरान उन्होंने विराट के यहाँ घोड़े संभाले, बिना शिकायत अपने कर्तव्य निभाए।\n\nनकुल सिखाते हैं कि महानता हमेशा शोर नहीं करती; वह शांति में भी हो सकती है।"
+      },
+      "shloka": {
+        "sanskrit": "विनयः शोभते विद्याम्",
+        "transliteration": "vinayaḥ śobhate vidyām",
+        "meaning": {
+          "en": "Humility adorns knowledge.",
+          "hi": "विनम्रता ही विद्या की शोभा है।"
+        },
+        "reference": "Mahabharata"
+      }
+    },
+    {
+      "id": 11,
+      "name": { "en": "Sahadeva", "hi": "सहदेव" },
+      "key_traits": {
+        "en": "Wise, Astrologer, Silent thinker",
+        "hi": "ज्ञानी, ज्योतिषी, मौन चिंतक"
+      },
+      "life_lesson": {
+        "en": "Knowing the future does not always grant the power to change it.",
+        "hi": "भविष्य जानना उसे बदलने की शक्ति नहीं देता।"
+      },
+      "story": {
+        "en": "Sahadeva possessed profound wisdom and knowledge of astrology. It is said he knew the outcome of the war even before it began, yet remained silent due to a vow.\n\nHis life reflects the burden of knowledge. Wisdom sometimes requires restraint rather than speech.\n\nSahadeva teaches that intellect must serve timing and discretion.",
+        "hi": "सहदेव अत्यंत ज्ञानी थे और कहा जाता है कि वे युद्ध का परिणाम जानते थे। फिर भी उन्होंने मौन रखा।\n\nउनका जीवन दर्शाता है कि ज्ञान का भार भी होता है।\n\nसहदेव सिखाते हैं कि बुद्धि का उपयोग समय और विवेक से करना चाहिए।"
+      },
+      "shloka": {
+        "sanskrit": "ज्ञानं भारः यदि न संयमः",
+        "transliteration": "jñānaṁ bhāraḥ yadi na saṁyamaḥ",
+        "meaning": {
+          "en": "Knowledge becomes a burden without restraint.",
+          "hi": "संयम के बिना ज्ञान भार बन जाता है।"
+        },
+        "reference": "Mahabharata"
+      }
+    },
+    {
+      "id": 12,
+      "name": { "en": "Kunti", "hi": "कुंती" },
+      "key_traits": {
+        "en": "Resilient, Devoted mother, Spiritually strong",
+        "hi": "धैर्यवान, समर्पित माता, आध्यात्मिक रूप से दृढ़"
+      },
+      "life_lesson": {
+        "en": "Adversity refines faith and reveals inner strength.",
+        "hi": "विपत्ति आस्था को परिष्कृत करती है और आंतरिक शक्ति प्रकट करती है।"
+      },
+      "story": {
+        "en": "Kunti, mother of the Pandavas, endured suffering that few could bear. Before marriage, she invoked a divine mantra and gave birth to Karna, whom she had to abandon. This secret haunted her entire life.\n\nAfter Pandu’s death, she raised her sons alone, guiding them through exile, humiliation, and war. Her strength was not loud — it was enduring. She prayed not for comfort, but for challenges that kept her close to Krishna.\n\nKunti teaches that faith deepens through suffering, and motherhood is an act of silent heroism.",
+        "hi": "कुंती ने अपने जीवन में गहन पीड़ा सहन की। विवाह से पूर्व कर्ण को जन्म दिया और त्याग दिया — यह रहस्य उन्हें जीवनभर कचोटता रहा।\n\nपांडु की मृत्यु के बाद उन्होंने अकेले अपने पुत्रों का पालन किया।\n\nकुंती सिखाती हैं कि विपत्ति आस्था को मजबूत करती है।"
+      },
+      "shloka": {
+        "sanskrit": "विपदः सन्तु नः शश्वत्",
+        "transliteration": "vipadaḥ santu naḥ śaśvat",
+        "meaning": {
+          "en": "May difficulties come again and again, for they bring remembrance of the Divine.",
+          "hi": "विपत्तियाँ आती रहें, क्योंकि वे ईश्वर का स्मरण कराती हैं।"
+        },
+        "reference": "Bhagavata Purana"
+      }
+    },
+    {
+      "id": 13,
+      "name": { "en": "Gandhari", "hi": "गांधारी" },
+      "key_traits": {
+        "en": "Self-sacrificing, Loyal, Tragic mother",
+        "hi": "त्यागमयी, निष्ठावान, दुखद माता"
+      },
+      "life_lesson": {
+        "en": "Blind loyalty can lead to unintended destruction.",
+        "hi": "अंध निष्ठा अनचाहे विनाश का कारण बन सकती है।"
+      },
+      "story": {
+        "en": "Gandhari voluntarily blindfolded herself for life to share her husband Dhritarashtra’s blindness. Her sacrifice was immense, yet her silence toward her sons’ wrongdoings proved costly.\n\nAfter losing all hundred sons in war, her grief turned into a curse that even Krishna accepted.\n\nGandhari teaches that sacrifice without moral courage may fail to prevent injustice.",
+        "hi": "गांधारी ने अपने पति की अंधता साझा करने हेतु स्वयं पट्टी बांध ली।\n\nपरंतु पुत्रों के अन्याय पर मौन रहना विनाश का कारण बना।\n\nगांधारी सिखाती हैं कि त्याग के साथ नैतिक साहस भी आवश्यक है।"
+      },
+      "shloka": {
+        "sanskrit": "अधर्मेण जयः क्षणिकः",
+        "transliteration": "adharmeṇa jayaḥ kṣaṇikaḥ",
+        "meaning": {
+          "en": "Victory gained through adharma is temporary.",
+          "hi": "अधर्म से प्राप्त विजय क्षणिक होती है।"
+        },
+        "reference": "Mahabharata"
+      }
+    },
+    {
+      "id": 14,
+      "name": { "en": "Shakuni", "hi": "शकुनि" },
+      "key_traits": {
+        "en": "Strategic, Manipulative, Vengeful",
+        "hi": "चतुर, चालाक, प्रतिशोधी"
+      },
+      "life_lesson": {
+        "en": "Intelligence without integrity becomes manipulation.",
+        "hi": "ईमानदारी के बिना बुद्धि छल बन जाती है।"
+      },
+      "story": {
+        "en": "Shakuni, prince of Gandhara, was master of dice and deception. Driven by vengeance against Hastinapura, he manipulated Duryodhana and engineered the infamous dice game.\n\nHis cunning intellect altered the fate of kingdoms. Yet in the end, his schemes led to total destruction — including his own lineage.\n\nShakuni teaches that strategy without morality corrodes everything it touches.",
+        "hi": "शकुनि ने प्रतिशोध में दुर्योधन को भड़काया और पासे का कुख्यात खेल रचा।\n\nउनकी चालाकी ने राज्यों का भाग्य बदल दिया, पर अंततः सब कुछ नष्ट हो गया।\n\nशकुनि सिखाते हैं कि नैतिकता के बिना रणनीति विनाश है।"
+      },
+      "shloka": {
+        "sanskrit": "मायायाः फलम् विनाशः",
+        "transliteration": "māyāyāḥ phalam vināśaḥ",
+        "meaning": {
+          "en": "The fruit of deceit is destruction.",
+          "hi": "छल का फल विनाश है।"
+        },
+        "reference": "Mahabharata"
+      }
+    },
+    {
+      "id": 15,
+      "name": { "en": "Dronacharya", "hi": "द्रोणाचार्य" },
+      "key_traits": {
+        "en": "Master teacher, Bound by pride, Complex dharma",
+        "hi": "महान गुरु, अहंकार से बंधे, जटिल धर्म"
+      },
+      "life_lesson": {
+        "en": "Skill and knowledge must rise above favoritism and ego.",
+        "hi": "विद्या को पक्षपात और अहंकार से ऊपर होना चाहिए।"
+      },
+      "story": {
+        "en": "Drona was the supreme teacher of warfare, mentor to both Pandavas and Kauravas. Yet his demand for Ekalavya’s thumb revealed the shadow of favoritism.\n\nDuring war, bound by loyalty to the throne, he fought against his own beloved students.\n\nDrona teaches that even great wisdom can falter when pride interferes.",
+        "hi": "द्रोणाचार्य महान गुरु थे। परंतु एकलव्य से अंगूठा मांगना पक्षपात दर्शाता है।\n\nयुद्ध में वे अपने ही शिष्यों के विरुद्ध लड़े।\n\nद्रोण सिखाते हैं कि अहंकार ज्ञान को धूमिल कर सकता है।"
+      },
+      "shloka": {
+        "sanskrit": "अहंकारः पतनस्य मूलम्",
+        "transliteration": "ahaṁkāraḥ patanasya mūlam",
+        "meaning": {
+          "en": "Ego is the root of downfall.",
+          "hi": "अहंकार पतन का मूल है।"
+        },
+        "reference": "Mahabharata"
+      }
+    },
+    {
+      "id": 16,
+      "name": { "en": "Ashwatthama", "hi": "अश्वत्थामा" },
+      "key_traits": {
+        "en": "Skilled warrior, Vengeful, Cursed immortal",
+        "hi": "कुशल योद्धा, प्रतिशोधी, श्रापित अमर"
+      },
+      "life_lesson": {
+        "en": "Uncontrolled revenge destroys the self before the enemy.",
+        "hi": "अनियंत्रित प्रतिशोध पहले स्वयं को नष्ट करता है।"
+      },
+      "story": {
+        "en": "Ashwatthama, son of Drona, was born with a divine gem on his forehead and immense power. Deeply attached to his father, he was shattered when Drona was killed through strategic deception.\n\nBlinded by rage, Ashwatthama attacked the sleeping Pandava camp at night, killing Draupadi’s sons. This act of revenge crossed the boundaries of dharma. As punishment, Krishna cursed him to wander the earth immortal, suffering endlessly.\n\nAshwatthama teaches that vengeance taken without righteousness becomes a lifelong curse.",
+        "hi": "अश्वत्थामा, द्रोण के पुत्र, अपार शक्ति से युक्त थे। पिता की मृत्यु ने उन्हें क्रोध से अंधा कर दिया।\n\nउन्होंने रात्रि में सोते हुए पांडव पुत्रों की हत्या की। यह अधर्म था।\n\nकृष्ण ने उन्हें अमर भटकने का श्राप दिया।\n\nउनकी कथा सिखाती है कि प्रतिशोध आत्मविनाश है।"
+      },
+      "shloka": {
+        "sanskrit": "क्रोधाद्भवति संमोहः",
+        "transliteration": "krodhād bhavati saṁmohaḥ",
+        "meaning": {
+          "en": "From anger comes delusion.",
+          "hi": "क्रोध से मोह उत्पन्न होता है।"
+        },
+        "reference": "Bhagavad Gita 2.63"
+      }
+    },
+    {
+      "id": 17,
+      "name": { "en": "Kripacharya", "hi": "कृपाचार्य" },
+      "key_traits": {
+        "en": "Wise, Neutral, Survivor",
+        "hi": "ज्ञानी, तटस्थ, जीवित रहने वाले"
+      },
+      "life_lesson": {
+        "en": "Wisdom often lies in restraint and neutrality.",
+        "hi": "बुद्धिमत्ता संयम और तटस्थता में निहित है।"
+      },
+      "story": {
+        "en": "Kripacharya, one of the few survivors of Kurukshetra, was a teacher and statesman who remained largely neutral. Though aligned with the Kauravas, he avoided excessive cruelty.\n\nAfter the war, he continued guiding the next generation.\n\nKripa teaches that survival sometimes belongs to those who choose moderation over extremism.",
+        "hi": "कृपाचार्य युद्ध के कुछ जीवित बचे लोगों में से थे।\n\nउन्होंने संतुलन और संयम का मार्ग अपनाया।\n\nउनका जीवन सिखाता है कि अति से बचना ही दीर्घकालिक बुद्धि है।"
+      },
+      "shloka": {
+        "sanskrit": "संयमः परमं बलम्",
+        "transliteration": "saṁyamaḥ paramaṁ balam",
+        "meaning": {
+          "en": "Self-control is the highest strength.",
+          "hi": "संयम ही सर्वोच्च शक्ति है।"
+        },
+        "reference": "Mahabharata"
+      }
+    },
+    {
+      "id": 18,
+      "name": { "en": "Vidura", "hi": "विदुर" },
+      "key_traits": {
+        "en": "Wise counselor, Ethical, Fearless speaker of truth",
+        "hi": "ज्ञानी मंत्री, नैतिक, सत्यवादी"
+      },
+      "life_lesson": {
+        "en": "Speak truth even when power refuses to listen.",
+        "hi": "जब सत्ता न सुने तब भी सत्य बोलो।"
+      },
+      "story": {
+        "en": "Vidura, born of a maid yet wiser than kings, was the moral compass of Hastinapura. He repeatedly warned Dhritarashtra against injustice.\n\nThough ignored, he never compromised truth.\n\nVidura teaches that integrity does not depend on status, but on courage.",
+        "hi": "विदुर जन्म से दासी पुत्र थे, परंतु बुद्धि में श्रेष्ठ।\n\nउन्होंने बार-बार धृतराष्ट्र को सच बताया।\n\nउनकी कथा सिखाती है कि सत्य का मूल्य पद से नहीं, साहस से है।"
+      },
+      "shloka": {
+        "sanskrit": "सत्यं ब्रूयात् प्रियं ब्रूयात्",
+        "transliteration": "satyaṁ brūyāt priyaṁ brūyāt",
+        "meaning": {
+          "en": "Speak truth in a gentle manner.",
+          "hi": "सत्य को प्रिय रूप में कहो।"
+        },
+        "reference": "Mahabharata"
+      }
+    },
+    {
+      "id": 19,
+      "name": { "en": "Subhadra", "hi": "सुभद्रा" },
+      "key_traits": {
+        "en": "Graceful, Devoted, Protective mother",
+        "hi": "सौम्य, समर्पित, संरक्षक माता"
+      },
+      "life_lesson": {
+        "en": "Love requires courage in uncertain times.",
+        "hi": "अनिश्चित समय में प्रेम साहस मांगता है।"
+      },
+      "story": {
+        "en": "Subhadra, sister of Krishna and wife of Arjuna, stood at the intersection of two great dynasties. She supported Arjuna during exile and bore Abhimanyu, whose tragic death defined the war’s emotional turning point.\n\nHer strength lay in quiet resilience.\n\nSubhadra teaches that maternal courage sustains warriors.",
+        "hi": "सुभद्रा कृष्ण की बहन और अर्जुन की पत्नी थीं।\n\nअभिमन्यु की माता के रूप में उन्होंने गहन पीड़ा सहन की।\n\nउनकी कथा सिखाती है कि मौन धैर्य भी वीरता है।"
+      },
+      "shloka": {
+        "sanskrit": "मातृदेवो भव",
+        "transliteration": "mātṛ-devo bhava",
+        "meaning": {
+          "en": "Revere the mother as divine.",
+          "hi": "माता को देवतुल्य मानो।"
+        },
+        "reference": "Taittiriya Upanishad"
+      }
+    },
+    {
+      "id": 20,
+      "name": { "en": "Shalya", "hi": "शल्य" },
+      "key_traits": {
+        "en": "Skilled warrior, Manipulated ally, Proud",
+        "hi": "कुशल योद्धा, भ्रमित सहयोगी, गर्वित"
+      },
+      "life_lesson": {
+        "en": "External flattery can hide strategic traps.",
+        "hi": "बाहरी सम्मान कभी-कभी जाल छुपाता है।"
+      },
+      "story": {
+        "en": "Shalya, king of Madra, was tricked by Duryodhana into fighting for the Kauravas. Though related to the Pandavas, he became Karna’s charioteer in war and subtly discouraged him.\n\nHis divided loyalty weakened his purpose.\n\nShalya teaches that unclear allegiance erodes inner strength.",
+        "hi": "शल्य दुर्योधन की चाल में फँस गए।\n\nउन्होंने कर्ण का सारथी बनकर उसका मनोबल गिराया।\n\nउनकी कथा सिखाती है कि दोहरी निष्ठा आत्मबल को कमजोर करती है।"
+      },
+      "shloka": {
+        "sanskrit": "द्विधा मनः न विजयं लभते",
+        "transliteration": "dvidhā manaḥ na vijayaṁ labhate",
+        "meaning": {
+          "en": "A divided mind does not attain victory.",
+          "hi": "द्वंद्व में पड़ा मन विजय नहीं पाता।"
+        },
+        "reference": "Mahabharata"
+      }
+    },
+    {
+      "id": 21,
+      "name": { "en": "Jayadratha", "hi": "जयद्रथ" },
+      "key_traits": {
+        "en": "Ambitious, Opportunistic, Fate-bound",
+        "hi": "महत्वाकांक्षी, अवसरवादी, भाग्य-निर्धारित"
+      },
+      "life_lesson": {
+        "en": "A single act of ego can shape destiny.",
+        "hi": "अहंकार का एक कार्य भाग्य बदल सकता है।"
+      },
+      "story": {
+        "en": "Jayadratha played a crucial role in Abhimanyu’s death by blocking the Pandavas from entering the Chakravyuha. Empowered by a boon, he overestimated his control over fate.\n\nArjuna vowed to kill him before sunset the next day — and succeeded.\n\nJayadratha teaches that power without foresight invites swift consequences.",
+        "hi": "जयद्रथ ने चक्रव्यूह में अभिमन्यु की मृत्यु में महत्वपूर्ण भूमिका निभाई।\n\nअर्जुन ने सूर्यास्त से पहले उसे मारने की प्रतिज्ञा की और पूरी की।\n\nउनकी कथा सिखाती है कि सीमित शक्ति का अहंकार विनाशकारी है।"
+      },
+      "shloka": {
+        "sanskrit": "अहंकारो विनाशाय",
+        "transliteration": "ahaṁkāro vināśāya",
+        "meaning": {
+          "en": "Ego leads to destruction.",
+          "hi": "अहंकार विनाश का कारण है।"
+        },
+        "reference": "Mahabharata"
+      }
+    },
+    {
+      "id": 22,
+      "name": { "en": "Ghatotkacha", "hi": "घटोत्कच" },
+      "key_traits": {
+        "en": "Mighty, Sacrificial, Loyal",
+        "hi": "शक्तिशाली, बलिदानी, निष्ठावान"
+      },
+      "life_lesson": {
+        "en": "Sacrifice at the right time can change the course of history.",
+        "hi": "सही समय पर बलिदान इतिहास बदल सकता है।"
+      },
+      "story": {
+        "en": "Ghatotkacha, son of Bhima and Hidimbi, was a mighty rakshasa warrior. During the war, he forced Karna to use his divine weapon — the Vasavi Shakti — saving Arjuna’s life.\n\nHis death was strategic sacrifice.\n\nGhatotkacha teaches that true valor lies in giving oneself for a greater cause.",
+        "hi": "घटोत्कच ने युद्ध में कर्ण को अपनी दिव्य शक्ति प्रयोग करने को मजबूर किया।\n\nउनका बलिदान अर्जुन को बचाने हेतु था।\n\nउनकी कथा सिखाती है कि सच्ची वीरता बलिदान में है।"
+      },
+      "shloka": {
+        "sanskrit": "त्यागेनैके अमृतत्वमानशुः",
+        "transliteration": "tyāgenaike amṛtatvam ānaśuḥ",
+        "meaning": {
+          "en": "Through sacrifice alone immortality is attained.",
+          "hi": "त्याग से ही अमरता प्राप्त होती है।"
+        },
+        "reference": "Upanishad"
+      }
+    },
+    {
+      "id": 23,
+      "name": { "en": "Shantanu", "hi": "शांतनु" },
+      "key_traits": {
+        "en": "Noble king, Passion-driven, Gentle",
+        "hi": "श्रेष्ठ राजा, भावनात्मक, सौम्य"
+      },
+      "life_lesson": {
+        "en": "Desire, even noble, can reshape generations.",
+        "hi": "इच्छा पीढ़ियों का भाग्य बदल सकती है।"
+      },
+      "story": {
+        "en": "King Shantanu’s love for Ganga and later Satyavati shaped the future of the Kuru dynasty. His silence regarding Ganga’s actions and acceptance of Bhishma’s terrible vow altered history forever.\n\nHis life shows how personal emotions influence public destiny.",
+        "hi": "शांतनु के प्रेम ने कुरु वंश की दिशा बदल दी।\n\nभीष्म की प्रतिज्ञा उनके विवाह की इच्छा से जुड़ी थी।\n\nउनकी कथा दर्शाती है कि व्यक्तिगत निर्णय सार्वजनिक परिणाम लाते हैं।"
+      },
+      "shloka": {
+        "sanskrit": "कामो मूलं संसारस्य",
+        "transliteration": "kāmo mūlaṁ saṁsārasya",
+        "meaning": {
+          "en": "Desire is the root of worldly entanglement.",
+          "hi": "इच्छा संसारिक बंधन का मूल है।"
+        },
+        "reference": "Mahabharata"
+      }
+    },
+    {
+      "id": 24,
+      "name": { "en": "Satyavati", "hi": "सत्यवती" },
+      "key_traits": {
+        "en": "Ambitious, Determined, Strategic matriarch",
+        "hi": "महत्वाकांक्षी, दृढ़, रणनीतिक मातृशक्ति"
+      },
+      "life_lesson": {
+        "en": "Ambition can preserve lineage but also complicate destiny.",
+        "hi": "महत्वाकांक्षा वंश बचा सकती है पर भाग्य जटिल बना सकती है।"
+      },
+      "story": {
+        "en": "Satyavati, born to a fisherman yet destined for royalty, ensured her sons would inherit the throne. Her insistence led Bhishma to take his vow.\n\nShe preserved the Kuru line through Vyasa’s intervention.\n\nSatyavati teaches that determination can shape dynasties.",
+        "hi": "सत्यवती ने अपने पुत्रों के लिए सिंहासन सुनिश्चित किया।\n\nउनकी दृढ़ता ने भीष्म की प्रतिज्ञा को जन्म दिया।\n\nउनकी कथा महत्वाकांक्षा की शक्ति दिखाती है।"
+      },
+      "shloka": {
+        "sanskrit": "संकल्पः सिद्धिदायकः",
+        "transliteration": "saṅkalpaḥ siddhi-dāyakaḥ",
+        "meaning": {
+          "en": "Firm resolve brings fulfillment.",
+          "hi": "दृढ़ संकल्प सिद्धि देता है।"
+        },
+        "reference": "Mahabharata"
+      }
+    },
+    {
+      "id": 25,
+      "name": { "en": "Parashurama", "hi": "परशुराम" },
+      "key_traits": {
+        "en": "Warrior sage, Fierce ascetic, Teacher",
+        "hi": "योद्धा ऋषि, तपस्वी, गुरु"
+      },
+      "life_lesson": {
+        "en": "Even righteous anger must eventually yield to peace.",
+        "hi": "धर्मयुक्त क्रोध को भी अंततः शांति में बदलना चाहिए।"
+      },
+      "story": {
+        "en": "Parashurama, the warrior sage, annihilated corrupt kshatriyas 21 times. He later became teacher to Bhishma and Karna.\n\nHis life balances fury with discipline.\n\nHe teaches that power must evolve into wisdom.",
+        "hi": "परशुराम ने अत्याचारी क्षत्रियों का विनाश किया।\n\nबाद में वे भीष्म और कर्ण के गुरु बने।\n\nउनकी कथा बताती है कि शक्ति को ज्ञान में परिवर्तित होना चाहिए।"
+      },
+      "shloka": {
+        "sanskrit": "धर्मसंस्थापनार्थाय",
+        "transliteration": "dharma-saṁsthāpanārthāya",
+        "meaning": {
+          "en": "For the establishment of dharma.",
+          "hi": "धर्म की स्थापना हेतु।"
+        },
+        "reference": "Bhagavad Gita"
+      }
+    },
+    {
+      "id": 26,
+      "name": { "en": "Balarama", "hi": "बलराम" },
+      "key_traits": {
+        "en": "Strong, Balanced, Neutral observer",
+        "hi": "बलशाली, संतुलित, तटस्थ"
+      },
+      "life_lesson": {
+        "en": "Neutrality can be a conscious moral position.",
+        "hi": "तटस्थता भी एक नैतिक निर्णय हो सकती है।"
+      },
+      "story": {
+        "en": "Balarama, elder brother of Krishna, remained neutral in the Kurukshetra war. He valued balance over political alignment.\n\nThough powerful, he avoided taking sides.\n\nHe teaches that not all conflicts demand participation.",
+        "hi": "बलराम ने युद्ध में तटस्थता चुनी।\n\nउन्होंने संतुलन को प्राथमिकता दी।\n\nउनकी कथा सिखाती है कि हर संघर्ष में शामिल होना आवश्यक नहीं।"
+      },
+      "shloka": {
+        "sanskrit": "समत्वं योग उच्यते",
+        "transliteration": "samatvaṁ yoga ucyate",
+        "meaning": {
+          "en": "Equanimity is called yoga.",
+          "hi": "समभाव ही योग है।"
+        },
+        "reference": "Bhagavad Gita 2.48"
+      }
+    },
+    {
+      "id": 27,
+      "name": { "en": "Ekalavya", "hi": "एकलव्य" },
+      "key_traits": {
+        "en": "Dedicated, Self-taught, Sacrificial",
+        "hi": "समर्पित, स्व-शिक्षित, बलिदानी"
+      },
+      "life_lesson": {
+        "en": "True learning comes from devotion, not privilege.",
+        "hi": "सच्ची शिक्षा समर्पण से आती है, विशेषाधिकार से नहीं।"
+      },
+      "story": {
+        "en": "Ekalavya, denied formal training by Drona, created a clay idol of his guru and mastered archery through devotion alone. When asked for guru dakshina, he gave his thumb without hesitation.\n\nHis story exposes social inequality yet celebrates perseverance.\n\nEkalavya teaches that dedication transcends barriers.",
+        "hi": "एकलव्य को द्रोण ने शिक्षा नहीं दी।\n\nउन्होंने मिट्टी की प्रतिमा बनाकर स्वयं अभ्यास किया।\n\nगुरुदक्षिणा में अंगूठा दे दिया।\n\nउनकी कथा समर्पण की शक्ति दर्शाती है।"
+      },
+      "shloka": {
+        "sanskrit": "श्रद्धावान् लभते ज्ञानम्",
+        "transliteration": "śraddhāvān labhate jñānam",
+        "meaning": {
+          "en": "The devoted attain knowledge.",
+          "hi": "श्रद्धावान ज्ञान प्राप्त करता है।"
+        },
+        "reference": "Bhagavad Gita 4.39"
+      }
+    },
+    {
+      "id": 28,
+      "name": { "en": "Amba", "hi": "अंबा" },
+      "key_traits": {
+        "en": "Wronged, Determined, Reborn for justice",
+        "hi": "अत्याचार सहने वाली, दृढ़, न्याय हेतु पुनर्जन्म"
+      },
+      "life_lesson": {
+        "en": "Unresolved injustice can echo across lifetimes.",
+        "hi": "अपूर्ण न्याय जन्मों तक पीछा करता है।"
+      },
+      "story": {
+        "en": "Amba was abducted by Bhishma for Vichitravirya but loved another. Rejected and dishonored, she sought justice but found none. Her anguish transformed into burning resolve. Through intense penance, she was reborn as Shikhandi — the instrument of Bhishma’s fall.\n\nAmba teaches that suppressed injustice eventually finds its reckoning.",
+        "hi": "अंबा का हरण भीष्म ने किया, पर वह किसी और से प्रेम करती थीं। अपमानित होकर उन्होंने प्रतिशोध की प्रतिज्ञा ली।\n\nवे पुनर्जन्म लेकर शिखंडी बनीं और भीष्म के पतन का कारण बनीं।\n\nउनकी कथा बताती है कि अन्याय का परिणाम अवश्य होता है।"
+      },
+      "shloka": {
+        "sanskrit": "अधर्मस्य परिणामः दुःखम्",
+        "transliteration": "adharmasya pariṇāmaḥ duḥkham",
+        "meaning": {
+          "en": "The result of injustice is suffering.",
+          "hi": "अधर्म का परिणाम दुःख है।"
+        },
+        "reference": "Mahabharata"
+      }
+    },
+    {
+      "id": 29,
+      "name": { "en": "Ambika", "hi": "अंबिका" },
+      "key_traits": {
+        "en": "Fearful, Dutiful queen, Mother of Dhritarashtra",
+        "hi": "भयभीत, कर्तव्यनिष्ठ रानी, धृतराष्ट्र की माता"
+      },
+      "life_lesson": {
+        "en": "Fear at decisive moments can shape destiny.",
+        "hi": "निर्णायक क्षणों का भय भाग्य बदल देता है।"
+      },
+      "story": {
+        "en": "Ambika, widow of Vichitravirya, bore Dhritarashtra through Vyasa’s niyoga. Frightened by Vyasa’s austere appearance, she closed her eyes — resulting in her son being born blind.\n\nHer story reflects how inner fear manifests outwardly.",
+        "hi": "अंबिका ने व्यास से नियोग द्वारा धृतराष्ट्र को जन्म दिया। भयवश उन्होंने आँखें बंद कर लीं — पुत्र अंधा जन्मा।\n\nउनकी कथा बताती है कि भय निर्णयों को प्रभावित करता है।"
+      },
+      "shloka": {
+        "sanskrit": "भयाद् बुद्धिः नश्यति",
+        "transliteration": "bhayād buddhiḥ naśyati",
+        "meaning": {
+          "en": "Fear destroys clarity of mind.",
+          "hi": "भय बुद्धि को नष्ट करता है।"
+        },
+        "reference": "Mahabharata"
+      }
+    },
+    {
+      "id": 30,
+      "name": { "en": "Ambalika", "hi": "अंबालिका" },
+      "key_traits": {
+        "en": "Gentle, Timid, Mother of Pandu",
+        "hi": "सौम्य, संकोची, पांडु की माता"
+      },
+      "life_lesson": {
+        "en": "Shock and hesitation can alter future generations.",
+        "hi": "संकोच भविष्य की दिशा बदल सकता है।"
+      },
+      "story": {
+        "en": "Ambalika, sister of Ambika, turned pale in fear during Vyasa’s visit, leading to Pandu being born weak and pale.\n\nHer life illustrates how emotional states influence outcomes.",
+        "hi": "अंबालिका भय से पीली पड़ गईं — पांडु दुर्बल जन्मे।\n\nउनकी कथा भावनात्मक प्रभाव दर्शाती है।"
+      },
+      "shloka": {
+        "sanskrit": "चित्तस्य भावो भवति भाग्यकारणम्",
+        "transliteration": "cittasya bhāvo bhavati bhāgya-kāraṇam",
+        "meaning": {
+          "en": "The state of mind shapes destiny.",
+          "hi": "मन की अवस्था भाग्य बनाती है।"
+        },
+        "reference": "Mahabharata"
+      }
+    },
+    {
+      "id": 31,
+      "name": { "en": "Vichitravirya", "hi": "विचित्रवीर्य" },
+      "key_traits": {
+        "en": "Young king, Short-lived, Lineage link",
+        "hi": "युवा राजा, अल्पायु, वंश कड़ी"
+      },
+      "life_lesson": {
+        "en": "Life’s brevity does not diminish its impact.",
+        "hi": "जीवन छोटा हो सकता है, पर प्रभाव गहरा।"
+      },
+      "story": {
+        "en": "Vichitravirya, son of Shantanu and Satyavati, ruled briefly before dying childless. His death led to the niyoga that produced Dhritarashtra and Pandu.\n\nHis short life reshaped dynastic history.",
+        "hi": "विचित्रवीर्य अल्पायु में मृत्यु को प्राप्त हुए।\n\nउनकी मृत्यु से नियोग हुआ और आगे का वंश चला।"
+      },
+      "shloka": {
+        "sanskrit": "क्षणो जीवनस्य मूल्यवान्",
+        "transliteration": "kṣaṇo jīvanasya mūlyavān",
+        "meaning": {
+          "en": "Every moment of life is precious.",
+          "hi": "जीवन का हर क्षण मूल्यवान है।"
+        },
+        "reference": "Mahabharata"
+      }
+    },
+    {
+      "id": 32,
+      "name": { "en": "Chitrangada", "hi": "चित्रांगद" },
+      "key_traits": {
+        "en": "Warrior king, Brave, Ill-fated",
+        "hi": "योद्धा राजा, साहसी, दुर्भाग्यपूर्ण"
+      },
+      "life_lesson": {
+        "en": "Valor does not guarantee longevity.",
+        "hi": "वीरता लंबी आयु की गारंटी नहीं।"
+      },
+      "story": {
+        "en": "Chitrangada, elder son of Shantanu, died in battle against a Gandharva of the same name. His death paved way for Vichitravirya’s rule.\n\nHis life reminds us that bravery and fate coexist.",
+        "hi": "चित्रांगद युद्ध में मारे गए।\n\nउनकी वीरता भी भाग्य को नहीं रोक सकी।"
+      },
+      "shloka": {
+        "sanskrit": "वीरस्यापि दैवं बलवत्तरम्",
+        "transliteration": "vīrasyāpi daivaṁ balavattaram",
+        "meaning": {
+          "en": "Even for the brave, destiny is stronger.",
+          "hi": "वीर के लिए भी भाग्य प्रबल है।"
+        },
+        "reference": "Mahabharata"
+      }
+    },
+    {
+      "id": 33,
+      "name": { "en": "Pandu", "hi": "पांडु" },
+      "key_traits": {
+        "en": "Cursed king, Reflective, Detached",
+        "hi": "श्रापित राजा, चिंतनशील, विरक्त"
+      },
+      "life_lesson": {
+        "en": "Desire without awareness leads to suffering.",
+        "hi": "अविवेकपूर्ण इच्छा दुख का कारण है।"
+      },
+      "story": {
+        "en": "Pandu was cursed to die if he approached his wives physically. In remorse, he renounced the throne and lived in the forest. His sons were born through divine invocation.\n\nHis inability to restrain desire ultimately caused his death.\n\nPandu teaches that self-control preserves life and legacy.",
+        "hi": "पांडु को श्राप मिला कि वे स्त्री-संपर्क करेंगे तो मर जाएंगे।\n\nवनवास में उन्होंने जीवन बिताया, पर अंततः इच्छा के वश में मृत्यु हुई।"
+      },
+      "shloka": {
+        "sanskrit": "इन्द्रियाणि पराण्याहुः",
+        "transliteration": "indriyāṇi parāṇy āhuḥ",
+        "meaning": {
+          "en": "The senses are powerful and difficult to control.",
+          "hi": "इंद्रियाँ अत्यंत शक्तिशाली हैं।"
+        },
+        "reference": "Bhagavad Gita"
+      }
+    },
+    {
+      "id": 34,
+      "name": { "en": "Madri", "hi": "माद्री" },
+      "key_traits": {
+        "en": "Loving, Devoted, Self-sacrificing",
+        "hi": "प्रेममयी, समर्पित, त्यागमयी"
+      },
+      "life_lesson": {
+        "en": "Devotion sometimes demands ultimate sacrifice.",
+        "hi": "समर्पण कभी-कभी अंतिम त्याग मांगता है।"
+      },
+      "story": {
+        "en": "Madri, Pandu’s second wife, gave birth to Nakula and Sahadeva. When Pandu died, she chose to immolate herself on his pyre, entrusting her sons to Kunti.\n\nHer act reflected loyalty shaped by the values of her time.",
+        "hi": "माद्री ने पांडु की मृत्यु पर सती होना चुना।\n\nउन्होंने अपने पुत्रों को कुंती को सौंप दिया।"
+      },
+      "shloka": {
+        "sanskrit": "अनन्यता भक्ति लक्षणम्",
+        "transliteration": "ananyatā bhakti lakṣaṇam",
+        "meaning": {
+          "en": "Single-pointed devotion defines loyalty.",
+          "hi": "एकनिष्ठता ही भक्ति का लक्षण है।"
+        },
+        "reference": "Mahabharata"
+      }
+    },
+    {
+      "id": 35,
+      "name": { "en": "Devavrata", "hi": "देवव्रत" },
+      "key_traits": {
+        "en": "Vow-bound, Dutiful, Tragic hero",
+        "hi": "प्रतिज्ञाबद्ध, कर्तव्यनिष्ठ, दुखांत नायक"
+      },
+      "life_lesson": {
+        "en": "Great vows carry lifelong consequences.",
+        "hi": "महान प्रतिज्ञाएँ जीवनभर परिणाम लाती हैं।"
+      },
+      "story": {
+        "en": "Before becoming Bhishma, he was Devavrata — the ideal prince. His terrible vow of celibacy ensured his father’s happiness but cost him personal fulfillment.\n\nBound by his oath, he witnessed injustice yet could not always intervene.\n\nDevavrata teaches that sacrifice must align with higher dharma, not blind loyalty.",
+        "hi": "भीष्म बनने से पहले वे देवव्रत थे। पिता के लिए आजीवन ब्रह्मचर्य का व्रत लिया।\n\nउनकी प्रतिज्ञा ने इतिहास की दिशा बदल दी।"
+      },
+      "shloka": {
+        "sanskrit": "प्रतिज्ञा पालनं धर्मः",
+        "transliteration": "pratijñā pālanaṁ dharmaḥ",
+        "meaning": {
+          "en": "Honoring one’s vow is dharma.",
+          "hi": "प्रतिज्ञा का पालन धर्म है।"
+        },
+        "reference": "Mahabharata"
+      }
+    },
+    {
+      "id": 36,
+      "name": { "en": "Pratipa", "hi": "प्रतीप" },
+      "key_traits": {
+        "en": "Wise king, Calm, Visionary",
+        "hi": "ज्ञानी राजा, शांत, दूरदर्शी"
+      },
+      "life_lesson": {
+        "en": "Wisdom in one generation shapes the next.",
+        "hi": "एक पीढ़ी की बुद्धि अगली पीढ़ी को आकार देती है।"
+      },
+      "story": {
+        "en": "King Pratipa, father of Shantanu, maintained balance and foresight in governance. His calm leadership stabilized the Kuru dynasty.\n\nHe teaches that strong foundations sustain future greatness.",
+        "hi": "प्रतीप शांत और दूरदर्शी राजा थे।\n\nउनके शासन ने कुरु वंश को स्थिरता दी।"
+      },
+      "shloka": {
+        "sanskrit": "दूरदर्शिता राज्यस्य आधारः",
+        "transliteration": "dūradarśitā rājyasya ādhāraḥ",
+        "meaning": {
+          "en": "Foresight is the foundation of a kingdom.",
+          "hi": "दूरदर्शिता राज्य का आधार है।"
+        },
+        "reference": "Mahabharata"
+      }
+    },
+    {
+      "id": 37,
+      "name": { "en": "Yuyutsu", "hi": "युयुत्सु" },
+      "key_traits": {
+        "en": "Righteous, Courageous, Truth-seeker",
+        "hi": "धर्मनिष्ठ, साहसी, सत्यप्रिय"
+      },
+      "life_lesson": {
+        "en": "Choosing righteousness over family loyalty defines true character.",
+        "hi": "परिवार से ऊपर धर्म चुनना सच्चा चरित्र है।"
+      },
+      "story": {
+        "en": "Yuyutsu, son of Dhritarashtra, defected from the Kauravas and joined the Pandavas before war. He chose dharma over blood ties.\n\nHe survived the war and helped rebuild the kingdom.\n\nYuyutsu teaches moral courage beyond lineage.",
+        "hi": "युयुत्सु ने कौरव पक्ष छोड़कर पांडवों का साथ दिया।\n\nउन्होंने रक्त संबंध से ऊपर धर्म चुना।"
+      },
+      "shloka": {
+        "sanskrit": "धर्मो बन्धुभ्यः गरियान्",
+        "transliteration": "dharmo bandhubhyaḥ gariyān",
+        "meaning": {
+          "en": "Dharma is greater than kinship.",
+          "hi": "धर्म संबंधों से बड़ा है।"
+        },
+        "reference": "Mahabharata"
+      }
+    },
+    {
+      "id": 38,
+      "name": { "en": "Susharma", "hi": "सुषर्मा" },
+      "key_traits": {
+        "en": "Aggressive, Rival king, Determined",
+        "hi": "आक्रामक, प्रतिद्वंदी राजा, दृढ़"
+      },
+      "life_lesson": {
+        "en": "Repeated aggression without reflection leads to downfall.",
+        "hi": "लगातार आक्रामकता पतन लाती है।"
+      },
+      "story": {
+        "en": "Susharma of Trigarta repeatedly attacked the Pandavas. His hostility aligned him with Duryodhana.\n\nHe fell in war, illustrating the cost of blind rivalry.",
+        "hi": "सुषर्मा ने बार-बार पांडवों पर आक्रमण किया।\n\nउनकी शत्रुता ने अंततः उन्हें विनाश की ओर ले गया।"
+      },
+      "shloka": {
+        "sanskrit": "द्वेषः विनाशकारणम्",
+        "transliteration": "dveṣaḥ vināśa-kāraṇam",
+        "meaning": {
+          "en": "Hatred leads to destruction.",
+          "hi": "द्वेष विनाश का कारण है।"
+        },
+        "reference": "Mahabharata"
+      }
+    },
+    {
+      "id": 39,
+      "name": { "en": "Kichaka", "hi": "कीचक" },
+      "key_traits": {
+        "en": "Arrogant, Powerful, Oppressor",
+        "hi": "अहंकारी, शक्तिशाली, अत्याचारी"
+      },
+      "life_lesson": {
+        "en": "Power without respect invites swift justice.",
+        "hi": "सम्मान बिना शक्ति न्याय को आमंत्रित करती है।"
+      },
+      "story": {
+        "en": "Kichaka harassed Draupadi during exile. His arrogance blinded him to consequences. Bhima killed him in secret.\n\nHis death restored dignity and justice.",
+        "hi": "कीचक ने द्रौपदी का अपमान किया।\n\nभीम ने उसका वध किया।\n\nउनकी कथा बताती है कि अत्याचार का अंत निश्चित है।"
+      },
+      "shloka": {
+        "sanskrit": "अत्याचारस्य दण्डः अवश्यम्",
+        "transliteration": "atyācārasya daṇḍaḥ avaśyam",
+        "meaning": {
+          "en": "Oppression inevitably invites punishment.",
+          "hi": "अत्याचार का दंड निश्चित है।"
+        },
+        "reference": "Mahabharata"
+      }
+    },
+    {
+      "id": 40,
+      "name": { "en": "Hidimba", "hi": "हिडिंब" },
+      "key_traits": {
+        "en": "Rakshasa warrior, Fierce, Territorial",
+        "hi": "राक्षस योद्धा, उग्र, क्षेत्रीय"
+      },
+      "life_lesson": {
+        "en": "Instinct without awareness leads to destruction.",
+        "hi": "अविवेकी प्रवृत्ति विनाश लाती है।"
+      },
+      "story": {
+        "en": "Hidimba attacked the Pandavas in the forest but was slain by Bhima. His aggression contrasted with his sister Hidimbi’s compassion.\n\nHe symbolizes unchecked instinct.",
+        "hi": "हिडिंब ने पांडवों पर आक्रमण किया और भीम द्वारा मारा गया।"
+      },
+      "shloka": {
+        "sanskrit": "असंयमः पतनहेतुः",
+        "transliteration": "asaṁyamaḥ patana-hetuḥ",
+        "meaning": {
+          "en": "Lack of restraint leads to downfall.",
+          "hi": "संयम का अभाव पतन का कारण है।"
+        },
+        "reference": "Mahabharata"
+      }
+    },
+    {
+      "id": 41,
+      "name": { "en": "Hidimbi", "hi": "हिडिंबी" },
+      "key_traits": {
+        "en": "Compassionate, Independent, Devoted",
+        "hi": "करुणामयी, स्वतंत्र, समर्पित"
+      },
+      "life_lesson": {
+        "en": "Love can transcend background and species.",
+        "hi": "प्रेम सीमाएँ पार कर सकता है।"
+      },
+      "story": {
+        "en": "Hidimbi fell in love with Bhima and chose love over her brother’s hostility. She later raised Ghatotkacha independently.\n\nHer courage was quiet but powerful.",
+        "hi": "हिडिंबी ने प्रेम चुना और घटोत्कच को जन्म दिया।\n\nउनकी कथा प्रेम की शक्ति दिखाती है।"
+      },
+      "shloka": {
+        "sanskrit": "प्रेम बलवत्तरम्",
+        "transliteration": "prema balavattaram",
+        "meaning": {
+          "en": "Love is the greatest strength.",
+          "hi": "प्रेम सबसे बड़ी शक्ति है।"
+        },
+        "reference": "Mahabharata"
+      }
+    },
+{
+  "id": 42,
+  "name": { "en": "Dhrishtadyumna", "hi": "धृष्टद्युम्न" },
+  "key_traits": {
+    "en": "Born for purpose, Determined, Warrior of destiny",
+    "hi": "उद्देश्य से जन्मा, दृढ़, भाग्य-योद्धा"
+  },
+  "life_lesson": {
+    "en": "Some lives are shaped by destiny, but choice defines their honor.",
+    "hi": "भाग्य दिशा देता है, पर सम्मान चुनाव से बनता है।"
+  },
+  "story": {
+    "en": "Dhrishtadyumna was born from the sacred fire to kill Dronacharya. Though destined for vengeance, he trained under the very teacher he was meant to defeat.\n\nOn the battlefield, he fulfilled that destiny. Yet his birth for destruction reminds us that purpose without reflection can harden the heart.\n\nHe teaches that even destiny demands conscious action.",
+    "hi": "धृष्टद्युम्न अग्नि से उत्पन्न हुए — द्रोण के वध हेतु।\n\nउन्होंने उसी गुरु से शिक्षा ली जिन्हें मारना था।\n\nउनकी कथा भाग्य और कर्तव्य का संगम दिखाती है।"
+  },
+  "shloka": {
+    "sanskrit": "दैवं च पुरुषकारः च",
+    "transliteration": "daivaṁ ca puruṣakāraḥ ca",
+    "meaning": {
+      "en": "Destiny and human effort both shape outcomes.",
+      "hi": "भाग्य और पुरुषार्थ दोनों परिणाम बनाते हैं।"
+    },
+    "reference": "Mahabharata"
+  }
+},
+{
+  "id": 43,
+  "name": { "en": "Shikhandi", "hi": "शिखंडी" },
+  "key_traits": {
+    "en": "Reborn warrior, Determined, Instrument of fate",
+    "hi": "पुनर्जन्म योद्धा, दृढ़, भाग्य का साधन"
+  },
+  "life_lesson": {
+    "en": "Identity may transform, but purpose can endure.",
+    "hi": "पहचान बदल सकती है, उद्देश्य स्थिर रह सकता है।"
+  },
+  "story": {
+    "en": "Born as Amba reborn, Shikhandi became the key to Bhishma’s defeat. Bhishma refused to fight him, honoring his past vow, allowing Arjuna to strike.\n\nShikhandi’s life challenges rigid notions of identity and destiny.\n\nHe teaches that transformation can become strength.",
+    "hi": "शिखंडी अंबा का पुनर्जन्म थे।\n\nउनकी उपस्थिति से भीष्म गिरे।\n\nउनकी कथा पहचान और भाग्य की जटिलता दर्शाती है।"
+  },
+  "shloka": {
+    "sanskrit": "स्वरूपं परिवर्तते धर्मः न परिवर्तते",
+    "transliteration": "svarūpaṁ parivartate dharmaḥ na parivartate",
+    "meaning": {
+      "en": "Form may change, but dharma does not.",
+      "hi": "रूप बदलता है, धर्म नहीं।"
+    },
+    "reference": "Mahabharata"
+  }
+},
+{
+  "id": 44,
+  "name": { "en": "Bhagadatta", "hi": "भगदत्त" },
+  "key_traits": {
+    "en": "Veteran warrior, Loyal ally, Fearless",
+    "hi": "अनुभवी योद्धा, निष्ठावान, निर्भीक"
+  },
+  "life_lesson": {
+    "en": "Experience strengthens courage, but alignment defines righteousness.",
+    "hi": "अनुभव साहस बढ़ाता है, पर पक्ष धर्म तय करता है।"
+  },
+  "story": {
+    "en": "Bhagadatta, king of Pragjyotisha, fought valiantly for the Kauravas. Mounted on a mighty elephant, he nearly killed Arjuna.\n\nHis loyalty to Duryodhana placed him on the losing side of history.\n\nHe reminds us that valor alone does not define moral alignment.",
+    "hi": "भगदत्त ने कौरवों के लिए वीरता से युद्ध किया।\n\nवे अर्जुन के लिए भीषण चुनौती बने।\n\nउनकी कथा बताती है कि वीरता और धर्म हमेशा साथ नहीं चलते।"
+  },
+  "shloka": {
+    "sanskrit": "शौर्यं धर्मेण शोभते",
+    "transliteration": "śauryaṁ dharmeṇa śobhate",
+    "meaning": {
+      "en": "Valor shines only when aligned with dharma.",
+      "hi": "वीरता धर्म से ही शोभती है।"
+    },
+    "reference": "Mahabharata"
+  }
+},
+{
+  "id": 45,
+  "name": { "en": "Kritavarma", "hi": "कृतवर्मा" },
+  "key_traits": {
+    "en": "Yadava warrior, Strategic, Survivor",
+    "hi": "यादव योद्धा, रणनीतिक, जीवित बचने वाला"
+  },
+  "life_lesson": {
+    "en": "Survival is not always synonymous with righteousness.",
+    "hi": "जीवित रहना सदैव धर्म का प्रमाण नहीं।"
+  },
+  "story": {
+    "en": "Kritavarma sided with the Kauravas despite being from Krishna’s clan. He survived the war but later became involved in the Yadava destruction.\n\nHis story reflects moral ambiguity in political alliances.",
+    "hi": "कृतवर्मा ने कौरवों का साथ दिया।\n\nवे जीवित बचे पर बाद में यादवों के विनाश में जुड़े।"
+  },
+  "shloka": {
+    "sanskrit": "संगतिः फलदायिनी",
+    "transliteration": "saṅgatiḥ phaladāyinī",
+    "meaning": {
+      "en": "Association determines consequences.",
+      "hi": "संगति फल देती है।"
+    },
+    "reference": "Mahabharata"
+  }
+},
+{
+  "id": 46,
+  "name": { "en": "Satyaki", "hi": "सात्यकि" },
+  "key_traits": {
+    "en": "Devoted disciple, Fierce warrior, Loyal",
+    "hi": "समर्पित शिष्य, उग्र योद्धा, निष्ठावान"
+  },
+  "life_lesson": {
+    "en": "True discipleship is loyalty guided by wisdom.",
+    "hi": "सच्ची शिष्यता बुद्धि सहित निष्ठा है।"
+  },
+  "story": {
+    "en": "Satyaki, a disciple of Arjuna, fought fiercely for the Pandavas. His loyalty to Krishna and Arjuna never wavered.\n\nHe symbolizes faithful service combined with courage.",
+    "hi": "सात्यकि अर्जुन के शिष्य थे।\n\nउन्होंने निष्ठा और वीरता दोनों का परिचय दिया।"
+  },
+  "shloka": {
+    "sanskrit": "गुरुभक्तिः बलवत्तरम्",
+    "transliteration": "gurubhaktiḥ balavattaram",
+    "meaning": {
+      "en": "Devotion to one’s teacher is a great strength.",
+      "hi": "गुरु भक्ति महान शक्ति है।"
+    },
+    "reference": "Mahabharata"
+  }
+},
+{
+  "id": 47,
+  "name": { "en": "Somadatta", "hi": "सोमदत्त" },
+  "key_traits": {
+    "en": "Elder warrior, Proud lineage, Traditional",
+    "hi": "वरिष्ठ योद्धा, वंश गौरव, परंपरागत"
+  },
+  "life_lesson": {
+    "en": "Pride in lineage must not overshadow justice.",
+    "hi": "वंश गौरव न्याय से ऊपर नहीं होना चाहिए।"
+  },
+  "story": {
+    "en": "Somadatta fought on the Kaurava side, bound by alliances and lineage pride. His participation reflects how tradition sometimes clouds judgment.",
+    "hi": "सोमदत्त वंश और परंपरा के कारण कौरवों के साथ लड़े।"
+  },
+  "shloka": {
+    "sanskrit": "कुलगौरवो न धर्मात् श्रेष्ठः",
+    "transliteration": "kulagauravo na dharmāt śreṣṭhaḥ",
+    "meaning": {
+      "en": "Family pride is not greater than dharma.",
+      "hi": "कुल गौरव धर्म से बड़ा नहीं।"
+    },
+    "reference": "Mahabharata"
+  }
+},
+{
+  "id": 48,
+  "name": { "en": "Bhurishrava", "hi": "भूरिश्रवा" },
+  "key_traits": {
+    "en": "Brave, Traditional warrior, Bound by honor",
+    "hi": "वीर, परंपरागत योद्धा, सम्मानबद्ध"
+  },
+  "life_lesson": {
+    "en": "Honor without compassion can become rigidity.",
+    "hi": "करुणा बिना सम्मान कठोरता बन जाता है।"
+  },
+  "story": {
+    "en": "Bhurishrava fought valiantly but was killed controversially when distracted in meditation after losing his arm.\n\nHis story reflects the blurred lines of battlefield ethics.",
+    "hi": "भूरिश्रवा ध्यान में थे जब उनका वध हुआ।\n\nउनकी कथा युद्ध की नैतिक जटिलता दर्शाती है।"
+  },
+  "shloka": {
+    "sanskrit": "युद्धे धर्मः सूक्ष्मः",
+    "transliteration": "yuddhe dharmaḥ sūkṣmaḥ",
+    "meaning": {
+      "en": "Dharma in war is subtle.",
+      "hi": "युद्ध में धर्म सूक्ष्म होता है।"
+    },
+    "reference": "Mahabharata"
+  }
+},
+{
+  "id": 49,
+  "name": { "en": "Lakshmana (son of Duryodhana)", "hi": "लक्ष्मण (दुर्योधन पुत्र)" },
+  "key_traits": {
+    "en": "Young prince, Brave, Loyal to father",
+    "hi": "युवा राजकुमार, वीर, पिता-निष्ठ"
+  },
+  "life_lesson": {
+    "en": "Children often inherit the consequences of their parents’ choices.",
+    "hi": "संतानें अक्सर माता-पिता के कर्मों का परिणाम भुगतती हैं।"
+  },
+  "story": {
+    "en": "Lakshmana, son of Duryodhana, fought bravely in the Kurukshetra war but was slain by Abhimanyu.\n\nThough young and valiant, he was caught in a conflict born of elders' ambitions.\n\nHis life reminds us that the cost of pride extends beyond one generation.",
+    "hi": "लक्ष्मण, दुर्योधन का पुत्र, युद्ध में वीरतापूर्वक लड़ा।\n\nवह बड़ों की महत्वाकांक्षा के युद्ध में बलिदान हुआ।"
+  },
+  "shloka": {
+    "sanskrit": "पितृकर्मफलम् अपि पुत्राः भुञ्जते",
+    "transliteration": "pitṛkarma-phalam api putrāḥ bhuñjate",
+    "meaning": {
+      "en": "Children also bear the fruits of their parents' actions.",
+      "hi": "संतानें भी माता-पिता के कर्मों का फल भोगती हैं।"
+    },
+    "reference": "Mahabharata"
+  }
+},
+{
+  "id": 50,
+  "name": { "en": "Vrishasena", "hi": "वृषसेन" },
+  "key_traits": {
+    "en": "Valiant, Dutiful son, Loyal",
+    "hi": "वीर, कर्तव्यनिष्ठ पुत्र, निष्ठावान"
+  },
+  "life_lesson": {
+    "en": "Loyalty to family must be guided by discernment.",
+    "hi": "परिवार के प्रति निष्ठा विवेक से निर्देशित होनी चाहिए।"
+  },
+  "story": {
+    "en": "Vrishasena, son of Karna, fought heroically for the Kauravas and was slain by Arjuna.\n\nHe inherited his father’s courage and loyalty but also his tragic alignment.\n\nHe symbolizes filial devotion shaped by inherited destiny.",
+    "hi": "वृषसेन ने अपने पिता कर्ण की तरह वीरता दिखाई।\n\nवे अर्जुन द्वारा मारे गए।"
+  },
+  "shloka": {
+    "sanskrit": "निष्ठा विवेकयुक्ता शोभते",
+    "transliteration": "niṣṭhā vivekayuktā śobhate",
+    "meaning": {
+      "en": "Loyalty shines when guided by wisdom.",
+      "hi": "विवेकयुक्त निष्ठा ही शोभती है।"
+    },
+    "reference": "Mahabharata"
+  }
+},
+{
+  "id": 51,
+  "name": { "en": "Bahlika", "hi": "बाल्हिक" },
+  "key_traits": {
+    "en": "Elder statesman, Bound by loyalty, Traditional",
+    "hi": "वरिष्ठ राजपुरुष, निष्ठाबद्ध, परंपरागत"
+  },
+  "life_lesson": {
+    "en": "Age does not always guarantee moral clarity.",
+    "hi": "आयु सदैव नैतिक स्पष्टता नहीं देती।"
+  },
+  "story": {
+    "en": "Bahlika, elder relative of the Kuru dynasty, fought for the Kauravas out of allegiance.\n\nDespite wisdom and experience, he remained bound by political loyalty rather than dharma.\n\nHis life illustrates the weight of tradition over truth.",
+    "hi": "बाल्हिक ने परंपरा और निष्ठा के कारण कौरवों का साथ दिया।"
+  },
+  "shloka": {
+    "sanskrit": "वृद्धत्वं न बुद्धेः प्रमाणम्",
+    "transliteration": "vṛddhatvaṁ na buddheḥ pramāṇam",
+    "meaning": {
+      "en": "Old age is not proof of wisdom.",
+      "hi": "बुढ़ापा बुद्धि का प्रमाण नहीं।"
+    },
+    "reference": "Mahabharata"
+  }
+},
+{
+  "id": 52,
+  "name": { "en": "Alambusha", "hi": "अलंबुष" },
+  "key_traits": {
+    "en": "Rakshasa warrior, Fierce, Illusionist",
+    "hi": "राक्षस योद्धा, उग्र, मायावी"
+  },
+  "life_lesson": {
+    "en": "Illusion cannot outlast truth.",
+    "hi": "माया सत्य से अधिक समय तक नहीं टिकती।"
+  },
+  "story": {
+    "en": "Alambusha, a rakshasa allied with the Kauravas, fought using illusions. He was slain by Ghatotkacha in a fierce battle of mystic powers.\n\nHis defeat symbolizes the triumph of greater strength and clarity over deception.",
+    "hi": "अलंबुष मायावी राक्षस था।\n\nघटोत्कच ने उसका वध किया।"
+  },
+  "shloka": {
+    "sanskrit": "मायायाः न स्थिरं फलम्",
+    "transliteration": "māyāyāḥ na sthiraṁ phalam",
+    "meaning": {
+      "en": "The fruits of illusion are not lasting.",
+      "hi": "माया का फल स्थायी नहीं।"
+    },
+    "reference": "Mahabharata"
+  }
+},
+{
+  "id": 53,
+  "name": { "en": "Shishupala", "hi": "शिशुपाल" },
+  "key_traits": {
+    "en": "Arrogant, Defiant, Bound by fate",
+    "hi": "अहंकारी, विद्रोही, भाग्यबद्ध"
+  },
+  "life_lesson": {
+    "en": "Repeated arrogance exhausts even divine patience.",
+    "hi": "लगातार अहंकार ईश्वरीय सहनशीलता भी समाप्त कर देता है।"
+  },
+  "story": {
+    "en": "Shishupala insulted Krishna repeatedly despite warnings. At Yudhishthira’s Rajasuya sacrifice, he crossed all limits and was slain by Krishna’s Sudarshana Chakra.\n\nYet Krishna forgave his first hundred offenses, demonstrating divine patience.\n\nShishupala teaches that tolerance has limits.",
+    "hi": "शिशुपाल ने कृष्ण का अपमान किया।\n\nसौ अपराध क्षमा हुए, पर सीमा पार करने पर उनका वध हुआ।"
+  },
+  "shloka": {
+    "sanskrit": "क्षमा सीमा युक्ता शोभते",
+    "transliteration": "kṣamā sīmā yuktā śobhate",
+    "meaning": {
+      "en": "Forgiveness shines when balanced with boundaries.",
+      "hi": "सीमा सहित क्षमा ही शोभती है।"
+    },
+    "reference": "Mahabharata"
+  }
+},
+{
+  "id": 54,
+  "name": { "en": "Jarasandha", "hi": "जरासंध" },
+  "key_traits": {
+    "en": "Powerful king, Determined, Ruthless",
+    "hi": "शक्तिशाली राजा, दृढ़, निर्दयी"
+  },
+  "life_lesson": {
+    "en": "Power gained through fear breeds opposition.",
+    "hi": "भय से प्राप्त शक्ति विरोध को जन्म देती है।"
+  },
+  "story": {
+    "en": "Jarasandha imprisoned many kings to assert dominance. Krishna, Bhima, and Arjuna challenged and defeated him through strategy.\n\nHis fall highlights that tyranny eventually invites resistance.",
+    "hi": "जरासंध ने अनेक राजाओं को कैद किया।\n\nभीम ने उसे परास्त किया।"
+  },
+  "shloka": {
+    "sanskrit": "दुर्बलान् पीडयन् न स्थिरः",
+    "transliteration": "durbalān pīḍayan na sthiraḥ",
+    "meaning": {
+      "en": "One who oppresses the weak cannot remain stable.",
+      "hi": "निर्बलों को पीड़ित करने वाला स्थिर नहीं रहता।"
+    },
+    "reference": "Mahabharata"
+  }
+},
+{
+  "id": 55,
+  "name": { "en": "Salva", "hi": "शाल्व" },
+  "key_traits": {
+    "en": "Vengeful king, Persistent, Aggressive",
+    "hi": "प्रतिशोधी राजा, दृढ़, आक्रामक"
+  },
+  "life_lesson": {
+    "en": "Revenge sustained by obsession leads to ruin.",
+    "hi": "जुनूनी प्रतिशोध विनाश लाता है।"
+  },
+  "story": {
+    "en": "Salva attacked Dwaraka to avenge Shishupala. Despite advanced illusionary weapons, he was defeated by Krishna.\n\nHis obsession overshadowed rational judgment.",
+    "hi": "शाल्व ने प्रतिशोध में द्वारका पर आक्रमण किया।\n\nकृष्ण ने उसे परास्त किया।"
+  },
+  "shloka": {
+    "sanskrit": "मोहः विनाशाय",
+    "transliteration": "mohaḥ vināśāya",
+    "meaning": {
+      "en": "Delusion leads to destruction.",
+      "hi": "मोह विनाश का कारण है।"
+    },
+    "reference": "Mahabharata"
+  }
+}
+,
+{
+  "id": 56,
+  "name": { "en": "Uttara", "hi": "उत्तर" },
+  "key_traits": {
+    "en": "Young prince, Initially fearful, Later courageous",
+    "hi": "युवा राजकुमार, आरंभ में भयभीत, बाद में साहसी"
+  },
+  "life_lesson": {
+    "en": "Courage often awakens in the presence of guidance.",
+    "hi": "सही मार्गदर्शन से साहस जागृत होता है।"
+  },
+  "story": {
+    "en": "Prince Uttara boasted of bravery but trembled when facing the Kaurava army. Guided by Arjuna (disguised as Brihannala), he found his courage.\n\nHis transformation shows that bravery grows under mentorship.",
+    "hi": "उत्तर ने वीरता का दावा किया पर युद्ध में भयभीत हुए।\n\nबृहन्नला (अर्जुन) के मार्गदर्शन से साहस पाया।"
+  },
+  "shloka": {
+    "sanskrit": "सत्संगात् भवति धैर्यम्",
+    "transliteration": "satsaṅgāt bhavati dhairyam",
+    "meaning": {
+      "en": "From noble company arises courage.",
+      "hi": "सत्संग से धैर्य उत्पन्न होता है।"
+    },
+    "reference": "Mahabharata"
+  }
+},
+{
+  "id": 57,
+  "name": { "en": "Uttaraa", "hi": "उत्तरा" },
+  "key_traits": {
+    "en": "Devoted wife, Grieving mother, Resilient",
+    "hi": "समर्पित पत्नी, शोकाकुल माता, धैर्यवान"
+  },
+  "life_lesson": {
+    "en": "Hope survives even after great loss.",
+    "hi": "महान हानि के बाद भी आशा जीवित रहती है।"
+  },
+  "story": {
+    "en": "Uttaraa, wife of Abhimanyu, was widowed while pregnant. After Ashwatthama’s attack, her unborn child was saved by Krishna.\n\nHer son Parikshit became the heir to the throne.\n\nShe represents resilience after devastation.",
+    "hi": "उत्तरा अभिमन्यु की पत्नी थीं।\n\nउनके गर्भस्थ पुत्र परीक्षित को कृष्ण ने बचाया।"
+  },
+  "shloka": {
+    "sanskrit": "आशा बलवती नित्यं",
+    "transliteration": "āśā balavatī nityaṁ",
+    "meaning": {
+      "en": "Hope is eternally strong.",
+      "hi": "आशा सदा बलवती है।"
+    },
+    "reference": "Mahabharata"
+  }
+},
+{
+  "id": 58,
+  "name": { "en": "Babruvahana", "hi": "बभ्रुवाहन" },
+  "key_traits": {
+    "en": "Noble king, Dutiful son, Complex destiny",
+    "hi": "श्रेष्ठ राजा, कर्तव्यनिष्ठ पुत्र, जटिल भाग्य"
+  },
+  "life_lesson": {
+    "en": "Duty may demand confrontation even with loved ones.",
+    "hi": "कर्तव्य कभी प्रियजनों से भी टकरा सकता है।"
+  },
+  "story": {
+    "en": "Babruvahana, son of Arjuna and Chitrangada, unknowingly defeated his father in battle during the Ashvamedha Yajna.\n\nLater revived, Arjuna embraced him.\n\nTheir encounter reflects the complexity of dharma and lineage.",
+    "hi": "बभ्रुवाहन ने अश्वमेध यज्ञ में अनजाने में अर्जुन को परास्त किया।"
+  },
+  "shloka": {
+    "sanskrit": "कर्तव्यं प्रियं न सदा",
+    "transliteration": "kartavyaṁ priyaṁ na sadā",
+    "meaning": {
+      "en": "Duty is not always pleasant.",
+      "hi": "कर्तव्य सदैव प्रिय नहीं होता।"
+    },
+    "reference": "Mahabharata"
+  }
+},
+{
+  "id": 59,
+  "name": { "en": "Ulupi", "hi": "उलूपी" },
+  "key_traits": {
+    "en": "Independent, Wise, Devoted",
+    "hi": "स्वतंत्र, ज्ञानी, समर्पित"
+  },
+  "life_lesson": {
+    "en": "Love guided by wisdom can heal past wounds.",
+    "hi": "बुद्धि सहित प्रेम पुराने घाव भर सकता है।"
+  },
+  "story": {
+    "en": "Ulupi, a Naga princess, married Arjuna and later revived him after Babruvahana defeated him.\n\nHer actions restored balance and reconciled father and son.\n\nShe teaches compassionate intervention.",
+    "hi": "उलूपी नागकन्या थीं।\n\nउन्होंने अर्जुन को पुनर्जीवित किया।"
+  },
+  "shloka": {
+    "sanskrit": "करुणा धर्मस्य हृदयम्",
+    "transliteration": "karuṇā dharmasya hṛdayam",
+    "meaning": {
+      "en": "Compassion is the heart of dharma.",
+      "hi": "करुणा धर्म का हृदय है।"
+    },
+    "reference": "Mahabharata"
+  }
+},
+{
+  "id": 60,
+  "name": { "en": "Iravan", "hi": "इरावान" },
+  "key_traits": {
+    "en": "Sacrificial, Devoted, Courageous",
+    "hi": "बलिदानी, समर्पित, साहसी"
+  },
+  "life_lesson": {
+    "en": "Ultimate sacrifice defines eternal honor.",
+    "hi": "परम बलिदान अमर सम्मान देता है।"
+  },
+  "story": {
+    "en": "Iravan, son of Arjuna and Ulupi, sacrificed himself before the war to ensure victory for the Pandavas.\n\nHis sacrifice is remembered as an act of supreme devotion.",
+    "hi": "इरावान ने युद्ध से पूर्व स्वयं का बलिदान दिया।"
+  },
+  "shloka": {
+    "sanskrit": "त्यागः परमं बलम्",
+    "transliteration": "tyāgaḥ paramaṁ balam",
+    "meaning": {
+      "en": "Sacrifice is the highest strength.",
+      "hi": "त्याग सर्वोच्च बल है।"
+    },
+    "reference": "Mahabharata"
+  }
+},
+{
+  "id": 61,
+  "name": { "en": "Vyasa", "hi": "व्यास" },
+  "key_traits": {
+    "en": "Sage, Author, Seer of truth",
+    "hi": "ऋषि, रचयिता, सत्यद्रष्टा"
+  },
+  "life_lesson": {
+    "en": "Wisdom preserves history and guides humanity.",
+    "hi": "ज्ञान इतिहास को सुरक्षित रखता है और मानवता को मार्ग दिखाता है।"
+  },
+  "story": {
+    "en": "Vyasa, compiler of the Mahabharata, witnessed and shaped the Kuru lineage. Through his pen, generations learn the subtleties of dharma.\n\nHe stands as both participant and chronicler.",
+    "hi": "व्यास महाभारत के रचयिता थे।\n\nउन्होंने इतिहास को शब्दों में अमर किया।"
+  },
+  "shloka": {
+    "sanskrit": "ज्ञानदीपः प्रदीप्यते",
+    "transliteration": "jñānadīpaḥ pradīpyate",
+    "meaning": {
+      "en": "The lamp of knowledge illuminates all.",
+      "hi": "ज्ञान का दीपक सबको प्रकाशित करता है।"
+    },
+    "reference": "Mahabharata"
+  }
+},
+{
+  "id": 62,
+  "name": { "en": "Narada", "hi": "नारद" },
+  "key_traits": {
+    "en": "Divine sage, Messenger, Spiritual catalyst",
+    "hi": "देवऋषि, संदेशवाहक, आध्यात्मिक प्रेरक"
+  },
+  "life_lesson": {
+    "en": "Truth delivered wisely transforms destinies.",
+    "hi": "समय पर कहा गया सत्य भाग्य बदल देता है।"
+  },
+  "story": {
+    "en": "Narada appeared at pivotal moments, offering insight and provoking reflection. His words often triggered change across kingdoms.\n\nHe symbolizes divine intervention through dialogue.",
+    "hi": "नारद ने महत्वपूर्ण अवसरों पर मार्गदर्शन दिया।"
+  },
+  "shloka": {
+    "sanskrit": "सत्यं हितं वदेत्",
+    "transliteration": "satyaṁ hitaṁ vadet",
+    "meaning": {
+      "en": "Speak truth that benefits.",
+      "hi": "हितकारी सत्य कहो।"
+    },
+    "reference": "Mahabharata"
+  }
+}
+,
+{
+  "id": 63,
+  "name": { "en": "Sanatsujata", "hi": "सनत्सुजात" },
+  "key_traits": {
+    "en": "Philosopher sage, Spiritual teacher, Detached",
+    "hi": "दार्शनिक ऋषि, आध्यात्मिक गुरु, विरक्त"
+  },
+  "life_lesson": {
+    "en": "Ignorance is the true death; knowledge is immortality.",
+    "hi": "अज्ञान ही वास्तविक मृत्यु है; ज्ञान अमरत्व है।"
+  },
+  "story": {
+    "en": "Sanatsujata delivered profound spiritual discourse to Dhritarashtra before the war. He explained that ignorance and ego are the real enemies.\n\nHis teachings form one of the most philosophical sections of the Mahabharata.",
+    "hi": "सनत्सुजात ने धृतराष्ट्र को आत्मज्ञान का उपदेश दिया।\n\nउन्होंने अज्ञान को ही मृत्यु बताया।"
+  },
+  "shloka": {
+    "sanskrit": "अविद्या मृत्युः",
+    "transliteration": "avidyā mṛtyuḥ",
+    "meaning": {
+      "en": "Ignorance is death.",
+      "hi": "अज्ञान मृत्यु है।"
+    },
+    "reference": "Mahabharata"
+  }
+},
+{
+  "id": 64,
+  "name": { "en": "Lomasa", "hi": "लोमश" },
+  "key_traits": {
+    "en": "Traveling sage, Guide, Storyteller",
+    "hi": "परिव्राजक ऋषि, मार्गदर्शक, कथावाचक"
+  },
+  "life_lesson": {
+    "en": "Stories preserve wisdom across generations.",
+    "hi": "कथाएँ ज्ञान को पीढ़ियों तक पहुँचाती हैं।"
+  },
+  "story": {
+    "en": "Lomasa accompanied the Pandavas during exile, narrating ancient legends to inspire them.\n\nHis role highlights how storytelling sustains morale and tradition.",
+    "hi": "लोमश ऋषि ने वनवास में पांडवों को कथाएँ सुनाईं।"
+  },
+  "shloka": {
+    "sanskrit": "कथा ज्ञानस्य वाहनम्",
+    "transliteration": "kathā jñānasya vāhanam",
+    "meaning": {
+      "en": "Narrative is the vehicle of knowledge.",
+      "hi": "कथा ज्ञान का वाहन है।"
+    },
+    "reference": "Mahabharata"
+  }
+},
+{
+  "id": 65,
+  "name": { "en": "Durmukha", "hi": "दुर्मुख" },
+  "key_traits": {
+    "en": "Harsh speaker, Loyal Kaurava, Aggressive",
+    "hi": "कटुभाषी, कौरव निष्ठ, आक्रामक"
+  },
+  "life_lesson": {
+    "en": "Harsh speech wounds deeper than weapons.",
+    "hi": "कटु वचन शस्त्र से भी गहरे घाव करते हैं।"
+  },
+  "story": {
+    "en": "Durmukha was known for his sharp tongue and loyalty to Duryodhana. His aggression reflected the arrogance within the Kaurava court.\n\nHe perished in battle, a reminder that words can shape destiny.",
+    "hi": "दुर्मुख अपने कटु स्वभाव के लिए प्रसिद्ध था।"
+  },
+  "shloka": {
+    "sanskrit": "वाचा हि घातः घोरतरः",
+    "transliteration": "vācā hi ghātaḥ ghorataraḥ",
+    "meaning": {
+      "en": "The wound caused by words is severe.",
+      "hi": "वाणी का आघात भीषण होता है।"
+    },
+    "reference": "Mahabharata"
+  }
+},
+{
+  "id": 66,
+  "name": { "en": "Dushasana", "hi": "दुःशासन" },
+  "key_traits": {
+    "en": "Cruel, Loyal to Duryodhana, Arrogant",
+    "hi": "क्रूर, दुर्योधन-निष्ठ, अहंकारी"
+  },
+  "life_lesson": {
+    "en": "Cruelty invites inevitable retribution.",
+    "hi": "क्रूरता निश्चित प्रतिशोध लाती है।"
+  },
+  "story": {
+    "en": "Dushasana dragged Draupadi into the court and attempted to disrobe her. His cruelty marked one of the darkest moments in the epic.\n\nBhima fulfilled his vow by killing him in war.\n\nHe represents unchecked brutality.",
+    "hi": "दुःशासन ने द्रौपदी का अपमान किया।\n\nभीम ने उसे युद्ध में मारा।"
+  },
+  "shloka": {
+    "sanskrit": "अत्याचारस्य परिणामः विनाशः",
+    "transliteration": "atyācārasya pariṇāmaḥ vināśaḥ",
+    "meaning": {
+      "en": "Oppression leads to destruction.",
+      "hi": "अत्याचार विनाश लाता है।"
+    },
+    "reference": "Mahabharata"
+  }
+},
+{
+  "id": 67,
+  "name": { "en": "Vikarna", "hi": "विकर्ण" },
+  "key_traits": {
+    "en": "Righteous Kaurava, Courageous, Truthful",
+    "hi": "धर्मनिष्ठ कौरव, साहसी, सत्यवादी"
+  },
+  "life_lesson": {
+    "en": "Even in wrong company, one can stand for justice.",
+    "hi": "गलत पक्ष में रहकर भी न्याय का साथ दिया जा सकता है।"
+  },
+  "story": {
+    "en": "Vikarna protested against Draupadi’s humiliation, questioning its legality. Though he later fought for the Kauravas, his voice stood out.\n\nHe symbolizes conscience within corruption.",
+    "hi": "विकर्ण ने द्रौपदी के अपमान का विरोध किया।"
+  },
+  "shloka": {
+    "sanskrit": "एकः अपि धर्मे स्थितः श्रेष्ठः",
+    "transliteration": "ekaḥ api dharme sthitaḥ śreṣṭhaḥ",
+    "meaning": {
+      "en": "Even one who stands for dharma is great.",
+      "hi": "धर्म पर अकेला खड़ा व्यक्ति भी महान है।"
+    },
+    "reference": "Mahabharata"
+  }
+},
+{
+  "id": 68,
+  "name": { "en": "Chitrasena", "hi": "चित्रसेन" },
+  "key_traits": {
+    "en": "Gandharva king, Artistic, Protective",
+    "hi": "गंधर्व राजा, कलात्मक, संरक्षक"
+  },
+  "life_lesson": {
+    "en": "Art and valor can coexist.",
+    "hi": "कला और वीरता साथ चल सकते हैं।"
+  },
+  "story": {
+    "en": "Chitrasena once defeated Duryodhana and later freed him at Yudhishthira’s request. His actions reflected balance between pride and mercy.",
+    "hi": "चित्रसेन ने दुर्योधन को हराया और बाद में मुक्त किया।"
+  },
+  "shloka": {
+    "sanskrit": "दयया बलं शोभते",
+    "transliteration": "dayayā balaṁ śobhate",
+    "meaning": {
+      "en": "Strength shines with compassion.",
+      "hi": "बल करुणा से शोभता है।"
+    },
+    "reference": "Mahabharata"
+  }
+},
+{
+  "id": 69,
+  "name": { "en": "Sudeshna", "hi": "सुदेष्णा" },
+  "key_traits": {
+    "en": "Queen of Matsya, Protective, Influenced by fear",
+    "hi": "मत्स्य रानी, संरक्षक, भय-प्रभावित"
+  },
+  "life_lesson": {
+    "en": "Fear can cloud moral judgment.",
+    "hi": "भय नैतिक निर्णय को धुंधला करता है।"
+  },
+  "story": {
+    "en": "Queen Sudeshna employed Draupadi during exile. Though kind at times, she allowed Kichaka’s misconduct to escalate.\n\nHer hesitation reveals how fear enables wrongdoing.",
+    "hi": "सुदेष्णा ने द्रौपदी को सेवा में रखा।\n\nकीचक के अत्याचार पर वे निर्णायक कदम न उठा सकीं।"
+  },
+  "shloka": {
+    "sanskrit": "भयात् अधर्मः जायते",
+    "transliteration": "bhayāt adharmaḥ jāyate",
+    "meaning": {
+      "en": "From fear arises injustice.",
+      "hi": "भय से अधर्म जन्म लेता है।"
+    },
+    "reference": "Mahabharata"
+  }
+}
+,
+{
+  "id": 70,
+  "name": { "en": "Brihannala", "hi": "बृहन्नला" },
+  "key_traits": {
+    "en": "Disguised warrior, Teacher, Patient",
+    "hi": "वेषधारी योद्धा, शिक्षक, धैर्यवान"
+  },
+  "life_lesson": {
+    "en": "True strength does not diminish in humility.",
+    "hi": "विनम्रता में भी शक्ति कम नहीं होती।"
+  },
+  "story": {
+    "en": "During exile, Arjuna lived disguised as Brihannala, teaching dance in King Virata’s court. Despite being a mighty warrior, he embraced humility.\n\nHis disguise protected his identity and preserved honor.\n\nBrihannala teaches that greatness adapts without losing essence.",
+    "hi": "अर्जुन ने बृहन्नला बनकर नृत्य सिखाया।\n\nउन्होंने विनम्रता से अपनी शक्ति को छिपाया।"
+  },
+  "shloka": {
+    "sanskrit": "विनयेन महान् भवति",
+    "transliteration": "vinayena mahān bhavati",
+    "meaning": {
+      "en": "Through humility one becomes truly great.",
+      "hi": "विनम्रता से ही महानता मिलती है।"
+    },
+    "reference": "Mahabharata"
+  }
+},
+{
+  "id": 71,
+  "name": { "en": "King Virata", "hi": "राजा विराट" },
+  "key_traits": {
+    "en": "Hospitable, Brave, Protective ruler",
+    "hi": "अतिथि-सत्कारक, वीर, संरक्षक"
+  },
+  "life_lesson": {
+    "en": "Leadership is tested in times of uncertainty.",
+    "hi": "अनिश्चित समय में नेतृत्व की परीक्षा होती है।"
+  },
+  "story": {
+    "en": "King Virata unknowingly sheltered the Pandavas during their exile. His trust and fairness provided them refuge.\n\nHis kingdom became the turning point before war.",
+    "hi": "राजा विराट ने अनजाने में पांडवों को शरण दी।"
+  },
+  "shloka": {
+    "sanskrit": "अतिथिदेवो भव",
+    "transliteration": "atithi-devo bhava",
+    "meaning": {
+      "en": "Honor the guest as divine.",
+      "hi": "अतिथि को देवतुल्य मानो।"
+    },
+    "reference": "Upanishad"
+  }
+},
+{
+  "id": 72,
+  "name": { "en": "King Drupada", "hi": "राजा द्रुपद" },
+  "key_traits": {
+    "en": "Proud king, Vengeful, Determined father",
+    "hi": "गर्वित राजा, प्रतिशोधी, दृढ़ पिता"
+  },
+  "life_lesson": {
+    "en": "Broken friendship can ignite generational conflict.",
+    "hi": "टूटी मित्रता पीढ़ियों का संघर्ष जन्म देती है।"
+  },
+  "story": {
+    "en": "Drupada and Drona were once friends. When Drupada denied that friendship, Drona humiliated him in return.\n\nDrupada later performed a yajna to beget Dhrishtadyumna and Draupadi.\n\nHis pride reshaped destiny.",
+    "hi": "द्रुपद और द्रोण मित्र थे।\n\nअपमान ने प्रतिशोध को जन्म दिया।"
+  },
+  "shloka": {
+    "sanskrit": "मित्रभेदः विनाशाय",
+    "transliteration": "mitrabhedaḥ vināśāya",
+    "meaning": {
+      "en": "Division between friends leads to ruin.",
+      "hi": "मित्रता में दरार विनाश लाती है।"
+    },
+    "reference": "Mahabharata"
+  }
+},
+{
+  "id": 73,
+  "name": { "en": "Pradyumna", "hi": "प्रद्युम्न" },
+  "key_traits": {
+    "en": "Warrior prince, Devoted son, Reincarnated spirit",
+    "hi": "योद्धा राजकुमार, समर्पित पुत्र, पुनर्जन्मित आत्मा"
+  },
+  "life_lesson": {
+    "en": "Divine essence transcends birth and rebirth.",
+    "hi": "दैवी तत्व जन्म-मरण से परे है।"
+  },
+  "story": {
+    "en": "Pradyumna, son of Krishna and Rukmini, was believed to be the reincarnation of Kamadeva. Abducted in infancy, he later returned to his parents.\n\nHis life reflects divine continuity.",
+    "hi": "प्रद्युम्न कृष्ण के पुत्र थे और कामदेव का अवतार माने जाते हैं।"
+  },
+  "shloka": {
+    "sanskrit": "आत्मा न जायते म्रियते वा",
+    "transliteration": "ātmā na jāyate mriyate vā",
+    "meaning": {
+      "en": "The soul is never born nor does it die.",
+      "hi": "आत्मा न जन्म लेती है न मरती है।"
+    },
+    "reference": "Bhagavad Gita 2.20"
+  }
+},
+{
+  "id": 74,
+  "name": { "en": "Samba", "hi": "साम्ब" },
+  "key_traits": {
+    "en": "Impulsive, Mischievous, Catalyst of destruction",
+    "hi": "आवेगशील, शरारती, विनाश का कारण"
+  },
+  "life_lesson": {
+    "en": "Irresponsible actions can destroy even mighty dynasties.",
+    "hi": "अविवेकपूर्ण कर्म महान वंशों को नष्ट कर सकते हैं।"
+  },
+  "story": {
+    "en": "Samba, son of Krishna, once mocked sages and incurred a curse that led to the destruction of the Yadava clan.\n\nHis playful arrogance triggered tragic consequences.",
+    "hi": "साम्ब ने ऋषियों का उपहास किया।\n\nश्राप से यादव वंश का विनाश हुआ।"
+  },
+  "shloka": {
+    "sanskrit": "अविवेकः विनाशाय",
+    "transliteration": "avivekaḥ vināśāya",
+    "meaning": {
+      "en": "Lack of wisdom leads to destruction.",
+      "hi": "अविवेक विनाश का कारण है।"
+    },
+    "reference": "Mahabharata"
+  }
+},
+{
+  "id": 75,
+  "name": { "en": "Aniruddha", "hi": "अनिरुद्ध" },
+  "key_traits": {
+    "en": "Valiant, Romantic, Determined",
+    "hi": "वीर, प्रेमी, दृढ़"
+  },
+  "life_lesson": {
+    "en": "Love must be supported by courage.",
+    "hi": "प्रेम को साहस का साथ चाहिए।"
+  },
+  "story": {
+    "en": "Aniruddha, grandson of Krishna, eloped with Usha. His capture led to war between Krishna and Banasura.\n\nLove became the cause of conflict and reconciliation.",
+    "hi": "अनिरुद्ध ने उषा से प्रेम किया।\n\nउनकी कथा प्रेम और युद्ध दोनों की कहानी है।"
+  },
+  "shloka": {
+    "sanskrit": "साहसं प्रेमस्य आधारः",
+    "transliteration": "sāhasaṁ premasya ādhāraḥ",
+    "meaning": {
+      "en": "Courage is the foundation of love.",
+      "hi": "साहस प्रेम का आधार है।"
+    },
+    "reference": "Mahabharata"
+  }
+},
+{
+  "id": 76,
+  "name": { "en": "Akrura", "hi": "अक्रूर" },
+  "key_traits": {
+    "en": "Devotee, Diplomat, Wise messenger",
+    "hi": "भक्त, कूटनीतिज्ञ, बुद्धिमान दूत"
+  },
+  "life_lesson": {
+    "en": "Diplomacy guided by devotion serves higher purpose.",
+    "hi": "भक्ति सहित कूटनीति उच्च उद्देश्य की सेवा करती है।"
+  },
+  "story": {
+    "en": "Akrura brought Krishna to Mathura, setting in motion events that ended Kamsa’s tyranny.\n\nHis faith-driven diplomacy altered history.",
+    "hi": "अक्रूर ने कृष्ण को मथुरा लाया।"
+  },
+  "shloka": {
+    "sanskrit": "भक्त्या कार्यं सिद्ध्यति",
+    "transliteration": "bhaktyā kāryaṁ siddhyati",
+    "meaning": {
+      "en": "Through devotion, tasks are accomplished.",
+      "hi": "भक्ति से कार्य सिद्ध होते हैं।"
+    },
+    "reference": "Mahabharata"
+  }
+}
+,
+{
+  "id": 77,
+  "name": { "en": "Uddhava", "hi": "उद्धव" },
+  "key_traits": {
+    "en": "Philosophical, Devoted, Wise counselor",
+    "hi": "दार्शनिक, भक्त, बुद्धिमान सलाहकार"
+  },
+  "life_lesson": {
+    "en": "True devotion matures into wisdom.",
+    "hi": "सच्ची भक्ति ज्ञान में परिवर्तित होती है।"
+  },
+  "story": {
+    "en": "Uddhava was a close confidant of Krishna. He received profound spiritual teachings near the end of Krishna’s earthly life.\n\nHis devotion evolved into philosophical insight.",
+    "hi": "उद्धव कृष्ण के निकटतम भक्तों में थे।"
+  },
+  "shloka": {
+    "sanskrit": "भक्तिः ज्ञानस्य जननी",
+    "transliteration": "bhaktiḥ jñānasya jananī",
+    "meaning": {
+      "en": "Devotion is the mother of wisdom.",
+      "hi": "भक्ति ज्ञान की जननी है।"
+    },
+    "reference": "Mahabharata"
+  }
+},
+{
+  "id": 78,
+  "name": { "en": "Vasudeva", "hi": "वसुदेव" },
+  "key_traits": {
+    "en": "Devoted father, Patient, Courageous",
+    "hi": "समर्पित पिता, धैर्यवान, साहसी"
+  },
+  "life_lesson": {
+    "en": "Faith sustains strength during oppression.",
+    "hi": "अत्याचार के समय आस्था शक्ति देती है।"
+  },
+  "story": {
+    "en": "Vasudeva endured imprisonment under Kamsa. With unwavering faith, he carried infant Krishna across the Yamuna to safety.\n\nHis courage preserved destiny.",
+    "hi": "वसुदेव ने कारावास सहा और कृष्ण को सुरक्षित पहुँचाया।"
+  },
+  "shloka": {
+    "sanskrit": "श्रद्धा बलवती भवति",
+    "transliteration": "śraddhā balavatī bhavati",
+    "meaning": {
+      "en": "Faith becomes strength.",
+      "hi": "श्रद्धा शक्ति बनती है।"
+    },
+    "reference": "Mahabharata"
+  }
+},
+{
+  "id": 79,
+  "name": { "en": "Devaki", "hi": "देवकी" },
+  "key_traits": {
+    "en": "Devoted mother, Enduring, Hopeful",
+    "hi": "समर्पित माता, सहनशील, आशावान"
+  },
+  "life_lesson": {
+    "en": "Endurance sustains hope even in darkness.",
+    "hi": "सहनशीलता अंधकार में भी आशा बनाए रखती है।"
+  },
+  "story": {
+    "en": "Devaki witnessed the death of her children under Kamsa’s tyranny. Yet her faith never wavered.\n\nShe symbolizes maternal endurance.",
+    "hi": "देवकी ने अपने पुत्रों को खोया, पर आस्था नहीं खोई।"
+  },
+  "shloka": {
+    "sanskrit": "धैर्यं सर्वत्र साधनम्",
+    "transliteration": "dhairyaṁ sarvatra sādhanam",
+    "meaning": {
+      "en": "Patience is the means in all circumstances.",
+      "hi": "धैर्य हर परिस्थिति में साधन है।"
+    },
+    "reference": "Mahabharata"
+  }
+},
+{
+  "id": 80,
+  "name": { "en": "Rohini", "hi": "रोहिणी" },
+  "key_traits": {
+    "en": "Protective mother, Gentle, Strong-hearted",
+    "hi": "संरक्षक माता, सौम्य, दृढ़ हृदय"
+  },
+  "life_lesson": {
+    "en": "Gentleness and strength coexist in motherhood.",
+    "hi": "मातृत्व में कोमलता और शक्ति साथ होते हैं।"
+  },
+  "story": {
+    "en": "Rohini raised Balarama with care and discipline during dangerous times.\n\nHer nurturing presence shaped resilience.",
+    "hi": "रोहिणी ने बलराम का पालन किया।"
+  },
+  "shloka": {
+    "sanskrit": "मातृस्नेहः आधारः",
+    "transliteration": "mātṛ-snehaḥ ādhāraḥ",
+    "meaning": {
+      "en": "A mother’s love is the foundation.",
+      "hi": "माता का स्नेह आधार है।"
+    },
+    "reference": "Mahabharata"
+  }
+},
+{
+  "id": 81,
+  "name": { "en": "Rukmini", "hi": "रुक्मिणी" },
+  "key_traits": {
+    "en": "Devoted queen, Wise, Graceful",
+    "hi": "समर्पित रानी, बुद्धिमान, सौम्य"
+  },
+  "life_lesson": {
+    "en": "Faith-driven love overcomes obstacles.",
+    "hi": "आस्था-आधारित प्रेम बाधाएँ पार करता है।"
+  },
+  "story": {
+    "en": "Rukmini chose Krishna over an arranged marriage and sent him a heartfelt message seeking rescue.\n\nHer courage and faith redefined her destiny.",
+    "hi": "रुक्मिणी ने कृष्ण को पति चुना।"
+  },
+  "shloka": {
+    "sanskrit": "श्रद्धया लभ्यते प्रियः",
+    "transliteration": "śraddhayā labhyate priyaḥ",
+    "meaning": {
+      "en": "Through faith one attains the beloved.",
+      "hi": "श्रद्धा से प्रिय प्राप्त होता है।"
+    },
+    "reference": "Mahabharata"
+  }
+},
+{
+  "id": 82,
+  "name": { "en": "Banasura", "hi": "बाणासुर" },
+  "key_traits": {
+    "en": "Proud king, Devotee of Shiva, Powerful",
+    "hi": "गर्वित राजा, शिव भक्त, शक्तिशाली"
+  },
+  "life_lesson": {
+    "en": "Power supported by ego invites correction.",
+    "hi": "अहंकारयुक्त शक्ति सुधार आमंत्रित करती है।"
+  },
+  "story": {
+    "en": "Banasura imprisoned Aniruddha, leading to battle with Krishna. Though powerful and devoted to Shiva, his pride caused conflict.\n\nHe was ultimately spared but humbled.",
+    "hi": "बाणासुर ने अनिरुद्ध को कैद किया।"
+  },
+  "shloka": {
+    "sanskrit": "अहंकारः शत्रुः आत्मनः",
+    "transliteration": "ahaṁkāraḥ śatruḥ ātmanaḥ",
+    "meaning": {
+      "en": "Ego is one’s own enemy.",
+      "hi": "अहंकार स्वयं का शत्रु है।"
+    },
+    "reference": "Mahabharata"
+  }
+},
+{
+  "id": 83,
+  "name": { "en": "Markandeya", "hi": "मार्कण्डेय" },
+  "key_traits": {
+    "en": "Immortal sage, Devoted, Witness of ages",
+    "hi": "अमर ऋषि, भक्त, युगों के साक्षी"
+  },
+  "life_lesson": {
+    "en": "Devotion transcends time.",
+    "hi": "भक्ति समय से परे है।"
+  },
+  "story": {
+    "en": "Markandeya narrated cosmic visions and ancient tales to the Pandavas during exile.\n\nHis perspective stretched beyond human lifetimes.",
+    "hi": "मार्कण्डेय ने पांडवों को प्राचीन कथाएँ सुनाईं।"
+  },
+  "shloka": {
+    "sanskrit": "भक्तो न नश्यति",
+    "transliteration": "bhakto na naśyati",
+    "meaning": {
+      "en": "The devoted never perish.",
+      "hi": "भक्त नष्ट नहीं होता।"
+    },
+    "reference": "Mahabharata"
+  }
+}
+,
+{
+  "id": 84,
+  "name": { "en": "Kanva", "hi": "कण्व" },
+  "key_traits": {
+    "en": "Sage, Mentor, Compassionate",
+    "hi": "ऋषि, मार्गदर्शक, करुणामय"
+  },
+  "life_lesson": {
+    "en": "Guidance nurtures hidden potential.",
+    "hi": "मार्गदर्शन छिपी क्षमता को पोषित करता है।"
+  },
+  "story": {
+    "en": "Rishi Kanva raised Shakuntala with love and wisdom. His hermitage was a sanctuary of knowledge.\n\nHe symbolizes nurturing mentorship.",
+    "hi": "ऋषि कण्व ने शकुंतला का पालन किया।"
+  },
+  "shloka": {
+    "sanskrit": "गुरुकृपा महद् बलम्",
+    "transliteration": "gurukṛpā mahad balam",
+    "meaning": {
+      "en": "A teacher’s grace is great strength.",
+      "hi": "गुरु कृपा महान बल है।"
+    },
+    "reference": "Mahabharata"
+  }
+},
+{
+  "id": 85,
+  "name": { "en": "Vasistha", "hi": "वशिष्ठ" },
+  "key_traits": {
+    "en": "Ancient sage, Wise, Spiritual authority",
+    "hi": "प्राचीन ऋषि, ज्ञानी, आध्यात्मिक अधिकार"
+  },
+  "life_lesson": {
+    "en": "Spiritual strength surpasses material power.",
+    "hi": "आध्यात्मिक शक्ति भौतिक शक्ति से श्रेष्ठ है।"
+  },
+  "story": {
+    "en": "Vasistha appears in epic traditions as a guiding sage. His wisdom influenced generations of kings.\n\nHe represents timeless spiritual authority.",
+    "hi": "वशिष्ठ प्राचीन ऋषि थे जिनका प्रभाव दूरगामी था।"
+  },
+  "shloka": {
+    "sanskrit": "ब्रह्मतेजः सर्वश्रेष्ठम्",
+    "transliteration": "brahmatejaḥ sarvaśreṣṭham",
+    "meaning": {
+      "en": "Spiritual radiance is supreme.",
+      "hi": "ब्रह्मतेज सर्वोच्च है।"
+    },
+    "reference": "Mahabharata"
+  }
+},
+{
+  "id": 86,
+  "name": { "en": "Gautama", "hi": "गौतम" },
+  "key_traits": {
+    "en": "Rishi, Disciplined, Ethical",
+    "hi": "ऋषि, अनुशासित, नैतिक"
+  },
+  "life_lesson": {
+    "en": "Discipline builds moral clarity.",
+    "hi": "अनुशासन नैतिक स्पष्टता देता है।"
+  },
+  "story": {
+    "en": "Rishi Gautama is remembered in epic lore for austerity and discipline. His life emphasized restraint and moral rigor.",
+    "hi": "गौतम ऋषि तप और अनुशासन के लिए प्रसिद्ध थे।"
+  },
+  "shloka": {
+    "sanskrit": "तपसा शुद्धिः",
+    "transliteration": "tapasā śuddhiḥ",
+    "meaning": {
+      "en": "Through austerity comes purity.",
+      "hi": "तप से शुद्धि होती है।"
+    },
+    "reference": "Mahabharata"
+  }
+},
+{
+  "id": 87,
+  "name": { "en": "Dhaumya", "hi": "धौम्य" },
+  "key_traits": {
+    "en": "Priest of Pandavas, Loyal, Wise",
+    "hi": "पांडव पुरोहित, निष्ठावान, ज्ञानी"
+  },
+  "life_lesson": {
+    "en": "Spiritual guidance strengthens resilience.",
+    "hi": "आध्यात्मिक मार्गदर्शन धैर्य बढ़ाता है।"
+  },
+  "story": {
+    "en": "Dhaumya accompanied the Pandavas during exile, offering ritual and moral support.\n\nHis steady presence reinforced faith.",
+    "hi": "धौम्य ऋषि ने वनवास में पांडवों का साथ दिया।"
+  },
+  "shloka": {
+    "sanskrit": "आस्था बलं ददाति",
+    "transliteration": "āsthā balaṁ dadāti",
+    "meaning": {
+      "en": "Faith gives strength.",
+      "hi": "आस्था बल देती है।"
+    },
+    "reference": "Mahabharata"
+  }
+},
+{
+  "id": 88,
+  "name": { "en": "Parikshit", "hi": "परीक्षित" },
+  "key_traits": {
+    "en": "Heir of Pandavas, Protected by grace, Reflective king",
+    "hi": "पांडव वंशज, कृपा से रक्षित, चिंतनशील राजा"
+  },
+  "life_lesson": {
+    "en": "Life preserved by grace must serve dharma.",
+    "hi": "कृपा से बचा जीवन धर्म की सेवा करे।"
+  },
+  "story": {
+    "en": "Parikshit survived in the womb by Krishna’s protection. He later ruled wisely but faced curse and death.\n\nHis story bridges Mahabharata and Bhagavata traditions.",
+    "hi": "परीक्षित गर्भ में कृष्ण द्वारा रक्षित हुए।"
+  },
+  "shloka": {
+    "sanskrit": "कृपा जीवनस्य आधारः",
+    "transliteration": "kṛpā jīvanasya ādhāraḥ",
+    "meaning": {
+      "en": "Grace sustains life.",
+      "hi": "कृपा जीवन का आधार है।"
+    },
+    "reference": "Mahabharata"
+  }
+},
+{
+  "id": 89,
+  "name": { "en": "Janamejaya", "hi": "जनमेजय" },
+  "key_traits": {
+    "en": "King, Seeker of revenge, Later reflective",
+    "hi": "राजा, प्रतिशोधी, बाद में चिंतनशील"
+  },
+  "life_lesson": {
+    "en": "Revenge must yield to wisdom.",
+    "hi": "प्रतिशोध को अंततः ज्ञान के आगे झुकना चाहिए।"
+  },
+  "story": {
+    "en": "Janamejaya performed the snake sacrifice to avenge his father Parikshit. Ultimately, sages intervened to stop it.\n\nHe learned the limits of vengeance.",
+    "hi": "जनमेजय ने सर्पयज्ञ किया पर अंततः रोका गया।"
+  },
+  "shloka": {
+    "sanskrit": "क्षमा श्रेष्ठा विजयात्",
+    "transliteration": "kṣamā śreṣṭhā vijayāt",
+    "meaning": {
+      "en": "Forgiveness is greater than conquest.",
+      "hi": "क्षमा विजय से श्रेष्ठ है।"
+    },
+    "reference": "Mahabharata"
+  }
+},
+{
+  "id": 90,
+  "name": { "en": "Sanjaya", "hi": "संजय" },
+  "key_traits": {
+    "en": "Narrator, Visionary, Loyal advisor",
+    "hi": "द्रष्टा, कथावाचक, निष्ठावान सलाहकार"
+  },
+  "life_lesson": {
+    "en": "Clarity of vision brings truthful narration.",
+    "hi": "स्पष्ट दृष्टि सत्य कथन लाती है।"
+  },
+  "story": {
+    "en": "Blessed with divine sight, Sanjaya narrated the Kurukshetra war to Dhritarashtra in real time.\n\nHe became the voice of truth amid chaos.",
+    "hi": "संजय ने दिव्य दृष्टि से युद्ध का वर्णन किया।"
+  },
+  "shloka": {
+    "sanskrit": "सत्यदर्शनं महत् वरम्",
+    "transliteration": "satyadarśanaṁ mahat varam",
+    "meaning": {
+      "en": "Vision of truth is a great blessing.",
+      "hi": "सत्य का दर्शन महान वरदान है।"
+    },
+    "reference": "Mahabharata"
+  }
+},
+{
+  "id": 91,
+  "name": { "en": "Dhritarashtra", "hi": "धृतराष्ट्र" },
+  "key_traits": {
+    "en": "Blind king, Attached father, Weak-willed",
+    "hi": "अंध राजा, पुत्रमोहित, दुर्बल इच्छाशक्ति"
+  },
+  "life_lesson": {
+    "en": "Attachment clouds judgment.",
+    "hi": "मोह निर्णय को धुंधला करता है।"
+  },
+  "story": {
+    "en": "Dhritarashtra’s physical blindness symbolized inner blindness. His attachment to Duryodhana prevented justice.\n\nHis life is a cautionary tale of unchecked attachment.",
+    "hi": "धृतराष्ट्र की अंधता भीतर की अंधता भी थी।"
+  },
+  "shloka": {
+    "sanskrit": "मोहात् नश्यति बुद्धिः",
+    "transliteration": "mohāt naśyati buddhiḥ",
+    "meaning": {
+      "en": "From attachment comes loss of wisdom.",
+      "hi": "मोह से बुद्धि नष्ट होती है।"
+    },
+    "reference": "Bhagavad Gita 2.63"
+  }
+},
+{
+  "id": 92,
+  "name": { "en": "Ganga", "hi": "गंगा" },
+  "key_traits": {
+    "en": "Divine mother, Mysterious, Compassionate",
+    "hi": "दैवी माता, रहस्यमयी, करुणामयी"
+  },
+  "life_lesson": {
+    "en": "Divine actions may appear harsh but serve higher purpose.",
+    "hi": "दैवी कर्म कठोर दिख सकते हैं पर उच्च उद्देश्य रखते हैं।"
+  },
+  "story": {
+    "en": "Ganga drowned her seven sons to fulfill a celestial curse and spared the eighth — Bhishma.\n\nHer actions reveal cosmic complexity beyond human understanding.",
+    "hi": "गंगा ने श्राप के कारण सात पुत्रों को बहाया।"
+  },
+  "shloka": {
+    "sanskrit": "दैवकार्यं गूढम्",
+    "transliteration": "daivakāryaṁ gūḍham",
+    "meaning": {
+      "en": "Divine workings are mysterious.",
+      "hi": "दैवी कार्य रहस्यमय होते हैं।"
+    },
+    "reference": "Mahabharata"
+  }
+},
+{
+  "id": 93,
+  "name": { "en": "Kamsa", "hi": "कंस" },
+  "key_traits": {
+    "en": "Tyrant king, Fear-driven, Ruthless",
+    "hi": "अत्याचारी राजा, भयग्रस्त, निर्दयी"
+  },
+  "life_lesson": {
+    "en": "Fear of destiny accelerates downfall.",
+    "hi": "भाग्य का भय पतन तेज कर देता है।"
+  },
+  "story": {
+    "en": "Kamsa killed Devaki’s children fearing prophecy. Yet destiny unfolded as Krishna ended his tyranny.\n\nHis fear shaped his cruelty.",
+    "hi": "कंस ने भविष्यवाणी के भय से अत्याचार किया।"
+  },
+  "shloka": {
+    "sanskrit": "भयात् क्रूरता जायते",
+    "transliteration": "bhayāt krūratā jāyate",
+    "meaning": {
+      "en": "From fear arises cruelty.",
+      "hi": "भय से क्रूरता जन्म लेती है।"
+    },
+    "reference": "Mahabharata"
+  }
+},{
+  "id": 94,
+  "name": { "en": "King Bharata", "hi": "राजा भरत" },
+  "key_traits": {
+    "en": "Visionary ruler, Just, Nation-builder",
+    "hi": "दूरदर्शी शासक, न्यायप्रिय, राष्ट्र निर्माता"
+  },
+  "life_lesson": {
+    "en": "True legacy is built on merit, not lineage.",
+    "hi": "सच्ची विरासत वंश से नहीं, योग्यतापर आधारित होती है।"
+  },
+  "story": {
+    "en": "King Bharata, son of Shakuntala and Dushyanta, was one of the greatest emperors of ancient India. The land of Bharat (India) derives its name from him. Unlike many kings, Bharata did not choose his sons as heirs because he found them unworthy. Instead, he selected a capable successor based on merit.\n\nHis decision strengthened the kingdom and established the principle that leadership should be earned.\n\nBharata teaches that responsibility toward a nation is greater than attachment to family.",
+    "hi": "राजा भरत शकुंतला और दुष्यंत के पुत्र थे। भारतवर्ष का नाम उन्हीं के नाम पर पड़ा। उन्होंने अपने पुत्रों को अयोग्य समझकर योग्य उत्तराधिकारी चुना।\n\nउनकी कथा सिखाती है कि नेतृत्व योग्यता पर आधारित होना चाहिए।"
+  },
+  "shloka": {
+    "sanskrit": "योग्यः एव राजा भवेत्",
+    "transliteration": "yogyaḥ eva rājā bhavet",
+    "meaning": {
+      "en": "Only the worthy should rule.",
+      "hi": "राज्य पर वही शासन करे जो योग्य हो।"
+    },
+    "reference": "Mahabharata, Adi Parva"
+  }
+},{
+  "id": 95,
+  "name": { "en": "King Kuru", "hi": "राजा कुरु" },
+  "key_traits": {
+    "en": "Ascetic king, Devoted to dharma, Determined",
+    "hi": "तपस्वी राजा, धर्मनिष्ठ, दृढ़ संकल्पी"
+  },
+  "life_lesson": {
+    "en": "Persistent effort sanctifies even the earth.",
+    "hi": "दृढ़ प्रयास भूमि को भी पवित्र बना देता है।"
+  },
+  "story": {
+    "en": "King Kuru, ancestor of both Pandavas and Kauravas, performed intense penance on the land that later became Kurukshetra. He ploughed the land himself as an act of spiritual discipline.\n\nImpressed by his devotion, the gods blessed the land, declaring that anyone who died there in righteousness would attain heaven.\n\nKing Kuru teaches that dedication and tapasya can transform ordinary places into sacred ground.",
+    "hi": "राजा कुरु ने कुरुक्षेत्र की भूमि पर तप किया और स्वयं हल चलाया। देवताओं ने प्रसन्न होकर उसे पवित्र घोषित किया।\n\nउनकी कथा बताती है कि तप और परिश्रम से भूमि भी तीर्थ बन जाती है।"
+  },
+  "shloka": {
+    "sanskrit": "तपसा सिद्धिर्भवति",
+    "transliteration": "tapasā siddhir bhavati",
+    "meaning": {
+      "en": "Through penance comes accomplishment.",
+      "hi": "तप से सिद्धि प्राप्त होती है।"
+    },
+    "reference": "Mahabharata"
+  }
+},{
+  "id": 96,
+  "name": { "en": "King Yayati", "hi": "राजा ययाति" },
+  "key_traits": {
+    "en": "Ambitious, Desire-driven, Eventually wise",
+    "hi": "महत्वाकांक्षी, कामनाप्रेरित, अंततः ज्ञानी"
+  },
+  "life_lesson": {
+    "en": "Desire never ends through indulgence.",
+    "hi": "भोग से इच्छा कभी समाप्त नहीं होती।"
+  },
+  "story": {
+    "en": "King Yayati was cursed with premature old age for succumbing to desire. He asked his sons to exchange their youth with him. Only Puru agreed. Yayati enjoyed worldly pleasures for years but eventually realized that desire cannot be satisfied by indulgence.\n\nHe returned youth to Puru and accepted renunciation.\n\nYayati teaches that unchecked desire leads to exhaustion, not fulfillment.",
+    "hi": "राजा ययाति को कामवासना के कारण वृद्धावस्था का श्राप मिला। पुत्र पुरु ने अपना यौवन उन्हें दिया। भोग के बाद ययाति को ज्ञान हुआ कि इच्छा कभी समाप्त नहीं होती।"
+  },
+  "shloka": {
+    "sanskrit": "न जातु कामः कामानामुपभोगेन शाम्यति",
+    "transliteration": "na jātu kāmaḥ kāmānām upabhogena śāmyati",
+    "meaning": {
+      "en": "Desire is never quenched by enjoyment.",
+      "hi": "भोग से कामना कभी शांत नहीं होती।"
+    },
+    "reference": "Mahabharata"
+  }
+},{
+  "id": 97,
+  "name": { "en": "King Puru", "hi": "राजा पुरु" },
+  "key_traits": {
+    "en": "Obedient, Self-sacrificing, Dutiful son",
+    "hi": "आज्ञाकारी, त्यागी, कर्तव्यनिष्ठ पुत्र"
+  },
+  "life_lesson": {
+    "en": "Sacrifice today builds dynasties tomorrow.",
+    "hi": "आज का त्याग भविष्य की वंश परंपरा बनाता है।"
+  },
+  "story": {
+    "en": "Puru, youngest son of Yayati, willingly gave his youth to his father without resentment. In return, Yayati declared him his true heir, and from Puru’s lineage emerged the Kuru dynasty.\n\nPuru’s silent sacrifice shaped the entire Mahabharata lineage.\n\nHis story teaches that humility and obedience can carry immense historical significance.",
+    "hi": "पुरु ने अपने पिता ययाति को यौवन दिया। बदले में उन्हें उत्तराधिकारी बनाया गया। उन्हीं से कुरुवंश चला।\n\nउनका त्याग महाभारत की नींव बना।"
+  },
+  "shloka": {
+    "sanskrit": "पितृसेवा परमो धर्मः",
+    "transliteration": "pitṛ-sevā paramo dharmaḥ",
+    "meaning": {
+      "en": "Service to father is supreme dharma.",
+      "hi": "पिता की सेवा सर्वोच्च धर्म है।"
+    },
+    "reference": "Mahabharata"
+  }
+},{
+  "id": 98,
+  "name": { "en": "Pratipa", "hi": "प्रतीप" },
+  "key_traits": {
+    "en": "Calm, Righteous, Wise elder king",
+    "hi": "शांत, धर्मप्रिय, ज्ञानी राजा"
+  },
+  "life_lesson": {
+    "en": "Patience in youth prevents chaos in the future.",
+    "hi": "युवा अवस्था में धैर्य भविष्य की अशांति रोकता है।"
+  },
+  "story": {
+    "en": "King Pratipa was the father of Shantanu. When Goddess Ganga approached him desiring marriage, he gently refused, explaining that she could marry his future son instead.\n\nHis wisdom and restraint preserved dharma and avoided scandal.\n\nPratipa teaches that maturity lies in restraint and clarity of boundaries.",
+    "hi": "प्रतीप राजा शांतनु के पिता थे। गंगा ने विवाह प्रस्ताव दिया तो उन्होंने धर्मपूर्वक मना किया और भविष्य में पुत्र से विवाह का संकेत दिया।\n\nउनकी संयमित बुद्धि ने वंश को स्थिर रखा।"
+  },
+  "shloka": {
+    "sanskrit": "धैर्यं सर्वत्र साधनम्",
+    "transliteration": "dhairyaṁ sarvatra sādhanam",
+    "meaning": {
+      "en": "Patience is a tool in every situation.",
+      "hi": "धैर्य हर परिस्थिति का साधन है।"
+    },
+    "reference": "Mahabharata"
+  }
+},{
+  "id": 99,
+  "name": { "en": "Sage Lomasha", "hi": "ऋषि लोमश" },
+  "key_traits": {
+    "en": "Traveler sage, Guide, Detached observer",
+    "hi": "यात्री ऋषि, मार्गदर्शक, विरक्त दर्शक"
+  },
+  "life_lesson": {
+    "en": "Sacred journeys cleanse the mind.",
+    "hi": "तीर्थ यात्रा मन को शुद्ध करती है।"
+  },
+  "story": {
+    "en": "Sage Lomasha guided the Pandavas during their exile. He took them on pilgrimages across holy places, reminding them that exile was not punishment but spiritual preparation.\n\nThrough stories of ancient kings and sages, he gave them strength and patience.\n\nLomasha teaches that hardships can become opportunities for spiritual growth.",
+    "hi": "ऋषि लोमश ने वनवास के समय पांडवों को तीर्थयात्रा कराई। उन्होंने कठिनाई को आध्यात्मिक अवसर में बदला।"
+  },
+  "shloka": {
+    "sanskrit": "तीर्थानि मनः शुद्धये",
+    "transliteration": "tīrthāni manaḥ śuddhaye",
+    "meaning": {
+      "en": "Pilgrimages purify the mind.",
+      "hi": "तीर्थ मन को शुद्ध करते हैं।"
+    },
+    "reference": "Mahabharata"
+  }
+},{
+  "id": 100,
+  "name": { "en": "Sage Shuka", "hi": "शुकदेव" },
+  "key_traits": {
+    "en": "Renunciate, Enlightened, Detached",
+    "hi": "त्यागी, ज्ञानी, विरक्त"
+  },
+  "life_lesson": {
+    "en": "True freedom lies in detachment from the world.",
+    "hi": "सच्ची मुक्ति संसार से विरक्ति में है।"
+  },
+  "story": {
+    "en": "Shuka, son of Vyasa, was born enlightened and detached from worldly life. He later narrated the Bhagavata Purana to King Parikshit in his final days.\n\nUnmoved by temptation or fear, Shuka embodied pure spiritual awareness.\n\nHe teaches that inner freedom is greater than royal power.",
+    "hi": "शुकदेव व्यास के पुत्र थे और जन्म से ही विरक्त थे। उन्होंने परीक्षित को अंतिम समय में भागवत कथा सुनाई।"
+  },
+  "shloka": {
+    "sanskrit": "वैराग्यं परमं सुखम्",
+    "transliteration": "vairāgyaṁ paramaṁ sukham",
+    "meaning": {
+      "en": "Detachment is supreme happiness.",
+      "hi": "वैराग्य ही परम सुख है।"
+    },
+    "reference": "Bhagavata Purana"
+  }
+},{
+  "id": 101,
+  "name": { "en": "Sage Parashara", "hi": "ऋषि पराशर" },
+  "key_traits": {
+    "en": "Powerful sage, Father of Vyasa, Lawgiver",
+    "hi": "महान ऋषि, व्यास के पिता, धर्मज्ञ"
+  },
+  "life_lesson": {
+    "en": "Anger must transform into wisdom.",
+    "hi": "क्रोध को ज्ञान में परिवर्तित होना चाहिए।"
+  },
+  "story": {
+    "en": "Sage Parashara, father of Vyasa, was once consumed by anger after his father's death. He began a sacrifice to destroy all demons but was stopped by wise counsel.\n\nChoosing restraint over revenge, he later became a great lawgiver and composed texts of wisdom.\n\nParashara teaches that even justified anger must evolve into compassion and understanding.",
+    "hi": "पराशर अपने पिता की मृत्यु से क्रोधित हुए, परंतु उन्होंने प्रतिशोध त्यागकर ज्ञान का मार्ग चुना।\n\nउन्होंने धर्मशास्त्र की रचना की।"
+  },
+  "shloka": {
+    "sanskrit": "क्षमा वीरस्य भूषणम्",
+    "transliteration": "kṣamā vīrasya bhūṣaṇam",
+    "meaning": {
+      "en": "Forgiveness adorns the brave.",
+      "hi": "क्षमा वीर का आभूषण है।"
+    },
+    "reference": "Mahabharata"
+  }
+},{
+  "id": 102,
+  "name": { "en": "Bakasura", "hi": "बकासुर" },
+  "key_traits": {
+    "en": "Cruel, Tyrannical, Fear-inducing",
+    "hi": "क्रूर, अत्याचारी, भय उत्पन्न करने वाला"
+  },
+  "life_lesson": {
+    "en": "Tyranny eventually meets resistance.",
+    "hi": "अत्याचार का अंत प्रतिरोध से होता है।"
+  },
+  "story": {
+    "en": "Bakasura was a fearsome rakshasa who terrorized the town of Ekachakra. He demanded regular human sacrifices and food tributes. When the Pandavas were living in disguise, Bhima volunteered to confront him.\n\nBhima defeated Bakasura with sheer strength, freeing the town from oppression.\n\nBakasura’s fall shows that injustice, no matter how powerful, cannot survive forever.",
+    "hi": "बकासुर एक राक्षस था जो एकचक्रा नगरी को आतंकित करता था। भीम ने उससे युद्ध कर उसे मार गिराया और जनता को मुक्त किया।\n\nयह कथा सिखाती है कि अत्याचार स्थायी नहीं होता।"
+  },
+  "shloka": {
+    "sanskrit": "अधर्मो न हि तिष्ठति",
+    "transliteration": "adharmo na hi tiṣṭhati",
+    "meaning": {
+      "en": "Unrighteousness cannot endure.",
+      "hi": "अधर्म स्थायी नहीं रहता।"
+    },
+    "reference": "Mahabharata"
+  }
+},{
+  "id": 103,
+  "name": { "en": "Devika", "hi": "देविका" },
+  "key_traits": {
+    "en": "Graceful, Loyal wife, Supportive queen",
+    "hi": "सौम्य, निष्ठावान पत्नी, सहयोगी रानी"
+  },
+  "life_lesson": {
+    "en": "Not all strength is visible; quiet support sustains leaders.",
+    "hi": "हर शक्ति दिखाई नहीं देती; मौन सहयोग नेतृत्व को स्थिर रखता है।"
+  },
+  "story": {
+    "en": "Devika was one of the wives of Yudhishthira, married to him after Draupadi. Though rarely mentioned in major events, she remained devoted and dignified throughout the political turbulence of Hastinapura.\n\nShe gave birth to Yaudheya and maintained stability within the royal household.\n\nDevika represents the silent pillars behind powerful rulers.",
+    "hi": "देविका युधिष्ठिर की पत्नी थीं। वे प्रमुख घटनाओं में कम उल्लेखित हैं, परंतु राजपरिवार की स्थिरता में उनका योगदान महत्वपूर्ण था।"
+  },
+  "shloka": {
+    "sanskrit": "स्त्री शक्तिः कुलस्य आधारः",
+    "transliteration": "strī śaktiḥ kulasya ādhāraḥ",
+    "meaning": {
+      "en": "A woman’s strength is the foundation of a lineage.",
+      "hi": "स्त्री की शक्ति कुल की नींव है।"
+    },
+    "reference": "Mahabharata"
+  }
+},{
+  "id": 104,
+  "name": { "en": "Bhanumati", "hi": "भानुमती" },
+  "key_traits": {
+    "en": "Devoted queen, Loyal, Patient",
+    "hi": "समर्पित रानी, निष्ठावान, धैर्यशील"
+  },
+  "life_lesson": {
+    "en": "Loyalty in adversity reveals true character.",
+    "hi": "विपत्ति में निष्ठा सच्चे चरित्र को प्रकट करती है।"
+  },
+  "story": {
+    "en": "Bhanumati was the wife of Duryodhana. Though her husband was driven by pride and rivalry, she remained steadfast and loyal. Unlike Gandhari, who influenced through restraint, Bhanumati endured silently.\n\nShe witnessed the destruction of her entire family in war.\n\nBhanumati teaches that personal virtue can exist even amidst collective downfall.",
+    "hi": "भानुमती दुर्योधन की पत्नी थीं। उन्होंने युद्ध में अपने परिवार का विनाश देखा, फिर भी अपने कर्तव्य में अडिग रहीं।"
+  },
+  "shloka": {
+    "sanskrit": "धैर्यं स्त्रीणां भूषणम्",
+    "transliteration": "dhairyaṁ strīṇāṁ bhūṣaṇam",
+    "meaning": {
+      "en": "Patience adorns a woman.",
+      "hi": "धैर्य स्त्री का आभूषण है।"
+    },
+    "reference": "Mahabharata"
+  }
+},{
+  "id": 105,
+  "name": { "en": "Renuka", "hi": "रेणुका" },
+  "key_traits": {
+    "en": "Pious mother, Strong-willed, Devoted",
+    "hi": "पवित्र माता, दृढ़ निश्चयी, समर्पित"
+  },
+  "life_lesson": {
+    "en": "Purity of mind is strength beyond physical power.",
+    "hi": "मन की पवित्रता शारीरिक शक्ति से श्रेष्ठ है।"
+  },
+  "story": {
+    "en": "Renuka was the mother of Parashurama. Known for her devotion and spiritual discipline, she faced immense hardship when Parashurama, obeying his father Jamadagni’s command, beheaded her — only to later restore her to life.\n\nHer story is symbolic of obedience, forgiveness, and restoration.\n\nRenuka represents endurance through divine tests.",
+    "hi": "रेणुका परशुराम की माता थीं। एक कठोर परीक्षा में उनका सिर काटा गया, पर बाद में पुनर्जीवित हुईं।\n\nउनकी कथा क्षमा और सहनशीलता का प्रतीक है।"
+  },
+  "shloka": {
+    "sanskrit": "क्षमा धर्मस्य मूलम्",
+    "transliteration": "kṣamā dharmasya mūlam",
+    "meaning": {
+      "en": "Forgiveness is the root of dharma.",
+      "hi": "क्षमा धर्म का मूल है।"
+    },
+    "reference": "Mahabharata"
+  }
+},{
+  "id": 106,
+  "name": { "en": "Agni", "hi": "अग्नि" },
+  "key_traits": {
+    "en": "Purifier, Transformative force, Divine witness",
+    "hi": "शुद्धिकर्ता, परिवर्तनकारी शक्ति, दिव्य साक्षी"
+  },
+  "life_lesson": {
+    "en": "Destruction can be a step toward renewal.",
+    "hi": "विनाश पुनर्निर्माण का मार्ग हो सकता है।"
+  },
+  "story": {
+    "en": "Agni, the fire god, played a major role in the burning of the Khandava forest. Seeking relief from a curse that weakened him, Agni requested Krishna and Arjuna to help him consume the forest.\n\nIn return, Arjuna received the Gandiva bow and divine weapons.\n\nAgni represents transformation — old structures must sometimes burn for new power to rise.",
+    "hi": "अग्नि देव ने खांडव वन दहन में अर्जुन और कृष्ण की सहायता ली। बदले में अर्जुन को गांडीव धनुष मिला।\n\nअग्नि परिवर्तन और शुद्धि का प्रतीक है।"
+  },
+  "shloka": {
+    "sanskrit": "अग्निः शुद्धिकरः",
+    "transliteration": "agniḥ śuddhikaraḥ",
+    "meaning": {
+      "en": "Fire is the purifier.",
+      "hi": "अग्नि शुद्ध करने वाली है।"
+    },
+    "reference": "Mahabharata"
+  }
+},{
+  "id": 107,
+  "name": { "en": "Vayu", "hi": "वायु" },
+  "key_traits": {
+    "en": "Invisible strength, Life-force, Unstoppable",
+    "hi": "अदृश्य शक्ति, प्राणशक्ति, अजेय"
+  },
+  "life_lesson": {
+    "en": "True strength may be unseen yet unstoppable.",
+    "hi": "सच्ची शक्ति अदृश्य होकर भी अजेय होती है।"
+  },
+  "story": {
+    "en": "Vayu, the wind god, was the divine father of Bhima. His strength and vitality flowed through Bhima’s immense physical power.\n\nLike the wind, Vayu is invisible yet essential to life. His presence reminds us that the most powerful forces are often unseen.\n\nVayu teaches resilience, movement, and the unstoppable nature of life-force.",
+    "hi": "वायु देव भीम के पिता थे। उनकी शक्ति भीम की ताकत में प्रकट हुई।\n\nवायु अदृश्य होकर भी जीवन का आधार है।"
+  },
+  "shloka": {
+    "sanskrit": "प्राणो हि जीवनम्",
+    "transliteration": "prāṇo hi jīvanam",
+    "meaning": {
+      "en": "Breath itself is life.",
+      "hi": "प्राण ही जीवन है।"
+    },
+    "reference": "Mahabharata"
+  }
+},{
+  "id": 108,
+  "name": { "en": "Varuna", "hi": "वरुण" },
+  "key_traits": {
+    "en": "Lord of waters, Cosmic judge, Bound by oath",
+    "hi": "जलदेव, दैवी न्यायाधीश, व्रतबद्ध"
+  },
+  "life_lesson": {
+    "en": "Oaths bind even the mighty.",
+    "hi": "व्रत और प्रतिज्ञा शक्तिशाली को भी बांधते हैं।"
+  },
+  "story": {
+    "en": "Varuna, the god of waters and cosmic order, granted celestial weapons to warriors and upheld divine law. He symbolizes the unseen moral order governing the universe.\n\nIn the epic tradition, Varuna represents restraint and the binding power of promises.\n\nHe teaches that integrity governs both humans and gods.",
+    "hi": "वरुण देव जल और नियम के अधिपति हैं। वे प्रतिज्ञा और व्यवस्था के प्रतीक हैं।"
+  },
+  "shloka": {
+    "sanskrit": "ऋतं वदिष्यामि",
+    "transliteration": "ṛtaṁ vadiṣyāmi",
+    "meaning": {
+      "en": "I shall speak cosmic truth.",
+      "hi": "मैं ऋत (सत्य नियम) का पालन करूंगा।"
+    },
+    "reference": "Vedic Tradition"
+  }
+},{
+  "id": 109,
+  "name": { "en": "Yama (Dharma)", "hi": "यम (धर्म)" },
+  "key_traits": {
+    "en": "Lord of justice, Impartial, Moral authority",
+    "hi": "न्यायाधीश, निष्पक्ष, धर्माधिकारी"
+  },
+  "life_lesson": {
+    "en": "Justice may be delayed, but it is never denied.",
+    "hi": "न्याय देर से मिल सकता है, पर अस्वीकार नहीं होता।"
+  },
+  "story": {
+    "en": "Yama, also known as Dharma, was the divine father of Yudhishthira. He later tested him at the gates of heaven in the form of a dog.\n\nWhen Yudhishthira refused to abandon the dog, he proved his unwavering compassion and righteousness.\n\nYama teaches that true dharma lies not in power, but in integrity and fairness.",
+    "hi": "यम धर्मराज युधिष्ठिर के पिता थे। स्वर्ग द्वार पर उन्होंने कुत्ते के रूप में परीक्षा ली।\n\nयुधिष्ठिर ने कुत्ते को नहीं छोड़ा और धर्म सिद्ध किया।"
+  },
+  "shloka": {
+    "sanskrit": "धर्मो रक्षति रक्षितः",
+    "transliteration": "dharmo rakṣati rakṣitaḥ",
+    "meaning": {
+      "en": "Dharma protects those who protect it.",
+      "hi": "धर्म की रक्षा करने वाला सुरक्षित रहता है।"
+    },
+    "reference": "Mahabharata"
+  }
+},{
+  "id": 100,
+  "name": { "en": "Takshaka", "hi": "तक्षक" },
+  "key_traits": {
+    "en": "Naga king, Cursed instrument of fate, Powerful",
+    "hi": "नागराज, भाग्य का साधन, शक्तिशाली"
+  },
+  "life_lesson": {
+    "en": "Fate uses unexpected instruments.",
+    "hi": "भाग्य अप्रत्याशित साधनों का उपयोग करता है।"
+  },
+  "story": {
+    "en": "Takshaka, king of the Nagas, fulfilled the curse placed upon King Parikshit by biting him in serpent form. Though feared, Takshaka was an instrument of destiny.\n\nLater, Janamejaya performed the great snake sacrifice to destroy the Nagas, but divine intervention stopped total annihilation.\n\nTakshaka symbolizes the unavoidable execution of karmic consequence.",
+    "hi": "तक्षक नागराज ने परीक्षित को डसकर श्राप पूरा किया। बाद में जनमेजय ने सर्पसत्र किया, पर पूर्ण विनाश रोका गया।\n\nतक्षक कर्मफल का प्रतीक है।"
+  },
+  "shloka": {
+    "sanskrit": "कर्मणा दैवनेत्रेण",
+    "transliteration": "karmaṇā daiva-netreṇa",
+    "meaning": {
+      "en": "Destiny unfolds through karma.",
+      "hi": "कर्म से ही भाग्य प्रकट होता है।"
+    },
+    "reference": "Mahabharata"
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  ],
+  "quotes": [
+    
+    {
+    "id": 1,
+    "sanskrit": "योगस्थः कुरु कर्माणि सङ्गं त्यक्त्वा धनञ्जय। सिद्ध्यसिद्ध्योः समो भूत्वा समत्वं योग उच्यते॥",
+    "transliteration": "yogasthaḥ kuru karmāṇi saṅgaṁ tyaktvā dhanañjaya | siddhy-asiddhyoḥ samo bhūtvā samatvaṁ yoga ucyate ||",
+    "meaning": {
+      "en": "Perform your duty with equanimity, abandoning attachment to success and failure. Such balance is called Yoga.",
+      "hi": "हे धनंजय! सफलता और असफलता के प्रति आसक्ति त्यागकर समभाव से अपना कर्तव्य करो। यही योग कहलाता है।"
+    },
+    "reference": "Bhagavad Gita 2.48",
+    "category": "Action"
+  },
+  {
+    "id": 2,
+    "sanskrit": "न जायते म्रियते वा कदाचिन्\nनायं भूत्वा भविता वा न भूयः। अजो नित्यः शाश्वतोऽयं पुराणो\nन हन्यते हन्यमाने शरीरे॥",
+    "transliteration": "na jāyate mriyate vā kadācin nāyaṁ bhūtvā bhavitā vā na bhūyaḥ | ajo nityaḥ śāśvato 'yaṁ purāṇo na hanyate hanyamāne śarīre ||",
+    "meaning": {
+      "en": "The soul is never born nor does it die. It is eternal and is not destroyed when the body is destroyed.",
+      "hi": "आत्मा न जन्म लेती है न मरती है। शरीर के नष्ट होने पर भी आत्मा नष्ट नहीं होती।"
+    },
+    "reference": "Bhagavad Gita 2.20",
+    "category": "Soul"
+  },
+  {
+    "id": 3,
+    "sanskrit": "क्रोधाद्भवति संमोहः संमोहात्स्मृतिविभ्रमः। स्मृतिभ्रंशाद्बुद्धिनाशो बुद्धिनाशात्प्रणश्यति॥",
+    "transliteration": "krodhād bhavati sammohaḥ sammohāt smṛti-vibhramaḥ | smṛti-bhraṁśād buddhi-nāśo buddhi-nāśāt praṇaśyati ||",
+    "meaning": {
+      "en": "From anger comes delusion; from delusion, confusion of memory; from confusion, loss of intellect; and from loss of intellect, one perishes.",
+      "hi": "क्रोध से मोह उत्पन्न होता है, मोह से स्मृति भ्रमित होती है, स्मृति भ्रम से बुद्धि नष्ट होती है और बुद्धि नष्ट होने पर मनुष्य पतित हो जाता है।"
+    },
+    "reference": "Bhagavad Gita 2.63",
+    "category": "Mind"
+  },
+  {
+    "id": 4,
+    "sanskrit": "उद्धरेदात्मनाऽत्मानं नात्मानमवसादयेत्। आत्मैव ह्यात्मनो बन्धुरात्मैव रिपुरात्मनः॥",
+    "transliteration": "uddhared ātmanātmānaṁ nātmānam avasādayet | ātmaiva hyātmano bandhur ātmaiva ripur ātmanaḥ ||",
+    "meaning": {
+      "en": "Elevate yourself by your own mind; do not degrade yourself. The mind is both friend and enemy of the self.",
+      "hi": "मनुष्य स्वयं अपने को ऊपर उठाए, स्वयं को नीचे न गिराए। मन ही मनुष्य का मित्र है और वही शत्रु भी है।"
+    },
+    "reference": "Bhagavad Gita 6.5",
+    "category": "Self"
+  },
+  {
+    "id": 5,
+    "sanskrit": "यदा यदा हि धर्मस्य ग्लानिर्भवति भारत। अभ्युत्थानमधर्मस्य तदात्मानं सृजाम्यहम्॥",
+    "transliteration": "yadā yadā hi dharmasya glānir bhavati bhārata | abhyutthānam adharmasya tadātmānaṁ sṛjāmy aham ||",
+    "meaning": {
+      "en": "Whenever righteousness declines and unrighteousness rises, I manifest Myself.",
+      "hi": "जब-जब धर्म की हानि और अधर्म की वृद्धि होती है, तब-तब मैं स्वयं प्रकट होता हूँ।"
+    },
+    "reference": "Bhagavad Gita 4.7",
+    "category": "Dharma"
+  },
+  {
+    "id": 6,
+    "sanskrit": "परित्राणाय साधूनां विनाशाय च दुष्कृताम्। धर्मसंस्थापनार्थाय सम्भवामि युगे युगे॥",
+    "transliteration": "paritrāṇāya sādhūnāṁ vināśāya ca duṣkṛtām | dharma-saṁsthāpanārthāya सम्भवामि yuge yuge ||",
+    "meaning": {
+      "en": "To protect the righteous, destroy the wicked, and re-establish dharma, I appear age after age.",
+      "hi": "साधुओं की रक्षा, दुष्टों के विनाश और धर्म की स्थापना के लिए मैं युग-युग में प्रकट होता हूँ।"
+    },
+    "reference": "Bhagavad Gita 4.8",
+    "category": "Dharma"
+  },
+  {
+    "id": 7,
+    "sanskrit": "श्रद्धावान् लभते ज्ञानं तत्परः संयतेन्द्रियः। ज्ञानं लब्ध्वा परां शान्तिमचिरेणाधिगच्छति॥",
+    "transliteration": "śraddhāvān labhate jñānaṁ tat-paraḥ saṁyatendriyaḥ | jñānaṁ labdhvā parāṁ śāntim acireṇādhigacchati ||",
+    "meaning": {
+      "en": "A faithful and self-controlled person attains knowledge and quickly reaches supreme peace.",
+      "hi": "श्रद्धावान और इंद्रियों को वश में रखने वाला व्यक्ति ज्ञान प्राप्त कर शीघ्र ही परम शांति को प्राप्त करता है।"
+    },
+    "reference": "Bhagavad Gita 4.39",
+    "category": "Knowledge"
+  },
+  {
+    "id": 8,
+    "sanskrit": "सत्यं ब्रूयात् प्रियं ब्रूयान्न ब्रूयात् सत्यमप्रियं। प्रियं च नानृतं ब्रूयादेष धर्मः सनातनः॥",
+    "transliteration": "satyaṁ brūyāt priyaṁ brūyān na brūyāt satyam apriyam | priyaṁ ca nānṛtaṁ brūyād eṣa dharmaḥ sanātanaḥ ||",
+    "meaning": {
+      "en": "Speak the truth pleasantly; do not speak unpleasant truth; do not speak pleasant falsehood. This is eternal dharma.",
+      "hi": "सत्य बोलो, पर प्रिय बोलो। अप्रिय सत्य न बोलो और प्रिय असत्य भी न बोलो। यही सनातन धर्म है।"
+    },
+    "reference": "Mahabharata, Shanti Parva",
+    "category": "Speech"
+  },
+  {
+    "id": 9,
+    "sanskrit": "अहिंसा परमो धर्मः",
+    "transliteration": "ahiṁsā paramo dharmaḥ",
+    "meaning": {
+      "en": "Non-violence is the highest dharma.",
+      "hi": "अहिंसा परम धर्म है।"
+    },
+    "reference": "Mahabharata, Anushasana Parva",
+    "category": "Dharma"
+  },
+  {
+    "id": 10,
+    "sanskrit": "धर्मो रक्षति रक्षितः",
+    "transliteration": "dharmo rakṣati rakṣitaḥ",
+    "meaning": {
+      "en": "Dharma protects those who protect it.",
+      "hi": "जो धर्म की रक्षा करता है, धर्म उसकी रक्षा करता है।"
+    },
+    "reference": "Mahabharata, Vana Parva",
+    "category": "Dharma"
+  },
+{
+  "id": 11,
+  "sanskrit": "कर्मजं बुद्धियुक्ता हि फलं त्यक्त्वा मनीषिणः। जन्मबन्धविनिर्मुक्ताः पदं गच्छन्त्यनामयम्॥",
+  "transliteration": "karmajaṁ buddhi-yuktā hi phalaṁ tyaktvā manīṣiṇaḥ | janma-bandha-vinirmuktāḥ padaṁ gacchanty anāmayam ||",
+  "meaning": {
+    "en": "The wise, endowed with understanding, abandon attachment to the fruits of action and are freed from the cycle of birth and death.",
+    "hi": "बुद्धि से युक्त ज्ञानी पुरुष कर्मफल त्यागकर जन्म-मृत्यु के बंधन से मुक्त हो जाते हैं।"
+  },
+  "reference": "Bhagavad Gita 2.51",
+  "category": "Liberation"
+},
+{
+  "id": 12,
+  "sanskrit": "ज्ञानेन तु तदज्ञानं येषां नाशितमात्मनः। तेषामादित्यवज्ज्ञानं प्रकाशयति तत्परम्॥",
+  "transliteration": "jñānena tu tad ajñānaṁ yeṣāṁ nāśitam ātmanaḥ | teṣām āditya-vaj jñānaṁ prakāśayati tat param ||",
+  "meaning": {
+    "en": "For those whose ignorance is destroyed by knowledge, that wisdom shines like the sun.",
+    "hi": "जिनका अज्ञान ज्ञान से नष्ट हो गया है, उनका ज्ञान सूर्य के समान प्रकाशित होता है।"
+  },
+  "reference": "Bhagavad Gita 5.16",
+  "category": "Knowledge"
+},
+{
+  "id": 13,
+  "sanskrit": "न हि ज्ञानेन सदृशं पवित्रमिह विद्यते।",
+  "transliteration": "na hi jñānena sadṛśaṁ pavitram iha vidyate |",
+  "meaning": {
+    "en": "There is nothing as purifying as knowledge in this world.",
+    "hi": "इस संसार में ज्ञान के समान पवित्र कुछ भी नहीं है।"
+  },
+  "reference": "Bhagavad Gita 4.38",
+  "category": "Knowledge"
+},
+{
+  "id": 14,
+  "sanskrit": "सुखदुःखे समे कृत्वा लाभालाभौ जयाजयौ। ततो युद्धाय युज्यस्व नैवं पापमवाप्स्यसि॥",
+  "transliteration": "sukha-duḥkhe same kṛtvā lābhālābhau jayājayau | tato yuddhāya yujyasva naivaṁ pāpam avāpsyasi ||",
+  "meaning": {
+    "en": "Treat pleasure and pain, gain and loss, victory and defeat alike; then engage in battle — you shall not incur sin.",
+    "hi": "सुख-दुःख, लाभ-हानि, जय-पराजय को समान मानकर कर्म करो, तब पाप नहीं लगेगा।"
+  },
+  "reference": "Bhagavad Gita 2.38",
+  "category": "Equanimity"
+},
+{
+  "id": 15,
+  "sanskrit": "त्रिविधं नरकस्येदं द्वारं नाशनमात्मनः। कामः क्रोधस्तथा लोभस्तस्मादेतत्त्रयं त्यजेत्॥",
+  "transliteration": "tri-vidhaṁ narakasyedaṁ dvāraṁ nāśanam ātmanaḥ | kāmaḥ krodhas tathā lobhas tasmād etat trayaṁ tyajet ||",
+  "meaning": {
+    "en": "There are three gates to self-destruction: lust, anger, and greed. Therefore, one should abandon these three.",
+    "hi": "काम, क्रोध और लोभ — ये तीन नरक के द्वार हैं। अतः इन्हें त्याग देना चाहिए।"
+  },
+  "reference": "Bhagavad Gita 16.21",
+  "category": "Mind"
+},
+{
+  "id": 16,
+  "sanskrit": "तस्मादसक्तः सततं कार्यं कर्म समाचर। असक्तो ह्याचरन्कर्म परमाप्नोति पुरुषः॥",
+  "transliteration": "tasmād asaktaḥ satataṁ kāryaṁ karma samācara | asakto hy ācaran karma param āpnoti puruṣaḥ ||",
+  "meaning": {
+    "en": "Therefore, always perform your duty without attachment. By doing work without attachment, one attains the Supreme.",
+    "hi": "अतः आसक्ति त्यागकर अपना कर्तव्य करते रहो; इस प्रकार परम लक्ष्य की प्राप्ति होती है।"
+  },
+  "reference": "Bhagavad Gita 3.19",
+  "category": "Action"
+},
+{
+  "id": 17,
+  "sanskrit": "विद्या विनयसम्पन्ने ब्राह्मणे गवि हस्तिनि। शुनि चैव श्वपाके च पण्डिताः समदर्शिनः॥",
+  "transliteration": "vidyā-vinaya-sampanne brāhmaṇe gavi hastini | śuni caiva śvapāke ca paṇḍitāḥ sama-darśinaḥ ||",
+  "meaning": {
+    "en": "The wise see equally a learned Brahmin, a cow, an elephant, a dog, and even a dog-eater.",
+    "hi": "ज्ञानी व्यक्ति विद्वान ब्राह्मण, गाय, हाथी, कुत्ते और चांडाल में समान दृष्टि रखता है।"
+  },
+  "reference": "Bhagavad Gita 5.18",
+  "category": "Wisdom"
+},
+{
+  "id": 18,
+  "sanskrit": "नियतं कुरु कर्म त्वं कर्म ज्यायो ह्यकर्मणः।",
+  "transliteration": "niyataṁ kuru karma tvaṁ karma jyāyo hy akarmaṇaḥ |",
+  "meaning": {
+    "en": "Perform your prescribed duty, for action is better than inaction.",
+    "hi": "नियत कर्म करो, क्योंकि कर्म न करने से श्रेष्ठ है।"
+  },
+  "reference": "Bhagavad Gita 3.8",
+  "category": "Action"
+},
+{
+  "id": 19,
+  "sanskrit": "आत्मौपम्येन सर्वत्र समं पश्यति योऽर्जुन। सुखं वा यदि वा दुःखं स योगी परमो मतः॥",
+  "transliteration": "ātmaupamyena sarvatra samaṁ paśyati yo 'rjuna | sukhaṁ vā yadi vā duḥkhaṁ sa yogī paramo mataḥ ||",
+  "meaning": {
+    "en": "One who sees others' happiness and distress as his own is the highest yogi.",
+    "hi": "जो दूसरों के सुख-दुःख को अपने समान समझता है, वही श्रेष्ठ योगी है।"
+  },
+  "reference": "Bhagavad Gita 6.32",
+  "category": "Compassion"
+},
+{
+  "id": 20,
+  "sanskrit": "मन्मना भव मद्भक्तो मद्याजी मां नमस्कुरु।",
+  "transliteration": "man-manā bhava mad-bhakto mad-yājī māṁ namaskuru |",
+  "meaning": {
+    "en": "Fix your mind on Me, become My devotee, worship Me, and bow to Me.",
+    "hi": "मेरा चिंतन करो, मेरे भक्त बनो, मेरी पूजा करो और मुझे प्रणाम करो।"
+  },
+  "reference": "Bhagavad Gita 9.34",
+  "category": "Devotion"
+}
+,
+{
+  "id": 21,
+  "sanskrit": "क्षिप्रं भवति धर्मात्मा शश्वच्छान्तिं निगच्छति।",
+  "transliteration": "kṣipraṁ bhavati dharmātmā śaśvac-chāntiṁ nigacchati |",
+  "meaning": {
+    "en": "Quickly one becomes righteous and attains lasting peace.",
+    "hi": "मनुष्य शीघ्र ही धर्मात्मा बनकर स्थायी शांति को प्राप्त करता है।"
+  },
+  "reference": "Bhagavad Gita 9.31",
+  "category": "Dharma"
+},
+{
+  "id": 22,
+  "sanskrit": "अनित्यमसुखं लोकमिमं प्राप्य भजस्व माम्।",
+  "transliteration": "anityam asukhaṁ lokam imaṁ prāpya bhajasva mām |",
+  "meaning": {
+    "en": "Having come into this temporary and joyless world, worship Me.",
+    "hi": "इस अनित्य और दुःखमय संसार को प्राप्त होकर मेरी भक्ति करो।"
+  },
+  "reference": "Bhagavad Gita 9.33",
+  "category": "Detachment"
+},
+{
+  "id": 23,
+  "sanskrit": "समोऽहं सर्वभूतेषु न मे द्वेष्योऽस्ति न प्रियः।",
+  "transliteration": "samo 'haṁ sarva-bhūteṣu na me dveṣyo 'sti na priyaḥ |",
+  "meaning": {
+    "en": "I am equal to all beings; none is hateful or dear to Me.",
+    "hi": "मैं सभी प्राणियों में समान हूँ; न कोई मेरा प्रिय है न अप्रिय।"
+  },
+  "reference": "Bhagavad Gita 9.29",
+  "category": "Divinity"
+},
+{
+  "id": 24,
+  "sanskrit": "यततो ह्यपि कौन्तेय पुरुषस्य विपश्चितः। इन्द्रियाणि प्रमाथीनि हरन्ति प्रसभं मनः॥",
+  "transliteration": "yatato hy api kaunteya puruṣasya vipaścitaḥ | indriyāṇi pramāthīni haranti prasabhaṁ manaḥ ||",
+  "meaning": {
+    "en": "Even the wise, striving for control, can have their minds carried away by the turbulent senses.",
+    "hi": "हे कौन्तेय! प्रयासरत ज्ञानी पुरुष का भी मन चंचल इंद्रियाँ हर लेती हैं।"
+  },
+  "reference": "Bhagavad Gita 2.60",
+  "category": "Mind"
+},
+{
+  "id": 25,
+  "sanskrit": "तद्विद्धि प्रणिपातेन परिप्रश्नेन सेवया।",
+  "transliteration": "tad viddhi praṇipātena paripraśnena sevayā |",
+  "meaning": {
+    "en": "Understand this knowledge by approaching a teacher with humility, inquiry, and service.",
+    "hi": "ज्ञान को गुरु के पास विनम्रता, प्रश्न और सेवा से प्राप्त करो।"
+  },
+  "reference": "Bhagavad Gita 4.34",
+  "category": "Knowledge"
+},
+{
+  "id": 26,
+  "sanskrit": "न हि कश्चित्क्षणमपि जातु तिष्ठत्यकर्मकृत्।",
+  "transliteration": "na hi kaścit kṣaṇam api jātu tiṣṭhaty akarma-kṛt |",
+  "meaning": {
+    "en": "No one can remain even for a moment without performing action.",
+    "hi": "कोई भी व्यक्ति क्षणमात्र भी बिना कर्म किए नहीं रह सकता।"
+  },
+  "reference": "Bhagavad Gita 3.5",
+  "category": "Action"
+},
+{
+  "id": 27,
+  "sanskrit": "काम एष क्रोध एष रजोगुणसमुद्भवः।",
+  "transliteration": "kāma eṣa krodha eṣa rajo-guṇa-samudbhavaḥ |",
+  "meaning": {
+    "en": "It is desire, it is anger, born of the mode of passion.",
+    "hi": "यह काम है, यह क्रोध है, जो रजोगुण से उत्पन्न होता है।"
+  },
+  "reference": "Bhagavad Gita 3.37",
+  "category": "Mind"
+},
+{
+  "id": 28,
+  "sanskrit": "दुःखेष्वनुद्विग्नमनाः सुखेषु विगतस्पृहः।",
+  "transliteration": "duḥkheṣv anudvigna-manāḥ sukheṣu vigata-spṛhaḥ |",
+  "meaning": {
+    "en": "One who is not disturbed by sorrow and not attached to happiness is steady in wisdom.",
+    "hi": "जो दुःख में विचलित नहीं होता और सुख में आसक्त नहीं होता, वह स्थितप्रज्ञ है।"
+  },
+  "reference": "Bhagavad Gita 2.56",
+  "category": "Equanimity"
+},
+{
+  "id": 29,
+  "sanskrit": "नासतो विद्यते भावो नाभावो विद्यते सतः।",
+  "transliteration": "nāsato vidyate bhāvo nābhāvo vidyate sataḥ |",
+  "meaning": {
+    "en": "The unreal has no existence; the real never ceases to be.",
+    "hi": "असत्य का अस्तित्व नहीं और सत्य का अभाव नहीं।"
+  },
+  "reference": "Bhagavad Gita 2.16",
+  "category": "Philosophy"
+},
+{
+  "id": 30,
+  "sanskrit": "मात्रास्पर्शास्तु कौन्तेय शीतोष्णसुखदुःखदाः।",
+  "transliteration": "mātrā-sparśās tu kaunteya śītoṣṇa-sukha-duḥkha-dāḥ |",
+  "meaning": {
+    "en": "Contact of senses with objects gives cold and heat, pleasure and pain; they are temporary.",
+    "hi": "इंद्रियों के विषयों से संपर्क ही शीत-उष्ण और सुख-दुःख देता है; ये अनित्य हैं।"
+  },
+  "reference": "Bhagavad Gita 2.14",
+  "category": "Detachment"
+},
+{
+  "id": 31,
+  "sanskrit": "श्रेयान्स्वधर्मो विगुणः परधर्मात्स्वनुष्ठितात्।",
+  "transliteration": "śreyān sva-dharmo viguṇaḥ para-dharmāt sv-anuṣṭhitāt |",
+  "meaning": {
+    "en": "Better one's own duty imperfectly performed than another’s duty perfectly done.",
+    "hi": "दूसरे के धर्म को उत्तम रूप से करने से अपना धर्म दोषयुक्त भी श्रेष्ठ है।"
+  },
+  "reference": "Bhagavad Gita 3.35",
+  "category": "Dharma"
+},
+{
+  "id": 32,
+  "sanskrit": "लोभः प्रजाः संहरति",
+  "transliteration": "lobhaḥ prajāḥ saṁharati",
+  "meaning": {
+    "en": "Greed destroys people.",
+    "hi": "लोभ मनुष्य का विनाश करता है।"
+  },
+  "reference": "Mahabharata, Shanti Parva",
+  "category": "Ethics"
+},
+{
+  "id": 33,
+  "sanskrit": "क्षमा धर्मस्य मूलम्",
+  "transliteration": "kṣamā dharmasya mūlam",
+  "meaning": {
+    "en": "Forgiveness is the root of dharma.",
+    "hi": "क्षमा धर्म का मूल है।"
+  },
+  "reference": "Mahabharata, Anushasana Parva",
+  "category": "Virtue"
+},
+{
+  "id": 34,
+  "sanskrit": "सत्यं हि परमं नास्ति",
+  "transliteration": "satyaṁ hi paramaṁ nāsti",
+  "meaning": {
+    "en": "There is nothing higher than truth.",
+    "hi": "सत्य से बढ़कर कुछ नहीं है।"
+  },
+  "reference": "Mahabharata, Shanti Parva",
+  "category": "Truth"
+},
+{
+  "id": 35,
+  "sanskrit": "दानं धर्मस्य लक्षणम्",
+  "transliteration": "dānaṁ dharmasya lakṣaṇam",
+  "meaning": {
+    "en": "Charity is a mark of dharma.",
+    "hi": "दान धर्म का लक्षण है।"
+  },
+  "reference": "Mahabharata, Anushasana Parva",
+  "category": "Charity"
+},
+{
+  "id": 36,
+  "sanskrit": "धैर्यं सर्वत्र साधनम्",
+  "transliteration": "dhairyaṁ sarvatra sādhanam",
+  "meaning": {
+    "en": "Patience is the means in all situations.",
+    "hi": "धैर्य हर परिस्थिति में सहायक है।"
+  },
+  "reference": "Mahabharata",
+  "category": "Virtue"
+},
+{
+  "id": 37,
+  "sanskrit": "अक्रोधः परमं सुखम्",
+  "transliteration": "akrodhaḥ paramaṁ sukham",
+  "meaning": {
+    "en": "Freedom from anger brings supreme happiness.",
+    "hi": "क्रोध का अभाव परम सुख देता है।"
+  },
+  "reference": "Mahabharata, Shanti Parva",
+  "category": "Mind"
+},
+{
+  "id": 38,
+  "sanskrit": "सन्तोषः परमं सुखम्",
+  "transliteration": "santoṣaḥ paramaṁ sukham",
+  "meaning": {
+    "en": "Contentment is the highest happiness.",
+    "hi": "संतोष ही परम सुख है।"
+  },
+  "reference": "Mahabharata",
+  "category": "Contentment"
+},
+{
+  "id": 39,
+  "sanskrit": "विद्या मित्रं प्रवासेषु",
+  "transliteration": "vidyā mitraṁ pravāseṣu",
+  "meaning": {
+    "en": "Knowledge is a friend in foreign lands.",
+    "hi": "विद्या विदेश में मित्र के समान है।"
+  },
+  "reference": "Mahabharata",
+  "category": "Knowledge"
+},
+{
+  "id": 40,
+  "sanskrit": "धर्म एव हतो हन्ति धर्मो रक्षति रक्षितः।",
+  "transliteration": "dharma eva hato hanti dharmo rakṣati rakṣitaḥ |",
+  "meaning": {
+    "en": "Dharma, when destroyed, destroys; when protected, it protects.",
+    "hi": "धर्म को नष्ट करने वाला स्वयं नष्ट होता है; धर्म की रक्षा करने वाला सुरक्षित रहता है।"
+  },
+  "reference": "Mahabharata, Vana Parva",
+  "category": "Dharma"
+},
+{
+  "id": 41,
+  "sanskrit": "यत्र योगेश्वरः कृष्णो यत्र पार्थो धनुर्धरः। तत्र श्रीर्विजयो भूतिर्ध्रुवा नीतिर्मतिर्मम॥",
+  "transliteration": "yatra yogeśvaraḥ kṛṣṇo yatra pārtho dhanur-dharaḥ | tatra śrīr vijayo bhūtir dhruvā nītir matir mama ||",
+  "meaning": {
+    "en": "Where there is Krishna, the Lord of Yoga, and Arjuna the archer, there will surely be prosperity, victory, and righteousness.",
+    "hi": "जहाँ योगेश्वर कृष्ण और धनुर्धर अर्जुन हैं, वहाँ निश्चित ही श्री, विजय और नीति होती है।"
+  },
+  "reference": "Bhagavad Gita 18.78",
+  "category": "Victory"
+},
+{
+  "id": 42,
+  "sanskrit": "मयि सर्वाणि कर्माणि संन्यस्याध्यात्मचेतसा।",
+  "transliteration": "mayi sarvāṇi karmāṇi sannyasyādhyātma-cetasā |",
+  "meaning": {
+    "en": "Dedicate all your actions to Me with spiritual consciousness.",
+    "hi": "अपने सभी कर्म मुझे समर्पित करो और आध्यात्मिक चेतना रखो।"
+  },
+  "reference": "Bhagavad Gita 3.30",
+  "category": "Devotion"
+},
+{
+  "id": 43,
+  "sanskrit": "न मे पार्थास्ति कर्तव्यं त्रिषु लोकेषु किञ्चन।",
+  "transliteration": "na me pārthāsti kartavyaṁ triṣu lokeṣu kiñcana |",
+  "meaning": {
+    "en": "O Arjuna, there is nothing in the three worlds that I must do.",
+    "hi": "हे पार्थ! तीनों लोकों में मेरे लिए कोई कर्तव्य नहीं है।"
+  },
+  "reference": "Bhagavad Gita 3.22",
+  "category": "Divinity"
+},
+{
+  "id": 44,
+  "sanskrit": "भयाद्रणादुपरतं मंस्यन्ते त्वां महारथाः।",
+  "transliteration": "bhayād raṇād uparataṁ maṁsyante tvāṁ mahā-rathāḥ |",
+  "meaning": {
+    "en": "The great warriors will think that you withdrew from battle out of fear.",
+    "hi": "महान योद्धा समझेंगे कि तुम भय के कारण युद्ध से हट गए।"
+  },
+  "reference": "Bhagavad Gita 2.35",
+  "category": "Courage"
+},
+{
+  "id": 45,
+  "sanskrit": "इन्द्रियाणि मनो बुद्धिरस्याधिष्ठानमुच्यते।",
+  "transliteration": "indriyāṇi mano buddhir asyādhiṣṭhānam ucyate |",
+  "meaning": {
+    "en": "The senses, mind, and intellect are said to be its seat.",
+    "hi": "इंद्रियाँ, मन और बुद्धि ही उसके निवास स्थान हैं।"
+  },
+  "reference": "Bhagavad Gita 3.40",
+  "category": "Mind"
+},
+{
+  "id": 46,
+  "sanskrit": "यदा संहरते चायं कूर्मोऽङ्गानीव सर्वशः।",
+  "transliteration": "yadā saṁharate cāyaṁ kūrmo 'ṅgānīva sarvaśaḥ |",
+  "meaning": {
+    "en": "When one withdraws the senses from objects like a tortoise withdrawing its limbs, wisdom becomes steady.",
+    "hi": "जब मनुष्य कछुए की भाँति इंद्रियों को विषयों से हटा लेता है, तब उसकी बुद्धि स्थिर हो जाती है।"
+  },
+  "reference": "Bhagavad Gita 2.58",
+  "category": "Self-Control"
+},
+{
+  "id": 47,
+  "sanskrit": "तस्मात्त्वमुत्तिष्ठ यशो लभस्व।",
+  "transliteration": "tasmāt tvam uttiṣṭha yaśo labhasva |",
+  "meaning": {
+    "en": "Therefore, arise and win glory.",
+    "hi": "अतः उठो और यश प्राप्त करो।"
+  },
+  "reference": "Bhagavad Gita 11.33",
+  "category": "Inspiration"
+},
+{
+  "id": 48,
+  "sanskrit": "ज्ञेयः स नित्यसंन्यासी यो न द्वेष्टि न काङ्क्षति।",
+  "transliteration": "jñeyaḥ sa nitya-sannyāsī yo na dveṣṭi na kāṅkṣati |",
+  "meaning": {
+    "en": "He who neither hates nor desires is to be known as ever-renounced.",
+    "hi": "जो न द्वेष करता है न इच्छा, वही सच्चा संन्यासी है।"
+  },
+  "reference": "Bhagavad Gita 5.3",
+  "category": "Detachment"
+},
+{
+  "id": 49,
+  "sanskrit": "सर्वधर्मान्परित्यज्य मामेकं शरणं व्रज।",
+  "transliteration": "sarva-dharmān parityajya mām ekaṁ śaraṇaṁ vraja |",
+  "meaning": {
+    "en": "Abandon all varieties of dharma and surrender unto Me alone.",
+    "hi": "सभी धर्मों को त्यागकर मेरी शरण में आओ।"
+  },
+  "reference": "Bhagavad Gita 18.66",
+  "category": "Surrender"
+},
+{
+  "id": 50,
+  "sanskrit": "योगी युञ्जीत सततमात्मानं रहसि स्थितः।",
+  "transliteration": "yogī yuñjīta satatam ātmānaṁ rahasi sthitaḥ |",
+  "meaning": {
+    "en": "The yogi should constantly engage the mind in meditation in solitude.",
+    "hi": "योगी को एकांत में निरंतर मन को ध्यान में लगाना चाहिए।"
+  },
+  "reference": "Bhagavad Gita 6.10",
+  "category": "Meditation"
+},
+{
+  "id": 51,
+  "sanskrit": "धर्मस्य तत्त्वं निहितं गुहायाम्",
+  "transliteration": "dharmasya tattvaṁ nihitaṁ guhāyām",
+  "meaning": {
+    "en": "The essence of dharma lies hidden in a cave (is subtle and difficult to grasp).",
+    "hi": "धर्म का तत्त्व गूढ़ और सूक्ष्म है।"
+  },
+  "reference": "Mahabharata, Vana Parva",
+  "category": "Dharma"
+},
+{
+  "id": 52,
+  "sanskrit": "नास्ति सत्यात्परो धर्मः",
+  "transliteration": "nāsti satyāt paro dharmaḥ",
+  "meaning": {
+    "en": "There is no dharma higher than truth.",
+    "hi": "सत्य से बढ़कर कोई धर्म नहीं।"
+  },
+  "reference": "Mahabharata, Shanti Parva",
+  "category": "Truth"
+},
+{
+  "id": 53,
+  "sanskrit": "अहिंसा सत्यवचनं सर्वभूतहिते रतिः।",
+  "transliteration": "ahiṁsā satya-vacanaṁ sarva-bhūta-hite ratiḥ |",
+  "meaning": {
+    "en": "Non-violence, truthfulness, and delight in the welfare of all beings.",
+    "hi": "अहिंसा, सत्य भाषण और सभी प्राणियों के हित में रत रहना।"
+  },
+  "reference": "Mahabharata, Shanti Parva",
+  "category": "Virtue"
+},
+{
+  "id": 54,
+  "sanskrit": "लोभ एव महाशत्रुः",
+  "transliteration": "lobha eva mahā-śatruḥ",
+  "meaning": {
+    "en": "Greed is indeed the great enemy.",
+    "hi": "लोभ ही महान शत्रु है।"
+  },
+  "reference": "Mahabharata",
+  "category": "Ethics"
+},
+{
+  "id": 55,
+  "sanskrit": "धैर्यं सर्वत्र साधनम्",
+  "transliteration": "dhairyaṁ sarvatra sādhanam",
+  "meaning": {
+    "en": "Patience is helpful in all circumstances.",
+    "hi": "धैर्य हर परिस्थिति में सहायक है।"
+  },
+  "reference": "Mahabharata",
+  "category": "Virtue"
+},
+{
+  "id": 56,
+  "sanskrit": "सत्येन धार्यते पृथ्वी",
+  "transliteration": "satyena dhāryate pṛthvī",
+  "meaning": {
+    "en": "The Earth is sustained by truth.",
+    "hi": "पृथ्वी सत्य से धारण की जाती है।"
+  },
+  "reference": "Mahabharata, Shanti Parva",
+  "category": "Truth"
+},
+{
+  "id": 57,
+  "sanskrit": "क्षमा वीरस्य भूषणम्",
+  "transliteration": "kṣamā vīrasya bhūṣaṇam",
+  "meaning": {
+    "en": "Forgiveness is the ornament of the brave.",
+    "hi": "क्षमा वीर का आभूषण है।"
+  },
+  "reference": "Mahabharata",
+  "category": "Virtue"
+},
+{
+  "id": 58,
+  "sanskrit": "न हि धर्मादपेतस्य सुखं विद्यते कस्यचित्",
+  "transliteration": "na hi dharmād apetasya sukhaṁ vidyate kasyacit",
+  "meaning": {
+    "en": "There is no happiness for one who abandons dharma.",
+    "hi": "धर्म से हटे व्यक्ति को सुख नहीं मिलता।"
+  },
+  "reference": "Mahabharata, Shanti Parva",
+  "category": "Dharma"
+},
+{
+  "id": 59,
+  "sanskrit": "धर्मो हि तेषामधिको विशेषः",
+  "transliteration": "dharmo hi teṣām adhiko viśeṣaḥ",
+  "meaning": {
+    "en": "Dharma is the distinguishing excellence among them.",
+    "hi": "धर्म ही मनुष्य की विशेषता है।"
+  },
+  "reference": "Mahabharata",
+  "category": "Dharma"
+},
+{
+  "id": 60,
+  "sanskrit": "यतो धर्मस्ततो जयः",
+  "transliteration": "yato dharmas tato jayaḥ",
+  "meaning": {
+    "en": "Where there is dharma, there is victory.",
+    "hi": "जहाँ धर्म है, वहाँ विजय है।"
+  },
+  "reference": "Mahabharata",
+  "category": "Victory"
+}
+,
+{
+  "id": 61,
+  "sanskrit": "कामात्क्रोधोऽभिजायते",
+  "transliteration": "kāmāt krodho 'bhijāyate",
+  "meaning": {
+    "en": "From desire arises anger.",
+    "hi": "कामना से क्रोध उत्पन्न होता है।"
+  },
+  "reference": "Bhagavad Gita 2.62",
+  "category": "Mind"
+},
+{
+  "id": 62,
+  "sanskrit": "स्थितप्रज्ञस्य का भाषा",
+  "transliteration": "sthita-prajñasya kā bhāṣā",
+  "meaning": {
+    "en": "What is the description of one whose wisdom is steady?",
+    "hi": "स्थितप्रज्ञ पुरुष की पहचान क्या है?"
+  },
+  "reference": "Bhagavad Gita 2.54",
+  "category": "Wisdom"
+},
+{
+  "id": 63,
+  "sanskrit": "प्रजहाति यदा कामान् सर्वान्पार्थ मनोगतान्।",
+  "transliteration": "prajahāti yadā kāmān sarvān pārtha mano-gatān",
+  "meaning": {
+    "en": "When one gives up all desires arising in the mind.",
+    "hi": "जब मनुष्य मन में उत्पन्न सभी कामनाओं को त्याग देता है।"
+  },
+  "reference": "Bhagavad Gita 2.55",
+  "category": "Detachment"
+},
+{
+  "id": 64,
+  "sanskrit": "विहाय कामान्यः सर्वान् पुमांश्चरति निःस्पृहः।",
+  "transliteration": "vihāya kāmān yaḥ sarvān pumāṁś carati niḥspṛhaḥ",
+  "meaning": {
+    "en": "One who abandons all desires and acts free from longing attains peace.",
+    "hi": "जो सभी इच्छाओं का त्याग कर निःस्पृह होकर चलता है, वह शांति पाता है।"
+  },
+  "reference": "Bhagavad Gita 2.71",
+  "category": "Peace"
+},
+{
+  "id": 65,
+  "sanskrit": "शमो दमस्तपः शौचं क्षान्तिरार्जवमेव च।",
+  "transliteration": "śamo damas tapaḥ śaucaṁ kṣāntir ārjavam eva ca",
+  "meaning": {
+    "en": "Peacefulness, self-control, austerity, purity, tolerance, and honesty.",
+    "hi": "शांति, इंद्रिय संयम, तप, शुद्धता, क्षमा और सरलता।"
+  },
+  "reference": "Bhagavad Gita 18.42",
+  "category": "Virtue"
+},
+{
+  "id": 66,
+  "sanskrit": "दातव्यमिति यद्दानं दीयतेऽनुपकारिणे।",
+  "transliteration": "dātavyam iti yad dānaṁ dīyate 'nupakāriṇe",
+  "meaning": {
+    "en": "Charity given as duty, without expectation of return, is sattvic.",
+    "hi": "कर्तव्य समझकर बिना प्रत्युपकार की अपेक्षा के दिया गया दान सात्त्विक है।"
+  },
+  "reference": "Bhagavad Gita 17.20",
+  "category": "Charity"
+},
+{
+  "id": 67,
+  "sanskrit": "अमानित्वमदम्भित्वमहिंसा क्षान्तिरार्जवम्।",
+  "transliteration": "amānitvam adambhitvam ahiṁsā kṣāntir ārjavam",
+  "meaning": {
+    "en": "Humility, absence of hypocrisy, nonviolence, forgiveness, and simplicity.",
+    "hi": "अहंकार का अभाव, कपट रहित आचरण, अहिंसा, क्षमा और सरलता।"
+  },
+  "reference": "Bhagavad Gita 13.7",
+  "category": "Virtue"
+},
+{
+  "id": 68,
+  "sanskrit": "यज्ञदानतपःकर्म न त्याज्यं कार्यमेव तत्।",
+  "transliteration": "yajña-dāna-tapaḥ-karma na tyājyaṁ kāryam eva tat",
+  "meaning": {
+    "en": "Acts of sacrifice, charity, and austerity should not be abandoned.",
+    "hi": "यज्ञ, दान और तप के कर्म त्यागने योग्य नहीं हैं।"
+  },
+  "reference": "Bhagavad Gita 18.5",
+  "category": "Duty"
+},
+{
+  "id": 69,
+  "sanskrit": "ईश्वरः सर्वभूतानां हृद्देशेऽर्जुन तिष्ठति।",
+  "transliteration": "īśvaraḥ sarva-bhūtānāṁ hṛd-deśe 'rjuna tiṣṭhati",
+  "meaning": {
+    "en": "The Lord dwells in the hearts of all beings.",
+    "hi": "ईश्वर सभी प्राणियों के हृदय में स्थित है।"
+  },
+  "reference": "Bhagavad Gita 18.61",
+  "category": "Divinity"
+},
+{
+  "id": 70,
+  "sanskrit": "भक्त्या मामभिजानाति",
+  "transliteration": "bhaktyā mām abhijānāti",
+  "meaning": {
+    "en": "By devotion one truly knows Me.",
+    "hi": "भक्ति से ही मुझे सही रूप में जाना जा सकता है।"
+  },
+  "reference": "Bhagavad Gita 18.55",
+  "category": "Devotion"
+},
+{
+  "id": 71,
+  "sanskrit": "नास्ति बुद्धिरयुक्तस्य",
+  "transliteration": "nāsti buddhir ayuktasya",
+  "meaning": {
+    "en": "There is no wisdom for one who lacks self-control.",
+    "hi": "असंयमी व्यक्ति को बुद्धि प्राप्त नहीं होती।"
+  },
+  "reference": "Bhagavad Gita 2.66",
+  "category": "Mind"
+},
+{
+  "id": 72,
+  "sanskrit": "तस्माद्योगी भवार्जुन",
+  "transliteration": "tasmād yogī bhavārjuna",
+  "meaning": {
+    "en": "Therefore, become a yogi, O Arjuna.",
+    "hi": "अतः हे अर्जुन! योगी बनो।"
+  },
+  "reference": "Bhagavad Gita 6.46",
+  "category": "Inspiration"
+},
+{
+  "id": 73,
+  "sanskrit": "नियतस्य तु संन्यासः कर्मणो नोपपद्यते।",
+  "transliteration": "niyatasya tu sannyāsaḥ karmaṇo nopapadyate",
+  "meaning": {
+    "en": "Renunciation of prescribed duty is not proper.",
+    "hi": "नियत कर्म का त्याग उचित नहीं है।"
+  },
+  "reference": "Bhagavad Gita 18.7",
+  "category": "Duty"
+},
+{
+  "id": 74,
+  "sanskrit": "बुद्धियुक्तो जहातीह उभे सुकृतदुष्कृते।",
+  "transliteration": "buddhi-yukto jahātīha ubhe sukṛta-duṣkṛte",
+  "meaning": {
+    "en": "One endowed with wisdom frees oneself from both good and bad deeds.",
+    "hi": "बुद्धि से युक्त व्यक्ति शुभ और अशुभ दोनों कर्मों से मुक्त हो जाता है।"
+  },
+  "reference": "Bhagavad Gita 2.50",
+  "category": "Liberation"
+},
+{
+  "id": 75,
+  "sanskrit": "आत्मैव ह्यात्मनो बन्धुः",
+  "transliteration": "ātmaiva hyātmano bandhuḥ",
+  "meaning": {
+    "en": "The self alone is one’s friend.",
+    "hi": "मनुष्य स्वयं ही अपना मित्र है।"
+  },
+  "reference": "Bhagavad Gita 6.5",
+  "category": "Self"
+},
+{
+  "id": 76,
+  "sanskrit": "कर्मणो ह्यपि बोद्धव्यं बोद्धव्यं च विकर्मणः।",
+  "transliteration": "karmaṇo hy api boddhavyaṁ boddhavyaṁ ca vikarmaṇaḥ",
+  "meaning": {
+    "en": "One must understand what action is, what wrong action is.",
+    "hi": "कर्म और विकर्म दोनों को समझना आवश्यक है।"
+  },
+  "reference": "Bhagavad Gita 4.17",
+  "category": "Wisdom"
+},
+{
+  "id": 77,
+  "sanskrit": "धर्मे चार्थे च कामे च मोक्षे च भरतर्षभ।",
+  "transliteration": "dharme cārthe ca kāme ca mokṣe ca bharatarṣabha",
+  "meaning": {
+    "en": "In matters of dharma, wealth, desire, and liberation.",
+    "hi": "धर्म, अर्थ, काम और मोक्ष के विषय में।"
+  },
+  "reference": "Mahabharata",
+  "category": "Philosophy"
+},
+{
+  "id": 78,
+  "sanskrit": "न हि सत्यसमं तपः",
+  "transliteration": "na hi satya-samaṁ tapaḥ",
+  "meaning": {
+    "en": "There is no austerity equal to truth.",
+    "hi": "सत्य के समान कोई तप नहीं है।"
+  },
+  "reference": "Mahabharata",
+  "category": "Truth"
+},
+{
+  "id": 79,
+  "sanskrit": "क्षमा धर्मस्य मूलम्",
+  "transliteration": "kṣamā dharmasya mūlam",
+  "meaning": {
+    "en": "Forgiveness is the root of dharma.",
+    "hi": "क्षमा धर्म का मूल है।"
+  },
+  "reference": "Mahabharata, Anushasana Parva",
+  "category": "Virtue"
+},
+{
+  "id": 80,
+  "sanskrit": "नास्ति मातृसमा छाया",
+  "transliteration": "nāsti mātṛ-samā chāyā",
+  "meaning": {
+    "en": "There is no shelter like that of a mother.",
+    "hi": "माता के समान कोई छाया नहीं।"
+  },
+  "reference": "Mahabharata",
+  "category": "Family"
+},
+{
+  "id": 81,
+  "sanskrit": "धर्मेणैव हतो हन्ति",
+  "transliteration": "dharmeṇaiva hato hanti",
+  "meaning": {
+    "en": "One who destroys dharma is destroyed by dharma.",
+    "hi": "जो धर्म को नष्ट करता है, वही धर्म द्वारा नष्ट होता है।"
+  },
+  "reference": "Mahabharata",
+  "category": "Dharma"
+},
+{
+  "id": 82,
+  "sanskrit": "सत्यमेव जयते",
+  "transliteration": "satyam eva jayate",
+  "meaning": {
+    "en": "Truth alone triumphs.",
+    "hi": "सत्य ही विजय प्राप्त करता है।"
+  },
+  "reference": "Mahabharata",
+  "category": "Truth"
+},
+{
+  "id": 83,
+  "sanskrit": "सर्वभूतहिते रतः",
+  "transliteration": "sarva-bhūta-hite rataḥ",
+  "meaning": {
+    "en": "One who delights in the welfare of all beings.",
+    "hi": "जो सभी प्राणियों के हित में लगा रहता है।"
+  },
+  "reference": "Bhagavad Gita 5.25",
+  "category": "Compassion"
+},
+{
+  "id": 84,
+  "sanskrit": "त्यागेनैके अमृतत्वमानशुः",
+  "transliteration": "tyāgenaike amṛtatvam ānaśuḥ",
+  "meaning": {
+    "en": "Through renunciation alone some attained immortality.",
+    "hi": "त्याग से ही कुछ लोगों ने अमरत्व प्राप्त किया।"
+  },
+  "reference": "Mahabharata",
+  "category": "Renunciation"
+},
+{
+  "id": 85,
+  "sanskrit": "नास्ति लोभसमो दोषः",
+  "transliteration": "nāsti lobha-samo doṣaḥ",
+  "meaning": {
+    "en": "There is no fault equal to greed.",
+    "hi": "लोभ के समान कोई दोष नहीं।"
+  },
+  "reference": "Mahabharata",
+  "category": "Ethics"
+},
+{
+  "id": 86,
+  "sanskrit": "यथा दीपो निवातस्थो",
+  "transliteration": "yathā dīpo nivāta-stho",
+  "meaning": {
+    "en": "Like a lamp in a windless place.",
+    "hi": "जैसे वायु रहित स्थान में दीपक।"
+  },
+  "reference": "Bhagavad Gita 6.19",
+  "category": "Meditation"
+},
+{
+  "id": 87,
+  "sanskrit": "ब्रह्मभूतः प्रसन्नात्मा",
+  "transliteration": "brahma-bhūtaḥ prasannātmā",
+  "meaning": {
+    "en": "One established in Brahman becomes joyful.",
+    "hi": "ब्रह्म में स्थित व्यक्ति प्रसन्नचित्त होता है।"
+  },
+  "reference": "Bhagavad Gita 18.54",
+  "category": "Liberation"
+},
+{
+  "id": 88,
+  "sanskrit": "अशान्तस्य कुतः सुखम्",
+  "transliteration": "aśāntasya kutaḥ sukham",
+  "meaning": {
+    "en": "How can there be happiness for one without peace?",
+    "hi": "अशांत व्यक्ति को सुख कहाँ से मिलेगा?"
+  },
+  "reference": "Bhagavad Gita 2.66",
+  "category": "Peace"
+},
+{
+  "id": 89,
+  "sanskrit": "न हि कर्तृत्वं न कर्माणि लोकस्य सृजति प्रभुः",
+  "transliteration": "na hi kartṛtvaṁ na karmāṇi lokasya sṛjati prabhuḥ",
+  "meaning": {
+    "en": "The Lord does not create actions or the sense of doership.",
+    "hi": "प्रभु न कर्मों का सृजन करते हैं न कर्तापन का।"
+  },
+  "reference": "Bhagavad Gita 5.14",
+  "category": "Philosophy"
+},
+{
+  "id": 90,
+  "sanskrit": "स्वधर्मे निधनं श्रेयः",
+  "transliteration": "sva-dharme nidhanaṁ śreyaḥ",
+  "meaning": {
+    "en": "Better to die performing one’s own duty.",
+    "hi": "अपने धर्म में मरना भी श्रेष्ठ है।"
+  },
+  "reference": "Bhagavad Gita 3.35",
+  "category": "Dharma"
+},
+{
+  "id": 91,
+  "sanskrit": "श्रद्धावान् लभते ज्ञानम्",
+  "transliteration": "śraddhāvān labhate jñānam",
+  "meaning": {
+    "en": "The faithful obtain knowledge.",
+    "hi": "श्रद्धावान व्यक्ति ज्ञान प्राप्त करता है।"
+  },
+  "reference": "Bhagavad Gita 4.39",
+  "category": "Knowledge"
+},
+{
+  "id": 92,
+  "sanskrit": "न मे भक्तः प्रणश्यति",
+  "transliteration": "na me bhaktaḥ praṇaśyati",
+  "meaning": {
+    "en": "My devotee never perishes.",
+    "hi": "मेरा भक्त कभी नष्ट नहीं होता।"
+  },
+  "reference": "Bhagavad Gita 9.31",
+  "category": "Devotion"
+},
+{
+  "id": 93,
+  "sanskrit": "मच्चित्तः सर्वदुर्गाणि तरिष्यसि",
+  "transliteration": "mac-cittaḥ sarva-durgāṇi tariṣyasi",
+  "meaning": {
+    "en": "With mind fixed on Me, you shall overcome all difficulties.",
+    "hi": "मुझमें चित्त लगाने से तुम सभी कठिनाइयों को पार कर जाओगे।"
+  },
+  "reference": "Bhagavad Gita 18.58",
+  "category": "Faith"
+},
+{
+  "id": 94,
+  "sanskrit": "समत्वं योग उच्यते",
+  "transliteration": "samatvaṁ yoga ucyate",
+  "meaning": {
+    "en": "Equanimity is called Yoga.",
+    "hi": "समभाव ही योग कहलाता है।"
+  },
+  "reference": "Bhagavad Gita 2.48",
+  "category": "Equanimity"
+},
+{
+  "id": 95,
+  "sanskrit": "न बुद्धिभेदं जनयेत्",
+  "transliteration": "na buddhi-bhedaṁ janayet",
+  "meaning": {
+    "en": "Do not disturb the minds of the ignorant.",
+    "hi": "अज्ञानी लोगों की बुद्धि में भ्रम उत्पन्न न करो।"
+  },
+  "reference": "Bhagavad Gita 3.26",
+  "category": "Wisdom"
+},
+{
+  "id": 96,
+  "sanskrit": "यतो धर्मस्ततो जयः",
+  "transliteration": "yato dharmas tato jayaḥ",
+  "meaning": {
+    "en": "Where there is dharma, there is victory.",
+    "hi": "जहाँ धर्म है, वहाँ विजय है।"
+  },
+  "reference": "Mahabharata",
+  "category": "Victory"
+},
+{
+  "id": 97,
+  "sanskrit": "सत्येन जयते नानृतम्",
+  "transliteration": "satyena jayate nānṛtam",
+  "meaning": {
+    "en": "Truth wins, not falsehood.",
+    "hi": "सत्य की विजय होती है, असत्य की नहीं।"
+  },
+  "reference": "Mahabharata",
+  "category": "Truth"
+},
+{
+  "id": 98,
+  "sanskrit": "धर्म एव हतो हन्ति",
+  "transliteration": "dharma eva hato hanti",
+  "meaning": {
+    "en": "Dharma, when destroyed, destroys.",
+    "hi": "धर्म को नष्ट करने वाला स्वयं नष्ट होता है।"
+  },
+  "reference": "Mahabharata",
+  "category": "Dharma"
+},
+{
+  "id": 99,
+  "sanskrit": "शान्तिः परमं सुखम्",
+  "transliteration": "śāntiḥ paramaṁ sukham",
+  "meaning": {
+    "en": "Peace is the highest happiness.",
+    "hi": "शांति ही परम सुख है।"
+  },
+  "reference": "Mahabharata",
+  "category": "Peace"
+},
+{
+  "id": 100,
+  "sanskrit": "सर्वभूतहिते रताः",
+  "transliteration": "sarva-bhūta-hite ratāḥ",
+  "meaning": {
+    "en": "Those who are devoted to the welfare of all beings.",
+    "hi": "जो सभी प्राणियों के हित में लगे रहते हैं।"
+  },
+  "reference": "Bhagavad Gita 5.25",
+  "category": "Compassion"
+},{
+      "id": 101,
+      "sanskrit": "कर्मण्येवाधिकारस्ते मा फलेषु कदाचन। मा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि॥",
+      "transliteration": "karmaṇy-evādhikāras te mā phaleṣhu kadāchana | mā karma-phala-hetur bhūr mā te saṅgo 'stvakarmaṇi ||",
+      "meaning": {
+        "en": "You have the right to perform your duties, but you are not entitled to the fruits of your actions. Never consider yourself the cause of the results, nor be attached to not doing your duty.",
+        "hi": "आपको अपने कर्तव्यों को निभाने का अधिकार है, लेकिन आप अपने कार्यों के फलों के हकदार नहीं हैं। कभी भी खुद को परिणामों का कारण न मानें, न ही अपने कर्तव्य को न करने से जुड़े रहें।"
+      },
+      "reference": "Bhagavad Gita 2.47",
+      "category": "Action"
+    },
+    {
+      "id": 102,
+      "sanskrit": "यद यदाचरति श्रेष्ठस्तत्तदेवेतरो जनः। स यत्प्रमाणं कुरुते लोकस्तदनुवर्तते॥",
+      "transliteration": "yad yad ācarati śhreṣhṭhas tat tad evetaro janaḥ | sa yat pramāṇaṁ kurute lokas tad anuvartate ||",
+      "meaning": {
+        "en": "Whatever actions great persons perform, common people follow. Whatever standards they set, the world follows.",
+        "hi": "महान व्यक्ति जो भी कार्य करते हैं, सामान्य लोग उनका अनुसरण करते हैं। वे जो भी मानक स्थापित करते हैं, दुनिया उनका अनुसरण करती है।"
+      },
+      "reference": "Bhagavad Gita 3.21",
+      "category": "Leadership"
+    },
+    {
+      "id": 103,
+      "sanskrit": "सहयज्ञाः प्रजाः सृष्ट्वा पुरोवाच प्रजापतिः। अनेन प्रसविष्यध्वमेष वोऽस्त्विष्टकामधुक्॥",
+      "transliteration": "saha-yajñāḥ prajāḥ sṛiṣhṭvā purovācha prajāpatiḥ | anena prasaviṣhyadhvam eṣha vo 'stviṣhṭa-kāmadhuk ||",
+      "meaning": {
+        "en": "In the beginning, the Creator created mankind along with duties, and said: 'Prosper through these; let these be the fulfiller of your wishes.'",
+        "hi": "शुरुआत में, सृष्टिकर्ता ने कर्तव्यों के साथ मानवजाति की रचना की, और कहा: 'इनके माध्यम से समृद्ध हों; ये आपकी इच्छाओं को पूरा करने वाले हों।'"
+      },
+      "reference": "Bhagavad Gita 3.10",
+      "category": "Unity"
+    },
+    {
+      "id": 104,
+      "sanskrit": "न हि ज्ञानेन सदृशं पवित्रमिह विद्यते। तत्स्वयं योगसंसिद्धः कालेनात्मनि विन्दति॥",
+      "transliteration": "na hi jñānena sadṛśaṁ pavitram iha vidyate | tat svayaṁ yoga-saṁsiddhaḥ kālenātmani vindati ||",
+      "meaning": {
+        "en": "In this world, there is nothing as purifying as knowledge. In due course of time, one who is successful in yoga will find knowledge within oneself.",
+        "hi": "इस संसार में ज्ञान के समान पवित्र कुछ भी नहीं है। समय के साथ, योग में सफल व्यक्ति अपने भीतर ज्ञान पाएगा।"
+      },
+      "reference": "Bhagavad Gita 4.38",
+      "category": "Knowledge"
+    },
+    {
+      "id": 105,
+      "sanskrit": "श्रेयान्स्वधर्मो विगुणः परधर्मात्स्वनुष्ठितात्। स्वधर्मे निधनं श्रेयः परधर्मो भयावहः॥",
+      "transliteration": "śreyān sva-dharmo viguṇaḥ para-dharmāt sv-anuṣṭhitāt | sva-dharme nidhanaṁ śreyaḥ para-dharmo bhayāvahaḥ ||",
+      "meaning": {
+        "en": "It is better to perform one's own duties imperfectly than to master the duties of another. Even death is better in doing one's own duty; another's duty brings danger.",
+        "hi": "अपने कर्तव्य को अपूर्ण रूप से करना दूसरे के कर्तव्यों में महारत हासिल करने से बेहतर है। अपने कर्तव्य को करते हुए मृत्यु भी बेहतर है; दूसरे का कर्तव्य खतरा लाता है।"
+      },
+      "reference": "Bhagavad Gita 3.35",
+      "category": "Dharma"
+    }
+
+
+
+]
+
+  
+}
