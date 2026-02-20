@@ -756,6 +756,6 @@ Yes! We welcome translations to Tamil, Telugu, Kannada, Bengali, and other langu
 
 **If this project helped you, consider giving it a ⭐ on GitHub!**
 
-[![GitHub Stars](https://img.shields.io/github/stars/yourusername/mahabharata-wisdom?style=social)](https://github.com/yourusername/mahabharata-wisdom)
+[![GitHub Stars](https://img.shields.io/github/stars/theparmendrasingh/MahabharataWisdom?style=social)](https://github.com/theparmendrasingh/MahabharataWisdom)
 
 </div>
