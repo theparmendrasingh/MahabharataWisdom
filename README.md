@@ -10,7 +10,7 @@
 [![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20iOS-blue?style=for-the-badge)]()
 
 <p align="center">
-  <img src="assets/app_icon.png" alt="Mahabharata Wisdom" width="150" height="150"/>
+  <img src="assets/logo.png" alt="Mahabharata Wisdom" width="150" height="150"/>
 </p>
 
 **Discover timeless teachings from 100+ legendary characters**  
@@ -43,18 +43,21 @@
 <td width="50%">
 
 ### 📚 100+ Character Stories
+
 - Complete biographies of legendary heroes
 - 10-minute inspiring tales
 - Modern life lessons you can apply today
 - Beautiful character-specific themes
 
 ### 🙏 Sacred Bhagavad Gita Verses
+
 - 100+ Sanskrit shlokas
 - Transliteration & pronunciation guide
 - English and Hindi translations
 - Deep meanings explained
 
 ### 🎯 Daily Inspiration
+
 - Character of the Day (rotates daily)
 - Wisdom of the Day quotes
 - Reading progress tracking
@@ -64,6 +67,7 @@
 <td width="50%">
 
 ### 🌓 Customizable Experience
+
 - **Dark Mode**: Easy on the eyes
 - **Light Mode**: Clean & bright
 - **System Theme**: Auto-matches device
@@ -71,6 +75,7 @@
 - **Bilingual**: Switch languages anytime
 
 ### 🔍 Smart Features
+
 - Instant character search
 - Category filters
 - Reading time estimates
@@ -78,6 +83,7 @@
 - Share with friends
 
 ### 🔒 Privacy & Offline
+
 - Zero data collection
 - No user accounts required
 - Completely offline capable
@@ -96,42 +102,40 @@
 ### Home Screen & Character of the Day
 
 <p align="center">
-  <img src="screenshots/01_home_screen.png" alt="Home Screen" width="250"/>
+  <img src="screenshots/home.webp" alt="Home Screen" width="250"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="screenshots/02_character_detail.png" alt="Character Detail" width="250"/>
+  <img src="screenshots/krishna.webp" alt="Character Detail" width="250"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="screenshots/03_sacred_verse.png" alt="Sacred Verse" width="250"/>
+  <img src="screenshots/verse.webp" alt="Sacred Verse" width="250"/>
 </p>
 
-*Beautiful home screen with daily character, stats cards, and wisdom quotes*
+_Beautiful home screen with daily character, stats cards, and wisdom quotes_
 
 ---
 
 ### Character List & Search
 
 <p align="center">
-  <img src="screenshots/04_character_list.png" alt="Character List" width="250"/>
+  <img src="screenshots/llist.webp" alt="Sacred Verse" width="250"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="screenshots/05_settings.png" alt="Settings" width="250"/>
+  <img src="screenshots/settings.webp" alt="Sacred Verse" width="250"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="screenshots/06_appearance.png" alt="Appearance" width="250"/>
+  <img src="screenshots/mode.webp" alt="Appearance" width="250"/>
 </p>
 
-*Browse 100+ characters, customize your reading experience*
+_Browse 100+ characters, customize your reading experience_
 
 ---
 
 ### Daily Wisdom & More
 
 <p align="center">
-  <img src="screenshots/07_daily_quote.png" alt="Daily Quote" width="250"/>
+  <img src="screenshots/daily.webp" alt="Sacred Verse" width="250"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="screenshots/08_dark_mode.png" alt="Dark Mode" width="250"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="screenshots/09_hindi.png" alt="Hindi Language" width="250"/>
+  <img src="screenshots/mode.png" alt="Dark Mode" width="250"/>
 </p>
 
-*Wisdom quotes, dark mode, and full Hindi language support*
+_Wisdom quotes, dark mode, and full Hindi language support_
 
 </div>
 
@@ -179,10 +183,9 @@
 
 <div align="center">
 
-
-
 <a href="https://play.google.com/store/apps/details?id=com.mahabharata_wisdom"><img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" alt="Get it on Google Play" height="80"/></a>
 &nbsp;&nbsp;&nbsp;
+
 <!--<a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Download_on_the_App_Store_Badge.svg" alt="Download on App Store" height="80"/></a>-->
 
 ⭐ Star this repo to stay updated on the official release!
@@ -325,10 +328,10 @@ mahabharata_wisdom/
 dependencies:
   flutter:
     sdk: flutter
-  provider: ^6.0.5              # State management
-  shared_preferences: ^2.2.2    # Local data storage
-  share_plus: ^7.2.1             # Social sharing
-  flutter_animate: ^4.3.0       # Smooth animations
+  provider: ^6.0.5 # State management
+  shared_preferences: ^2.2.2 # Local data storage
+  share_plus: ^7.2.1 # Social sharing
+  flutter_animate: ^4.3.0 # Smooth animations
 ```
 
 ---
@@ -455,15 +458,15 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
 
 <div align="center">
 
-| Metric | Count |
-|--------|-------|
-| 📖 Characters | 100+ |
-| 🙏 Bhagavad Gita Shlokas | 100+ |
-| 🌍 Languages | 2 (English, हिंदी) |
-| ⏱️ Total Reading Time | 1000+ minutes |
-| 📱 App Size | ~15 MB |
-| 🔒 Data Collected | 0 bytes |
-| 💰 Cost | Free Forever |
+| Metric                   | Count              |
+| ------------------------ | ------------------ |
+| 📖 Characters            | 100+               |
+| 🙏 Bhagavad Gita Shlokas | 100+               |
+| 🌍 Languages             | 2 (English, हिंदी) |
+| ⏱️ Total Reading Time    | 1000+ minutes      |
+| 📱 App Size              | ~15 MB             |
+| 🔒 Data Collected        | 0 bytes            |
+| 💰 Cost                  | Free Forever       |
 
 </div>
 
@@ -472,6 +475,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
 ## 🗺️ Roadmap
 
 ### ✅ Version 1.0 (Current)
+
 - [x] 100+ character stories with life lessons
 - [x] 100+ Bhagavad Gita verses
 - [x] Bilingual support (English/Hindi)
@@ -482,6 +486,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
 - [x] Completely offline capable
 
 ### 🚧 Version 1.1 (Next Release)
+
 - [ ] Audio narration (Text-to-Speech)
 - [ ] Bookmark specific verses
 - [ ] Notes & highlights
@@ -491,6 +496,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
 - [ ] Share individual quotes as images
 
 ### 🔮 Version 1.2 (Future)
+
 - [ ] Quiz mode for learning
 - [ ] Character comparison tool
 - [ ] Interactive family tree
@@ -499,6 +505,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
 - [ ] Community translations
 
 ### 💡 Version 2.0 (Vision)
+
 - [ ] iOS release
 - [ ] Web version
 - [ ] Podcast integration
@@ -516,6 +523,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ### What This Means
 
 ✅ **You Can:**
+
 - Use commercially
 - Modify freely
 - Distribute
@@ -523,10 +531,12 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 - Sublicense
 
 ❌ **You Cannot:**
+
 - Hold author liable
 - Use author's name for endorsement
 
 📋 **You Must:**
+
 - Include original license
 - Include copyright notice
 
@@ -535,17 +545,20 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ## 🙏 Acknowledgments
 
 ### Content Sources
+
 - **Mahabharata** - Ancient Sanskrit epic (public domain)
 - **Bhagavad Gita** - Sacred Hindu scripture (public domain)
 - **Translations** - Based on traditional scholarly interpretations
 
 ### Technologies & Tools
+
 - [Flutter](https://flutter.dev) - Google's UI toolkit
 - [Provider](https://pub.dev/packages/provider) - State management
 - [Material Design](https://material.io) - Design system
 - [Noto Sans Devanagari](https://fonts.google.com/noto/specimen/Noto+Sans+Devanagari) - Hindi font
 
 ### Inspiration
+
 - Ancient wisdom keepers and storytellers
 - Modern app design principles
 - The timeless relevance of epic narratives
@@ -592,6 +605,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 #### 🎉 Initial Release
 
 **Added**
+
 - 100+ complete character biographies with 10-minute stories
 - 100+ Bhagavad Gita shlokas with translations
 - Bilingual support (English and Hindi)
@@ -612,6 +626,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 - Smooth animations and transitions
 
 **Technical**
+
 - Built with Flutter 3.0
 - Provider state management
 - Local storage with SharedPreferences
@@ -696,16 +711,16 @@ Yes! We welcome translations to Tamil, Telugu, Kannada, Bengali, and other langu
 
 ### 🛡️ Privacy-First Architecture
 
-| Feature | Status |
-|---------|--------|
-| Data Collection | ❌ None |
-| User Tracking | ❌ None |
-| Analytics | ❌ None |
-| Ads | ❌ None |
-| Third-party SDKs | ❌ None |
-| Internet Required | ❌ No |
-| User Accounts | ❌ None |
-| Cloud Storage | ❌ None |
+| Feature           | Status  |
+| ----------------- | ------- |
+| Data Collection   | ❌ None |
+| User Tracking     | ❌ None |
+| Analytics         | ❌ None |
+| Ads               | ❌ None |
+| Third-party SDKs  | ❌ None |
+| Internet Required | ❌ No   |
+| User Accounts     | ❌ None |
+| Cloud Storage     | ❌ None |
 
 **Your data is YOUR data. Period.**
 
